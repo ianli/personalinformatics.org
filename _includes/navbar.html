@@ -1,0 +1,41 @@
+<!-- ============================== -->
+<!-- Navbar -->
+<!-- ============================== -->
+<nav class="navbar navbar-default" role="navigation">
+  <div class="container">
+    <div class="row" style="border-bottom:1px solid rgba(255,255,255,0.5)">
+      <div class="col-md-3">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/">Personal Informatics</a>
+        </div>
+      </div>
+      <div class="col-md-9 collapse navbar-collapse" id="navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li {% if page.section == "home" %}class="active"{% endif %}>
+            <a href="/">
+              <span class="glyphicon glyphicon-home"></span>
+            </a>
+          </li>
+          <li {% if page.section == "workshops" %}class="active"{% endif %}>
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Workshops <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><a href="/ubicomp2014">Ubicomp 2014</a></li>
+              <li {% if page.url == "/chi2013/index.html" %}class="active"{% endif %}><a href="/chi2013">CHI 2013</a></li>
+              <li><a href="/chi2012">CHI 2012</a></li>
+              <li><a href="/chi2011">CHI 2011</a></li>
+            </ul>
+          </li>
+          <li {% if page.section == "blog" %}class="active"{% endif %}>
+            <a href="http://blog.personalinformatics.org/">Blog</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</nav>

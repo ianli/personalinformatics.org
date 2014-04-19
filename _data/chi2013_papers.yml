@@ -1,0 +1,296 @@
+- id: balestrini
+  authors: Mara Balestrini
+  title: In favour of a multiplied self. Can empathy lead to personal behaviour change?
+  abstract: Within the field of Personal Informatics much research pursues the design
+    of applications for self-tracking to motivate behaviour change. Such tools usually
+    follow an 'egocentric' approach where the user is expected to reflect on and change
+    her behaviour by visualizing her own collected data. I suggest that a system where
+    the data of a user is mapped into the wellbeing of an external entity or a community,
+    with which the user establishes an affective bond, could lead to an alternative
+    approach towards self-awareness, based on empathy and vicarious emotions such
+    as altruism and compassion.
+- id: batalas
+  authors: Nikolaos Batalas, Panos Markopoulos
+  title: An In Situ Data Collection Platform for Personal Informatics
+  abstract: In this workshop paper we support the position for a more holistic view
+    of experience sampling and personal informatics software. We also discuss the
+    use of our platform, Tempest, as a means for prototyping Personal Informatics
+    applications.
+- id: bird
+  authors: Yan Zhou, Jon Bird, Anna Cox, Duncan Brumby
+  title: Estimating Usage Can Reduce the Stress of Social Networking
+  abstract: 'Social networks are increasingly popular and provide benefits such as
+    easy peer group communication. However, there is evidence that they can have negative
+    consequences, such as increased stress levels. For two weeks, we provided participants
+    with an objective measure of their social network usage and also asked them for
+    a daily estimate of their usage over the previous 24 hours. Although their social
+    network usage did not significantly change, participants’ perception of this activity
+    was transformed, with a reduction in perceived stress, an increase in satisfaction
+    and more generally an increase in their perception of control over time. We demonstrate
+    the potential of combining both estimates and objective measures of activity usage
+    in personal informatics systems: it can result in a transformation of attitudes
+    towards the activity and a reduction in the stress associated with it.'
+- id: detweiler
+  authors: Christian A. Detweiler, Alina Huldtgren, Nick Guldemond
+  title: Take a stance! Designing for healthy consumption
+  abstract: Personal informatics apps that promote healthy consumption share similar
+    aims, but vary in the means they adopt to meet them. The adopted means reflect
+    different stances. Stances are the positions that designers implicitly take on
+    a range of issues, such as personal information, freedom of choice and responsibility.
+    Judgments on values such as privacy, autonomy and accountability underlie these
+    stances. We argue for the use of stances as a tool to design personal informatics
+    apps for healthy consumption. Making stances explicit and exploring alternate
+    stances can help designers and stakeholders analyze means and their consequences,
+    and identify and explore alternative approaches. This can better align app’s approaches
+    with users' values, improving ethical acceptability, adoption and long-term use.
+    We examine a number of apps, identify the implicit stances they take, and propose
+    next steps toward using stances as a design tool.
+- id: doyle
+  authors: Julie Doyle, Lorcan Walsh, Antonella Sassu
+  title: Health and Wellness Self-Management for Older Adults
+  abstract: This position paper describes our ongoing work in the design of health
+    and wellness applications that support older adults in managing their wellbeing.
+    Specifically, this involves older adults self-reporting on various aspects of
+    their wellbeing and receiving feedback on such, to increase their awareness of
+    their health and to support them in maintaining or returning to a healthy state
+    of being. In designing this application, it was critical to involve older adults,
+    to understand their attitudes towards wellness, as well as assessing the effectiveness
+    of various types of input and feedback visualisations.
+- id: epstein
+  authors: Daniel A. Epstein, James Fogarty
+  title: Examining Obstacles to Sharing Fine-Grained Personal Activity Data
+  abstract: Many personal informatics applications integrate social sharing of sensed
+    activity data. Sharing can promote personal goals through social mechanisms such
+    as encouragement and competition. However, fine-grained sharing can often allow
+    people to infer the context of sensed activity. This can surface significant privacy
+    concerns, as people may unintentionally disclose aspects of their everyday life
+    unrelated to their motivations for sharing. We first discuss scenarios that motivate
+    fine-grained sharing but are restricted by current all-or-nothing approaches.
+    We then discuss our interests in exploring potential alternative approaches to
+    sharing fine-grained personal activity data.
+- id: fan
+  authors: Chloe Fan
+  title: The Future of Data Visualization in Personal Informatics Tools
+  abstract: In this position paper, I discuss data visualization trends in personal
+    informatics tools using examples from research, consumer tools, my experiences
+    in the Quantified Self (QS) community and companies, and challenges of visualizing
+    data at MetroMile.
+- id: frost
+  authors: Mads Frost, Jakob E. Bardram
+  title: 'MONARCA: A Personal Monitoring System for Bipolar Patients'
+  abstract: This position paper presents the development of a solution for monitoring
+    and treatment of bipolar disorder – the MONARCA Self-Assessment System. It touches
+    upon the design, the technical solution, and the deployments of the system, as
+    well as how users found the system.
+- id: hawkey
+  authors: Kirstie Hawkey, Derek Reilly
+  title: 'Finances, Fitness, and Fuel: Our Experiences Designing and Evaluating Personal
+    and Persuasive Informatics'
+  abstract: In this position paper we describe our ongoing work in the area of Personal
+    Informatics, focusing on three recent projects that span the domains of finances,
+    fitness, and energy consumption (fuel). To date, our research has focused primarily
+    on user requirements and the design on such tools. While we have evaluated our
+    initial designs in the lab, we have yet to evaluate in the wild. We discuss our
+    plans for doing so and describe the challenges we have yet to overcome.
+- id: hekler
+  authors: Eric B. Hekler, Winslow Burleson, Jisoo Lee
+  title: A DIY Self-Experimentation Toolkit for Behavior Change
+  abstract: Within personal informatics and Quantified Self (QS), great emphasis
+    has been placed on creating the systems for gathering and visualizing data to
+    support self-discovery. While this is a vital first step, a logical next step
+    is the development of self-experimentation tools focused on not only tracking
+    but also testing of alternative strategies for behavior change. Many behavior
+    change technologies provide the 'solution' to a problem rather than give individuals
+    the tools to self- experiment with alternative solutions; a tactic that fits particularly
+    well with QS. In this paper, we will briefly describe the conceptual frameworks
+    relevant to habit formation, particularly those that emphasize context, and then
+    we describe the Game as Life, Life as Game (GaLLaG) system developed by Burleson
+    et al. and how this tool along with other QS tools could be used as the starting
+    point of a DIY self-experimentation toolkit.
+- id: khovanskaya
+  authors: Vera Khovanskaya, Stephen Voida, Phil Adams, Geri Gay, Eric P.S. Baumer
+  title: The Value of a Critical Approach to Personal Health Informatics
+  abstract: 'Personal health informatics systems present data to encourage healthy
+    decision-making through self- knowledge. However, some consequences of these personal
+    health informatics systems have cast doubt on the ''quantified self'' movement:
+    namely, difficulties with sustained engagement, concerns about whether these interfaces
+    enable long-term behavior change, and narrowing the definition of ''healthiness''
+    to easily quantifiable metrics. We propose three design strategies for personal
+    health informatics and speculate on how they can begin to meet these concerns.
+    We are exploring how a critical design approach can be used to shift the focus
+    of personal informatics from quantifiable behavior change to changes in personal
+    outlooks on health. In this workshop, we hope to discuss these strategies with
+    other personal informatics researchers and work both to develop evaluation plans
+    for critical informatics systems and to begin integrating critical design approaches
+    into the design of conventional personal informatics systems.'
+- id: koeman
+  authors: Lisa Koeman, Yvonne Rogers
+  title: 'Enabling Foresight and Reflection: Interactive Simulations to Support Behaviour
+    Change'
+  abstract: 'The domains of personal informatics and persuasive technology have largely
+    focused on supporting self-reflection using previously collected data. In contrast,
+    we argue for a different novel approach: projecting forwards by enabling foresight.
+    By developing interactive simulations that can provide people with predictions
+    on how their current or theoretical behaviour will impact their goals, we hope
+    to encourage them to connect to the future. To study the usefulness of such foresight,
+    we will develop and evaluate a multi-faceted system aimed at supporting sustainable
+    lifestyles for urban inhabitants.'
+- id: konrad
+  authors: Short and Long-Term Benefits of Reflective Technologies
+  title: Artie Konrad, Steve Whittaker, Ellen Isaacs
+  abstract: New reflective systems are making it increasingly easier to make rich
+    records of everyday activities and later reflect on these records. While these
+    systems and other reflective tools such as Facebook Timeline are becoming more
+    popular, few systematic studies have investigated their effects. Our work uses
+    a combination of quantitative and qualitative methods to demonstrate short and
+    long-term well-being benefits of reflection and identifies two different mechanisms
+    that mediate these benefits. We also describe new work visualizing emotional habits.
+    Our findings have important therapeutic implications, and suggest that reflective
+    systems support natural adaptive memory processes.
+- id: lampinen
+  authors: Airi Lampinen, Jesse Haapoja, Johannes Koponen, Juha Leppanen
+  title: 'Social Media as Personal Informatics: Empowerment through Self-Reflection'
+  abstract: This paper examines personal informatics in the context of online news
+    reading and social media. We use the user profiles (“media fingerprints”) of the
+    online feature story service Scoopinion (www.scoopinion.org) as an empirical entry
+    point to discussing how online behavioral tracking in new media can be used to
+    empower users through self-reflection. We argue that there is potential to leverage
+    the vast sets of data that online services collect and manage for the personal
+    benefit of individuals who choose to engage with social media but often find it
+    hard to follow and control what data about them are available and who has access
+    to it.
+- id: larsen
+  authors: Jakob Eg Larsen, Andrea Cuttone, Sune Lehmann
+  title: 'QS Spiral: Visualizing Periodic Quantified Self Data'
+  abstract: In this paper we propose an interactive visualization technique QS Spiral
+    that aims to capture the periodic properties of quantified self data and let the
+    user explore those recurring patterns. The approach is based on time-series data
+    visualized as a spiral structure. The interactivity includes the possibility of
+    varying the time span and the time frame shown, allowing for different levels
+    of detail and the discoverability of repetitive patterns in the data on multiple
+    scales. We illustrate the capabilities of the visualization technique using two
+    quantified self data sets involving self-tracking of geolocation and physical
+    activity respectively.
+- id: liu
+  authors: Ming Liu, Rafael A. Calvo, Abelardo Pardo
+  title: Visualizing the effect of actions in personal informatics systems
+  abstract: In this paper we present Tracer, a system that tracks aspects of a user’s
+    cognitive and affective processes, and behavior through their personal writing,
+    social network website activity, browsing activity and physical activities. Tracer
+    contains several data analysis tools. We focus here on one of its features, an
+    Engagement Gauging Function that measures behavioral engagement. Tracer generates
+    four types of visualizations, individual, group, generic and specific visualizations.
+    Our future work will focus on how to effectively visualize the behavior and affect
+    data for supporting wellbeing and mental health.
+- id: santos
+  authors: Jose Luis Santos, Joris Klerkx, Erik Duval
+  title: Personal informatics for learning
+  abstract: Learning analytics dashboards support learners and teachers by enabling
+    awareness, reflection, sensemaking and improved understanding of learning behavior.
+    Our experiments show that many such applications do not meet student expectations.
+    Challenges include promoting change of behavior and increasing motivation. In
+    this paper, we present our results in the learning analytics.
+- id: smith
+  authors: Edward K. Smith, James Purtilo
+  title: 'Baloo: Personal Informatics for Decision Making'
+  abstract: While decision making is a well-studied area in cognitive psychology,
+    few quantitative tools exist to aid decision making, mitigate the array of biases
+    present in humans, and improve calibration. We are developing such a system, Baloo,
+    that assists users in quantifying and tracking their belief in factual propositions,
+    with the goal of combining these propositions into successful plans. With Baloo,
+    individuals and groups can easily assess the relationship between various beliefs,
+    and improve their predictive accuracy over time. In this paper, we describe the
+    design of Baloo.
+- id: thomaz
+  authors: Edison Thomaz
+  title: A Human-Centered Conceptual Model for Personal Health Informatics Data
+  abstract: Personal informatics is defined as the activity where people collect
+    and reflect on personal data to gain a better understanding of their own behavior.
+    This paper examines personal informatics in the context of health activities and
+    suggests a new conceptual model for self- tracking data through the lens of human-centered
+    theory. In light of this suggested model, the paper concludes with a discussion
+    of forthcoming challenges we will likely face as personal health informatics permeates
+    everyday life and the effect that will have on our socio-cultural values.
+- id: voida
+  authors: Stephen Voida, Tanzeem Choudhury, Geri Gay, Mark Matthews, Phil Adams,
+    Mashfiqui Rabbi, JP Pollak, Mengxi (Chrissie) Chi, Matthew Green, Hong Lu, Nicholas
+    D. Lane, Mu Lin, Andrew T. Campbell
+  title: 'Personal Informatics Can Be Stressful: Collecting, Reflecting, and Embedding
+    Stress Data in Personal Informatics'
+  abstract: In our research, we are examining how pervasive continuous sensing and
+    targeted ecological momentary assessment can be used to unobtrusively collect
+    stress data, and we are designing personal health informatics that can aggregate
+    and visualize these stress data over time and for different audiences. In this
+    position paper, we describe our recent and ongoing efforts in this area and articulate
+    some of the open questions raised by our work and that we hope to discuss during
+    the workshop.
+- id: white
+  authors: Andrew J. White, Tillmann Neben, Aliona von der Trenck, Armin Heinzl,
+    Georg W. Alpers
+  title: Personalized Tracking of Goals and Gains after Psychotherapy Using Behavioral
+    Data
+  abstract: 'A multitude of stimuli can trigger anxiety or fear. If anxiety becomes
+    pronounced and begins to impinge on a person''s social functioning, psychologists
+    speak of anxiety disorders. Most fears and anxieties are strongly tied to location:
+    for example, fear of bridges, crowded places, or elevators. Even when fear is
+    elicited by specific, animate stimuli such as dogs or spiders, there are often
+    strong ties with certain locations (e.g. the dog park). As a consequence of this
+    marked worry and anxiety, people with phobias often cease to approach these locations
+    – they avoid them. Besides the tremendous deleterious impact on general wellbeing
+    and personal life, the economic consequences of anxiety disorders also impacts
+    society. Exposure therapy is the treatment of choice for anxiety disorders and
+    involves deliberate, systematic confrontation of feared stimuli. Although highly
+    effective, return of fear post-treatment remains a significant problem for many
+    individuals. There is evidence to suggest that fears return due to a lack of regular
+    self-exposure to feared situations. We outline a software tool that allows feared
+    situations to be identified within psychotherapy sessions that can be later used
+    to create dynamic “fear maps”. These maps update as patients systematically confront
+    these locations. In addition, we outline how principles from gamification can
+    be used to depict quantified gains, and performance generally. Our application
+    collects GPS and self-report data collected by mobile phones. Tracking the location
+    of patients allows i) identification of movement patterns and ii) tagging of user''s
+    emotional ratings at specific locations. This information helps the users to better
+    quantify and understand the extent of their avoidance behavior, their progress
+    and achievements, and importantly, provides an individualized measure of relapse
+    potential.'
+- id: willett
+  authors: Wesley Willett, Lora Oehlberg
+  title: Visualizing Gulfs and Streaks - Peripheral Support for Goal-Setting & Habit-Forming
+    in Personal Informatics
+  abstract: Tools for systematically logging information about one's exercise, sleep,
+    diet, and other activities are increasingly commonplace. In spite of this, tools
+    and strategies for using this data to impact behavior and change habits are still
+    nascent. We present some reflections on goal-tracking and discuss a few initial
+    strategies for supporting goal-setting and habit-formation in a life-logging tool.
+    Our current work focuses on understanding the value of lightweight manual data
+    input and on helping users track goals by maintaining peripheral awareness of
+    'streaks' and 'gulfs' in their data. We illustrate our thinking with examples
+    from several initial sketches and prototypes.
+- id: williams
+  authors: Kaiton Williams
+  title: 'The Weight of Things Lost: Self-knowledge and Personal Informatics'
+  abstract: 'As a technologist and designer, I''m interested in the overlap between
+    personal informatics and modern subjectivity: in the stories we tell through,
+    and because of, our devices-as-companions. Personal informatics allows us to understand
+    information about ourselves but the path is not always a straightforward one where
+    more knowledge leads to more insight. The process of acquiring that knowledge,
+    and the personal transformations that come along with it, often combine to yield
+    surprising insights. I performed a year-long auto-ethnographic project of weight-loss
+    and self-transformation through personal informatics and I use that experience
+    here to make two arguments: for more embodied and autoethnographic evaluations,
+    and for expanding both design and evaluation criteria to include the rich and
+    contradictory relationships with ourselves and our world that the use of personal
+    informatics can generate.'
+- id: yang
+  authors: Yang Yang, Hyowon Lee, Cathal Gurrin
+  title: 'Lifelogging: New Challenges for Information Visualization on Mobile Platforms'
+  abstract: Lifelogging offers a lot of promise in the realm of self- monitoring
+    and reflection. The advent of personal devices with the potential for supporting
+    self-tracking, such as smartphones, has resulted in large amount and multi-faceted
+    data being created. Meanwhile, the consumption of collected lifelog data takes
+    place within a wider mobile environment. These diversifying devices opened up
+    new challenges for designers to create rich interactive visualizations under such
+    context. In this workshop paper, we introduce SenseSeer, a web-based lifelogging
+    application that passively tracking individual daily experience through built-in
+    sensors from users' smartphones. We present our approaches from the stage of data
+    collection to visualization of personal lifelogs on different mobile platforms.

@@ -1,0 +1,30 @@
+---
+layout: default
+title: "Personal Informatics in the Wild: Hacking Habits for Health &amp; Happiness - CHI 2013 Workshop"
+section: workshops
+---
+
+{% include chi2013_header.html %}
+
+<!-- ============================== -->
+<!-- Body -->
+<!-- ============================== -->
+<div class="container">
+  <div class="row">
+    <div class="col-md-9">
+      
+      <h2>Accepted papers</h2>
+
+      {% for paper in site.data.chi2013_papers %}
+        <p>
+          <a href="/docs/chi2013/{{ paper.id }}.pdf">{{ paper.title }}</a><br>
+          {{ paper.authors }}
+        </p>
+      {% endfor %}
+
+    </div>
+    <div class="col-md-3">
+      {% include chi2013_sidebar.html %}
+    </div>
+  </div>
+</div>
