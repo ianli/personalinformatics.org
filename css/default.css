@@ -122,14 +122,9 @@ header > .jumbotron h1 {
   color:#fff;
   text-shadow:0 2px 0 rgba(0,0,0,0.2);
 }
-header > .jumbotron h2 {
-  letter-spacing:0;
-  font-size:20px;
-  font-weight:normal;
-  color:#fff;
-}
 header > .jumbotron p {
   color:#fff;
+  text-shadow:0 2px 0 rgba(0,0,0,0.2);
 }
 header > .jumbotron .nav-pills>li>a {
   color:#fff;
