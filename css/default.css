@@ -1,0 +1,202 @@
+html {
+  -webkit-font-smoothing: antialiased;
+}
+body {
+  line-height:1.75;
+}
+a,
+a:hover {
+  color:#44a9eb;
+}
+h1, h2, h3, h4, h5, h6 {
+  margin:20px 0 20px;
+  letter-spacing:-0.03em;
+  font-weight:bold;
+  color:#555;
+}
+p {
+  margin:0 0 20px;
+}
+ul.bulletless {
+  padding-left:0;
+  list-style:none;
+}
+.dropdown-menu {
+  background-color:#fff;
+  border:none;
+}
+.dropdown-menu > li:hover > a {
+  background-color:#eee;
+}
+.dropdown-menu > .active > a,
+.dropdown-menu > .active > a:hover,
+.dropdown-menu > .active > a:focus {
+  color:inherit;
+  background-color:#ddd;
+}
+
+/*******************
+ * http://stackoverflow.com/questions/20476045/page-scrolls-to-top-also-fixed-navbar-when-external-link-opens-tab/20477243#20477243
+ */
+.anchor {
+  margin-top:-70px;
+  padding-top:70px;
+}
+
+
+
+.container,
+.jumbotron .container {
+  max-width:970px;
+}
+
+/*******************
+ * Navbar
+ */
+
+.navbar-default {
+  margin-bottom:0;
+  min-height:60px;
+  background-color:transparent;
+  border:none;
+  border-radius:0;
+}
+
+/*******************
+ * Navbar Brand
+ */
+
+.navbar-default .navbar-brand {
+  padding-top:20px;
+  padding-bottom:20px;
+  font-size:20px;
+  color:#fff;
+  font-weight:bold;
+  text-shadow:0 2px 0 rgba(0,0,0,0.2);
+}
+  .navbar-default .navbar-brand:hover {
+    color:#fff;
+  }
+
+/*******************
+ * Navbar Links
+ */
+
+.navbar-default .navbar-nav > li > a {
+  padding:20px 20px;
+  color:#fff;
+  text-shadow:0 2px 0 rgba(0,0,0,0.2);
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus,
+.navbar-default .navbar-nav > li.active > a,
+.navbar-default .navbar-nav > li.active > a:link,
+.navbar-default .navbar-nav > li.open > a,
+.navbar-default .navbar-nav > li.open > a:link {
+  padding-bottom:15px;
+  color:#fff;
+  background-color:transparent;
+  border-bottom:5px solid rgba(255,255,255,0.25);
+}
+  .navbar-default .navbar-nav > li.active > a:link {
+    border-bottom-color: rgba(255,255,255,0.5);
+  }
+
+.navbar-default .navbar-nav > li > a > .glyphicon {
+  color:#fff;
+}
+
+/*******************
+ * Header
+ */
+
+header > .jumbotron {
+  padding-top:40px;
+  background-color:transparent;
+}
+header > .jumbotron h1 {
+  letter-spacing:-0.03em;
+  line-height:1;
+  font-size:64px;
+  font-weight:bold;
+  color:#fff;
+  text-shadow:0 2px 0 rgba(0,0,0,0.2);
+}
+header > .jumbotron h2 {
+  letter-spacing:0;
+  font-size:20px;
+  font-weight:normal;
+  color:#fff;
+}
+header > .jumbotron p {
+  color:#fff;
+}
+header > .jumbotron .nav-pills>li>a {
+  color:#fff;
+}
+header > .jumbotron .nav-pills>li>a:hover,
+header > .jumbotron .nav-pills>li>a:focus {
+  color:#44a9eb !important;
+  background-color:rgba(255,255,255,0.8);
+}
+header > .jumbotron .nav-pills>li.active>a,
+header > .jumbotron .nav-pills>li.active>a:hover,
+header > .jumbotron .nav-pills>li.active>a:focus {
+  color: #44a9eb;
+  background-color: #fff;
+}
+
+/*******************
+ * Footer
+ */
+footer {
+  margin-top:40px;
+  margin-bottom:30px;
+  font-size:13px;
+}
+  footer .row:first-child {
+    padding-top:30px;
+    border-top:1px solid #ddd;
+  }
+  footer ul {
+    list-style:none
+  }
+  footer ul > li {
+    float:left;
+    padding-right:20px;
+  }
+
+
+.webpage-thumbnail {
+  margin-bottom:15px;
+  padding-top:8px;
+  height:160px;
+  overflow:hidden;
+  background:
+    url('img/titlebar-left.png') no-repeat top left / 24px 8px,
+    url('img/titlebar-right.png') no-repeat top right / 24px 8px,
+    url('img/titlebar-fill.png') repeat-x top left / 100% 8px;
+  box-shadow:0px 3px 7px rgba(0,0,0,0.25);
+}
+  .webpage-thumbnail > img {
+    width:100%;
+  }
+.image-thumbnail {
+  margin-bottom:15px;
+  padding:8px;
+  /*height:160px;*/
+  overflow:hidden;
+  box-shadow:0px 3px 7px rgba(0,0,0,0.25);
+}
+  .image-thumbnail > img {
+    width:100%;
+  }
+.project-thumbnail {
+  margin-bottom:15px;
+  height:160px;
+  overflow:hidden;
+  box-shadow:0px 3px 7px rgba(0,0,0,0.25);
+}
+  .project-thumbnail > img {
+    width:100%;
+  }
