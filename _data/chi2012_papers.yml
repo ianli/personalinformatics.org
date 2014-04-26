@@ -1,0 +1,224 @@
+- id: andrew
+  authors: Adrienne Andrew, Gaetano Borriello, James Fogarty
+  title: Understanding Self-Efficacy and the Design of Personal Informatics Tools
+  abstract: The design of many personal informatics tools or approaches for behavior
+    change can be influenced by Social Cognitive Theory, which suggests self-efficacy
+    impacts ability to change. Self-efficacy is easy to measure and indicates adherence
+    to behavioral strategies. This makes it an attractive construct for evaluation
+    of PI technologies. In this workshop paper, we discuss what self-efficacy is,
+    how to measure it, and three factors that impact the measurements.
+- id: aseniero
+  authors: Bon Adriel Aseniero
+  title: Deep Personalization in Tools for Reflection
+  abstract: Personal informatics (PI) tools that support reflection are “personalized”
+    insofar as the data consists of an individual’s data. Typically, this data is
+    presented in visualizations that are generic and non-individuated. In this paper,
+    we argue for deep personalization, where the visualizations are constructed by
+    individuals. Such functionality gives individuals the power to build visualizations
+    that are personally meaningful, allowing them to meet and address personal needs.
+    We illustrate the power of this approach by considering a case study of the design
+    of a multi-faceted reflection tool. Reflecting on the deep personalization of
+    the design process, we propose an approach that will allow individuals to personalize
+    their own visualizations.
+- id: barua
+  authors: Debjanee Barua, Judy Kay, Bob Kummerfeld, Cecile Paris
+  title: A Framework for Modelling Goals in Personal Lifelong Informatics
+  abstract: Goals and goal-setting play an important role in personalinformatics
+    because they link the data within personalinformatics systems to core problems
+    in people’s lives.This paper presents a framework for personal informaticsbased
+    on a user model representing user goals. We arecreating a domain speciﬁc ontology
+    for setting lifelongwellbeing goals, and a generic ontology of attributesassociated
+    with goals based on goal-setting theory. Usercontrol is the key to this framework
+    as it enables users toset meaningful goals in relation to their individual abilitiesand
+    create application models that link information storedin personal digital devices
+    to a particular goal. Weenvisage that this novel approach will facilitate lifelongpersonal
+    goal management for individual user.
+- id: bentley
+  authors: Frank Bentley, Konrad Tollmar, Cristobal Viedna
+  title: 'Personal Health Mashups: Mining significant observations from wellbeing
+    data and context'
+  abstract: There has recently been large growth in relatively inexpensive consumer
+    devices that capture health and wellbeing data. However, most of these devices
+    are not connected to each other and each has their own separate web portal. We
+    will describe our Health Mashups system and how the data mined from multiple wellbeing
+    sensors and contextual information has helped our participants learn deeper insights
+    about their wellbeing and inspire positive changes in their lives which are not
+    visible in traditional time-series plots.
+- id: burns
+  authors: Patrick Burns, Shlomo Berkovsky, Christopher Lueg
+  title: 'Using Personal Informatics to Motivate Physical Activity: Could we be Doing
+    it Wrong?'
+  abstract: The global level of obesity and overweight is on the increase. Personal
+    informatics – tools which assist users to collect and view information on their
+    behaviours and habits – could help to reverse this trend by making users more
+    aware of their daily level of physical activity. Most tools available use high-complexity
+    high-engagement interfaces to convey this information. We argue that simpler interfaces
+    may be more suitable for users who are not highly motivated to undertake physical
+    activity. We discuss our recent work in designing and evaluating such an interface.
+- id: fan
+  authors: Chloe Fan, Jodi Forlizzi, Anind Dey
+  title: 'Spark: Visualizing Physical Activity Using Abstract, Ambient Art'
+  abstract: Many consumer personal informatics tools use charts to visualize complex
+    data, help people better understand their behavior, and ultimately guide them
+    to change their behavior. Informative art [5] as a form of visual representation
+    has not been extensively explored in displaying personal information, but it has
+    the potential to provide ambient, public, non-intrusive, playful, and interactive
+    feedback that could be more engaging than reflecting on static charts. In this
+    workshop paper, we describe Spark, an application that visualizes physical activity
+    data as information art, and propose a study evaluating the effectiveness of such
+    visualizations in the realm of personal informatics.
+- id: garbett
+  authors: Andrew Garbett, Conor Linehan, Ben Kirman, Jamie Wardman, Shaun Lawson
+  title: How dangerous is your life? Personalising Government Open Crime Data
+  abstract: In this paper, we present Fearsquare, an application that allows people
+    to engage with Government Open Data in a way that is contextualised to their own,
+    individual, everyday life. The application mashes geo-located crime statistics
+    with personal check-ins registered with the social media service FourSquare to
+    give users a realistic representation of the levels of crime that occur in the
+    places that they frequent or visit. The application is presented as an example
+    of how Open Data can be given individual context and tailored for used in the
+    field of personal informatics, as well as an example of how social media can be
+    used to stimulate engagement with, as well as facilitate access and add value
+    to, such data.
+- id: han
+  authors: Yi Han, Tae-Jung Yun, Rosa I. Arriaga, Gregory D. Abowd
+  title: How to Design Persuasive Health Technologies for Adolescents with Chronic
+    Illness?
+  abstract: In this workshop, we will share our experience of working with individuals
+    with asthma and diabetes as well as their caregivers. In our work we have focused
+    on understanding how to improve both the physiological and psychological aspect
+    of disease outcomes. The goal is to discuss the role that persuasive health technologies
+    can have in improving the adherence and self-monitoring of adolescents battling
+    these diseases.
+- id: karapanos
+  authors: Evangelos Karapanos
+  title: 'Beyond Experience Sampling: Evaluating Personal Informatics with Technology-Assisted
+    Reconstruction'
+  abstract: Experience Sampling has been considered the golden standard of in-situ
+    measurement, yet, at the expense of high burden to participants. In this paper
+    we propose Technology-Assisted Reconstruction (TAR), a methodological approach
+    that combines passive logging of users’ behaviors with use of these data in assisting
+    the reconstruction of behaviors and experiences. Through a number of recent and
+    ongoing projects we will discuss how TAR may be employed for the evaluation of
+    personal informatics systems, but also, conversely, how ideas from the field of
+    personal informatics may contribute towards the development of new methodologies
+    for in-situ evaluation.
+- id: kay
+  authors: Matthew Kay, Eun Kyoung Choe, Jesse Shepherd, Benjamin Greenstein, Nathaniel
+    F. Watson, Sunny Consolvo, Julie A. Kientz
+  title: 'Lullaby: Capturing the Unconscious in the Sleep Environment'
+  abstract: Research has shown that environmental factors can be one of the major
+    causes of poor sleep quality and inter-rupted sleep [8], which can contribute
+    to daytime sleepiness and fatigue. In particular, a room that is too warm [11],
+    has improper lighting [10], or is noisy [1] can have a negative impact on sleep.
+    While some of these environmental factors are observable, others may be subtle.
+    Individuals who have poor sleep quality can often have difficulty evaluating the
+    cause or severity of their sleep difficulties [3]. We present preliminary re-sults
+    of an ongoing study of Lullaby, a capture and ac-cess system for the sleep environment,
+    and discuss some aspects of designing capture and access for un-conscious experience.
+- id: larsen
+  authors: Jakob Eg Larsen, Arkadiusz Stopczynski, Carsten Stahlhut, Michael Kai
+    Petersenm, Lars Kai Hansen
+  title: A Cross-Platform SmartphoneBrain Scanner
+  abstract: We describe a smartphone brain scanner with a low-costwireless 14-channel
+    Emotiv EEG neuroheadset interfacingwith multiple mobile devices. This personal
+    informaticssystem enables minimally invasive and continuouscapturing of brain
+    imaging data in natural settings. Thesystem applies an inverse Bayesian framework
+    to spatiallyvisualize the activation of neural sources real-time in a 3Dbrain
+    model or to visualize the power of brainwaves withinspeciﬁc frequencies. We describe
+    the architecture of thesystem and discuss initial experiments.
+- id: muller
+  authors: Ryan Muller, Yanjin Long, Kenneth R. Koedinger
+  title: Personal informatics for self-regulated learning
+  abstract: We propose self-regulated learning, particularly with the use of web-based
+    resources, as a new domain for personal informatics. We consider development in
+    intelligent computer-based student modeling that can provide sophisticated data
+    for reflection and describe a preliminary system for collecting and visualizing
+    data from web resources for this purpose.
+- id: munson
+  authors: Sean Munson
+  title: Mindfulness, Reflection, and Persuasion in Personal Informatics
+  abstract: A major design choice in personal informatics applications is how persuasive
+    versus reflective an application will be. That is, will the system nudge people,
+    unaware, toward goals a designer intends, will it help them set goals and then
+    follow through on them, or will it surface data in a neutral way, allowing people
+    to learn more about themselves but without a push to change or maintain their
+    behavior in any way?
+- id: pina
+  authors: Laura Pina, Ernesto Ramirez, William Griswold
+  title: 'Fitbit+: A behavior-based intervention system to reduce sedentary behavior'
+  abstract: Self-tracking wearable devices are being used to track calorie consumption
+    and physical activity, to support self-awareness and healthy behavior. These devices
+    automatically capture desirable behaviors (such as walking) but do not typically
+    detect unhealthy behaviors (such as sitting for a long period of time) or intervene
+    in the moment to persuade users to correct these unhealthy behavior (e.g., by
+    taking a break to go for a walk). There is an increasing trend for people with
+    low physical activity occupations to sit for long periods of time, yet research
+    suggests that lengthy sitting, independent of overall physical activity level,
+    increases the risk of weight gain and mortality[4] . We aim to decrease the duration
+    of sedentary bouts in the workplace by detecting when people have been inactive
+    for a long time and then prompting them to do some physical activity. We present
+    the design of Fitbit+, a system that realizes this strategy by leveraging Fitbit’s
+    near real-time, automated step logging to detect sedentary behavior and then prompt
+    users to take a walking break.
+- id: ploderer
+  authors: Bernd Ploderer, Wally Smith, Steve Howard, Jon Pearce, Ron Borland
+  title: Ambivalence about (Inter)Personal Informatics for Smoking Cessation
+  abstract: We explore user ambivalence towards interpersonal informatics systems
+    for smoking cessation. Smokers desire support through such systems to help them
+    reflect on their habits and create strategies for changing them, yet at the same
+    time they are reluctant to share personal information via these systems. We conducted
+    interviews with smokers and recent ex-smokers to discuss their current practices
+    to quit smoking and to evaluate a prototypical smoking cessation application.
+    We discuss the different facets of their ambivalence towards collecting, sharing,
+    and reflecting on personal information via interpersonal informatics systems.
+    We close with a summary of the main challenges emerging from such ambivalence
+    and potential directions to address them.
+- id: polleti
+  authors: Julia Polleti, Dominikus Baur, Tony Tang, Sheelagh Carpendale
+  title: ECO|Balance – Exploring Design Issues for Mobile Persuasion
+  abstract: 'Engaging people to regularly reflect on their own behavior is a crucial
+    step towards changing it for the better. In this paper we present ECO|Balance,
+    a set of interactive design metaphors for mobile devices that aim towards enticing
+    continued engagement through using visual appeal and avoiding factors that chastise.
+    As a bridge between data visualization and information art the idea is to keep
+    people interested in repeatedly working with and analyzing their data. We chose
+    the scenario of personal mobility and reducing one’s carbon footprint and created
+    a series of four animated designs: Pie Flow, Jelly Fish, Footprints and Organic
+    Flowers that explore different approaches to representation and interaction. We
+    discuss our main goals of long-term enticement through visual appeal and subtlety.'
+- id: ramirez
+  authors: Ernesto Ramirez, Eric Hekler
+  title: Digital Histories for Future Health
+  abstract: In this paper we describe the opportunity for digital behavioral histories
+    to empower individuals to engage in positive health behaviors. The digital trails
+    we leave by using various social, mobile and web services and self-tracking tools
+    can be used to create a compelling digital narrative of past behaviors. The use
+    of these digital narratives should be explored for the purpose of facilitating
+    self-efficacy and positively re-framing health behaviors. We first describe the
+    digital environment that supports our concept of digital histories. We then explore
+    the current methods being employed by health services. Lastly, we explain the
+    theoretical value of digital narratives and give examples of possible implementation
+    strategies that could be used to influence health behaviors.
+- id: sosik
+  authors: Victoria Schwanda Sosik, Dan Cosley
+  title: Thinking about Side Effects of Personal Informatics Systems
+  abstract: In this paper we discuss how Personal Informatics systems that aggregate
+    and display data back to users can have unintended side effects. Based on three
+    examples from our prior work, we see that these side effects can be negative and
+    vary from discouraging use of the system to creating tunnel vision where users
+    bias parts of their experience over others. However in some cases these side effects
+    are not negative, just unexpected. Regardless of their valence, it is important
+    to consider the possibilities of these side effects when designing and evaluating
+    personal informatics systems, and we present a few strategies for being attentive
+    to these effects early on.
+- id: thomaz
+  authors: Edison Thomaz, Thomas Ploetz, Irfan Essa, Gregory D. Abowd
+  title: 'Hydrostream: A Platform for Collecting, Annotating and Analyzing Water
+    Pressure for Health Applications'
+  abstract: We are developing Hydrostream, a server-based platform for the collection,
+    visualization, annotation and analysis of water pressure in a home setting. While
+    designed with health applications in mind, Hydrostream can be easily applied towards
+    more general-purpose personal informatics applications. In this paper we describe
+    the system in detail, present motivating design goals and discuss challenges and
+    opportunities.
