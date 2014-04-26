@@ -1,0 +1,30 @@
+---
+layout: default
+title: "Personal Informatics in Practice: Improving Quality of Life Through Data - CHI 2012 Workshop"
+section: workshops
+---
+
+{% include chi2012_header.html %}
+
+<!-- ============================== -->
+<!-- Body -->
+<!-- ============================== -->
+<div class="container">
+  <div class="row">
+    <div class="col-md-9">
+
+      <h2>Accepted papers</h2>
+
+      {% for paper in site.data.chi2012_papers %}
+        <p>
+          <a href="/docs/chi2012/{{ paper.id }}.pdf">{{ paper.title }}</a><br>
+          {{ paper.authors }}
+        </p>
+      {% endfor %}
+
+    </div>
+    <div class="col-md-3">
+      {% include chi2012_sidebar.html %}
+    </div>
+  </div>
+</div>
