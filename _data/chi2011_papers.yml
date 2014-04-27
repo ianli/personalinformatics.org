@@ -1,0 +1,226 @@
+- id: alabi
+  authors: Halimat Alabi, Bruce Gooch
+  title: Mobile Device Application of Cognitive Behavioral Therapy Techniques
+  abstract: This paper explores the design and implementation of an anxiety management
+    application for transmission on mobile devices. The application employs cognitive
+    behavioral therapy (CBT) methodology and is designed for the 16 to 25 year old
+    demographic. Normally used in face to face therapeutic interactions, the use of
+    a mobile application is unique in that it supplies the patient with just in time
+    access to the therapeutic techniques necessary to manage their condition. We plan
+    to evaluate the efficacy of this the application in real world deployment to a
+    statistically significant user population.
+- id: bales
+  authors: Elizabeth Bales, William Griswold
+  title: 'Interpersonal Informatics: understanding ourselves through our communities'
+  abstract: Recent research in social network science has found that that what we
+    do and say flows through our social network, impacting our friends, our friends’
+    friends, and beyond. Conversely, our own personal choices are also the influenced
+    by the social networks we participate in. We introduce the area of interpersonal
+    informatics, a class of tools that allows groups of people to collect, aggregate,
+    analyze, and share personally relevant information. The goal of interpersonal
+    informatics is to help people gain awareness of how those around them affect their
+    habits, beliefs, and health.
+- id: brubaker
+  authors: Jed R. Brubaker, Sen H. Hirano, Gillian R. Hayes
+  title: 'Lost in Translation: Three challenges for the collection and use of data
+    in personal informatics'
+  abstract: 'As personal informatics tools grow in number, interpretation and interoperability
+    of data will become increasingly important. In this paper, we share insights from
+    our development of Estrellita, a medical tracking system for high-risk infants,
+    and our ongoing research in the area of social media. We highlight three challenges
+    relevant to the area of personal informatics: determining context, assumptions
+    around "personal" use, and the social implications of representation.'
+- id: dabbish
+  authors: Laura Dabbish, Zachary Wise
+  title: 'SeeMail: Visualizing Email Response'
+  abstract: We are developing SeeMail, a web-based system for visualizing email response
+    patterns. SeeMail processes user email headers to generate visual summaries of
+    response behavior. In this position paper, we describe the motivation for SeeMail
+    interface and some results from a think-aloud study of the system.
+- id: pommeranz
+  authors: Christian Detweiler, Alina Pommeranz, Catholijn M. Jonker
+  title: Personal Informatics for Reflection on Personal Values
+  abstract: In this paper we advocate the use of personal informatics systems for
+    self-reflection on personal values. We describe the role values play as guiding
+    principles in people’s lives. We then describe Value- Sensitive Design, an approach
+    to the design of technology that aims to account for values throughout the design
+    process. We subsequently argue that personal informatics, in its focus on self-reflection,
+    is well-suited as a means for discovering and understanding personal values, which
+    can then be used as a starting point for Value-Sensitive Design. Finally, we provide
+    a preliminary description of a mobile application we will implement that will
+    support reflection on personal values.
+- id: gonzales
+  authors: Amy L. Gonzales, JP Pollak, Daniela Retelny, Eric P.S. Baumer, Geri Gay
+  title: 'A Mobile Application for Improving Health Attitudes: Being Social Matters'
+  abstract: This paper describes a pilot test of a mobile phone application, VERA,
+    (Virtual Environments to Raise Awareness) designed to improve attitudes about
+    health by increasing awareness of health behaviors through use of a photolog.
+    VERA was tested in a group and individual setting over the course of 2 weeks.
+    Quantitative and qualitative data were collected. Participants in the group condition
+    rated themselves as more aware of health behaviors and having more self- control
+    after using the system. These results are discussed using a social psychological
+    theory of self- perception and public commitment.
+- id: grevet
+  authors: Catherine Grevet, Elizabeth D. Mynatt
+  title: Integrated model for multifaceted behavior change
+  abstract: In this paper we describe an integrated model for supporting multifaceted
+    behavior change. We propose to combine information used to inform a current behavior
+    with information to motivate a relevant new behavior. Towards this goal, we propose
+    a model composed of the transtheoretical model, the theory of planned behavior
+    and the stage-based model of personal informatics to design multifaceted systems.
+- id: hangal
+  authors: Sudheendra Hangal, Monica S. Lam
+  title: Sentiment Analysis on Personal Email Archives
+  abstract: A significant portion of a user’s digital past is recorded in the form
+    of email messages, SMS texts, tweets, status up- dates and blog posts. We view
+    this personal text archive as a personal informatics system that captures deep
+    and meaningful information for the user. However, it is a challenge to efficiently
+    browse and extract useful infor- mation from an unstructured text corpus spanning
+    tens of thousands of entries accumulated over many years. We propose the use of
+    sentiment analysis techniques on users’ personal text archives to aid in the task
+    of per- sonal reflection and analysis . We have built and publicly released a
+    system called Muse that processes an email archive, and slices it across different
+    sentiment facets, such as those expressing various emotions, congratula- tory
+    messages, and messages related to family matters, religion, and health. These
+    slices are used for visualizing the archive and as entry point into browsing the
+    actual messages. We describe some early experiences with this system.
+- id: hekler
+  authors: Eric B. Hekler, Abby C. King, Banny Banerjee, Thomas Robinson, Martin
+    Alonso, Jesse Cirimele, Matthew P. Buman, Frank Chen
+  title: 'A Case Study of BSUED: Behavioral Science-informed User Experience Design'
+  abstract: The skyrocketing costs of healthcare, the obesity epidemic, and the rapid
+    ageing of the global population collectively create a critical need for evidence-based
+    strategies for promoting health and wellness. Smartphone apps offer new opportunities
+    for promoting health but despite the promise of these apps, most lack an evidence-informed,
+    theoretical rationale underlying the methods for behavior change. The MILES (Mobile
+    Interventions for Lifestyle Exercise at Stanford) group is developing three theoretically-based
+    applications that use different motivational frames for promoting behavior change
+    and health. In this paper, we will discuss our behavioral science-informed user
+    design (or BSUED) process.
+- id: hofer
+  authors: Erik Hofer
+  title: 'Designing Personal Informatics Designers: Creating a Graduate Course in
+    Personal Informatics'
+  abstract: In this position paper, I describe the design of a graduate-level course
+    in user-experience and interaction design for personal informatics applications.
+    This master’s level course was taught in Winter 2011 at the University of Michigan
+    School of Information in order to introduce students interested in designing personal
+    informatics tools to a variety of interdisciplinary design challenges inherent
+    in personal informatics applications, including measurement theory, methods, models
+    of behavior change, game dynamics, visualization and ethics.
+- id: kamal
+  authors: Noreen Kamal, Sidney Fels, Mike Blackstock
+  title: 'Personal Health Informatics: What is the role for online social networks?'
+  abstract: Personal health informatics can be a key mechanism to allow individuals
+    to visualize and track health behavior. Providing visibility and feedback of one’s
+    diet and activity level is one way to motivate positive health behavior change.
+    In our survey reported here, we note that personal health information such as
+    nutritional intake and activity level are not being stored consistently by people
+    either offline or online. We also report on the findings from our follow up interviews
+    that indicate the importance of social influences on health behavior. They suggest
+    that the use of online social networks may be helpful to facilitate health behavior
+    change. However, challenges such as individual privacy concerns and the difficulty
+    in entering consistent and accurate health information need to be overcome before
+    social networks can be used to store personal health information.
+- id: kay
+  authors: Matthew Kay, Eun Kyoung Choe, Jesse Shepherd, Benjamin Greenstein, Sunny
+    Consolvo, Patrick Gage Kelley, Julie Kientz
+  title: 'Lullaby: Environmental Sensing'
+  abstract: 'We are developing a system to help users improve the quality of their
+    sleep by monitoring environmental factors that disrupt sleep and providing feedback.
+    This system, called Lullaby, has several design goals. Lul- laby’s sensor suite
+    should be practical for deployment into bedrooms: it must be unobtrusive, inexpensive,
+    and respect users’ privacy in this sensitive context. Lullaby should identify
+    relationships between sleep disruptions and environmental factors and reflect
+    those back to the user. Finally, Lullaby should provide con- crete recommendations
+    for addressing the identified sleep disruptors. In this paper, we describe the
+    design of Lullaby’s sensor suite and user interface, and how it will support personal
+    use in the home.'
+- id: martino
+  authors: Jacquelyn Martino, Patrick Wagstrom
+  title: 'Your personal brand: itʼs not just you'
+  abstract: 'Brand identity is relevant not just for companies, but also for individuals.
+    Some advocate complex strategies for personal brand creation, but we assert that
+    social network interactions in Facebook, LinkedIn and Twitter implicitly define
+    a personal brand. We posit that the chain of people and entities with whom the
+    individual interacts both explicitly and implicitly as well as the topics of those
+    interactions is core to three facets of personal brands: actual, targeted, and
+    perceived. Analysis and refinement of personal information generated in network
+    relations can quickly create a personal brand. This paper presents an experiment
+    to explore our position.'
+- id: matthews
+  authors: Mark Matthews
+  title: 'Relapse Prevention: Personal Informatics for Clinical Mental Health'
+  abstract: 'Recent years has seen an increase in the development of tools to support
+    reflection and increase self- awareness. However, despite the apparent relevance
+    of these technologies to helping people with serious mental health problems in
+    clinical settings, there has been little work to date. Bipolar Disorder is a serious
+    clinical mental disorder typified by a cycle between highs and lows. It requires
+    life-long management involving careful monitoring of personal symptoms and activities.
+    Signal events, warning signs that a relapse is about to occur, if reported can
+    help prevent relapse. Typically, this information is not reported. The goal of
+    this project is to develop a tool to help individuals, their families and therapists
+    identify life patterns that can lead to relapse in order to prevent it. This tool
+    will involve 3 main sources of information: self-recorded data, sensor information
+    and soft-sensors and data from the person''s social group. There is considerable
+    potential for the well considered application of existing monitoring technologies
+    to provide effective and relatively low-cost supports to individuals with serious
+    mental health disorders.'
+- id: meschtscherjakov
+  authors: Alexander Meschtscherjakov, Manfred Tscheligi
+  title: Experience Sampling as Personal Informatics Tools for Persuasion
+  abstract: In this position paper we propose the use of experience sampling and
+    contextual diary tools as personal information applications to foster attitude
+    and behavior change among individuals. Over the last years a diversity of these
+    tools have been proposed in academics to research user behavior and user experience
+    in-situ. We suggest utilizing these tools to help people collect personal information
+    and trigger desired behavior changes. We present the Maestro approach, a concept
+    to collect context data and study user behavior in realistic environments by using
+    client- server architecture.
+- id: moraveji
+  authors: Neema Moraveji, Neekaan Oshidary, Roy Pea, BJ Fogg
+  title: Calming Technologies
+  abstract: Calming technologies are interactive systems that help users maintain
+    optimal cognitive, physiological, and emotional resting state even while they
+    performing tasks. We attribute the emergence of calming technologies to the widely
+    acknowledged benefits of stress- and anxiety-reduction in physical health, productivity,
+    and performance. We describe observed approaches to calming technologies and motivate
+    researchers of personal informatics to consider how their work aligns or is at
+    odds with the goals of calming. Personal informatics, persuasive systems, and
+    calming technology overlap due to the prevalence of sensors and feedback in an
+    attempt to influence user behavior.
+- id: price
+  authors: Blaine A. Price, Marian Petre, Yvonne Rogers
+  title: Some Challenges in Activity and Sleep Monitoring for Personal Informatics
+  abstract: In this position paper we review a range of activity and sleep monitoring
+    devices and discuss some of the challenges they raise for personal informatics
+    research.
+- id: romero
+  authors: Natalia Romero, Martijn Vastenburg
+  title: Sharing Annotated Personal Data
+  abstract: In the design and development of personal informatics systems, we address
+    the challenge of linking sensor- based data (location, movement, ESG, etc.) to
+    experience data, so people using personal informatics systems could share meaningful/affective
+    information with their community.
+- id: thieme
+  authors: Anja Thieme, Jack Weeden,  Nicole Kraemer, Shaun Lawson, Patrick Olivier
+  title: 'BinCam: Waste Logging for Behavioral Change'
+  abstract: We present BinCam, a personal informatics system to monitor individuals’
+    food waste and recycling behavior. As such, it uses an augmented kitchen bin to
+    automatically capture and log an individual’s waste management activity. Each
+    time the bin is used, a mobile phone installed in the inside of the lid captures
+    an image of the contents and uploads it to a Facebook application. The application
+    offers various visualizations of individuals’ bin usage to increase their awareness
+    of the items they disposed of. Applying Facebook as a platform for reflection
+    offers the potential to engage individuals to regularly use the application. In
+    addition, we regard the social network of Facebook, with its communication dynamics
+    and social influences, as a powerful source in changing personal attitudes and
+    behavior. In this scope, the paper discusses several challenges for designing
+    and evaluating persuasive personal informatics systems.
+- id: wilkens
+  authors: Kjen Wilkens
+  title: 'Personal Crunchology: Data Obese Futures and Statistical Fortune Telling'
+  abstract: Considering both the massive rise in public and private data as well
+    as the recent rise in data driven research methods, this design work critically
+    reflects on the personal impact of data leaping into all aspects of our lives
+    trying to uncover uncanny and playful implications of a data obese future.

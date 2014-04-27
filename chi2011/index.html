@@ -1,0 +1,13 @@
+---
+layout: chi2011
+title: "Personal Informatics &amp; HCI: Design, Theory, &amp; Social Implications &mdash; CHI 2011 Workshop"
+section: workshops
+---
+<h2>Accepted papers</h2>
+
+{% for paper in site.data.chi2011_papers %}
+  <p>
+    <a href="/docs/chi2011/{{ paper.id }}.pdf">{{ paper.title }}</a><br>
+    {{ paper.authors }}
+  </p>
+{% endfor %}

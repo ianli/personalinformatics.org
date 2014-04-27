@@ -21,6 +21,9 @@ ul.bulletless {
   padding-left:0;
   list-style:none;
 }
+hr.space {
+  border:1px solid transparent;
+}
 .dropdown-menu {
   background-color:#fff;
   border:none;
@@ -139,6 +142,11 @@ ul.bulletless {
 /*******************
  * Header
  */
+
+header {
+  background-size:cover;
+  background-position:center center;
+}
 
 header > .jumbotron {
   padding-top:40px;
