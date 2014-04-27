@@ -25,11 +25,11 @@
           <li {% if page.section == "workshops" %}class="active"{% endif %}>
             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Workshops <b class="caret"></b></a>
             <ul class="dropdown-menu">
-              <li {% if page.url == "/ubicomp2014/index.html" %}class="active"{% endif %}><a href="/ubicomp2014/">Ubicomp 2014</a></li>
-              <li {% if page.url == "/chi2013/index.html" %}class="active"{% endif %}><a href="/chi2013/">CHI 2013</a></li>
-              <li {% if page.url == "/chi2012/index.html" %}class="active"{% endif %}><a href="/chi2012/">CHI 2012</a></li>
-              <li {% if page.url == "/chi2011/index.html" %}class="active"{% endif %}><a href="/chi2011/">CHI 2011</a></li>
-              <li {% if page.url == "/chi2010/index.html" %}class="active"{% endif %}><a href="/chi2010/">CHI 2010</a></li>
+              <li {% if page.workshop == "ubicomp2014" %}class="active"{% endif %}><a href="/ubicomp2014/">Ubicomp 2014</a></li>
+              <li {% if page.workshop == "chi2013" %}class="active"{% endif %}><a href="/chi2013/">CHI 2013</a></li>
+              <li {% if page.workshop == "chi2012" %}class="active"{% endif %}><a href="/chi2012/">CHI 2012</a></li>
+              <li {% if page.workshop == "chi2011" %}class="active"{% endif %}><a href="/chi2011/">CHI 2011</a></li>
+              <li {% if page.workshop == "chi2010" %}class="active"{% endif %}><a href="/chi2010/">CHI 2010</a></li>
             </ul>
           </li>
           <li {% if page.section == "blog" %}class="active"{% endif %}>
