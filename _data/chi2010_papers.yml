@@ -1,0 +1,95 @@
+- authors: <b>Dominikus Baur</b>
+  title: Visualizing Media and Music Histories
+  pdf: baur_media_and_music.pdf
+  stages: reflection
+  driven: system
+  facets: music
+- authors: <b>Matthias Betz</b>, Tobias Schwartz, Leonardo Ramirez
+  title: 'Know Thyself: Monitoring and Reflecting Energy Consumption'
+  pdf: betz_energy_consumption.pdf
+  stages: collection
+  driven: system
+  facets: multi-faceted (energy consumption and activities)
+- authors: <b>Joshua B. Gross</b>
+  title: Computational Models of Reflection
+  pdf: gross_computational_models.pdf
+  stages: collection
+  driven: system
+  facets: email
+- authors: <b>Norbert Gyorbiro</b>, Henry Larkin, Michael Cohen
+  title: Collaborative Capturing of Significant Life Memories
+  pdf: larkin_life_memories.pdf
+  stages: collection
+  driven: system
+  facets: multi-faceted
+- authors: Vesa Kyllönen, Jani Mäntyjärvi, Jussi Huhtala, Ari-Heikki Sarjanoja, <b>Jonna
+    Häkkilä</b>
+  title: Mobile Application for Developing Self-Awareness of Personal Communication
+    Patterns
+  pdf: hakkila_personal_communication.pdf
+  stages: collection
+  driven: system
+  facets: mobile phone usage
+- authors: <b>Sudheendra Hangal</b>, Monica S. Lam
+  title: Life-browsing with a Lifetime of Email
+  pdf: hangal_life_browsing.pdf
+  stages: collection
+  driven: system
+  facets: email
+- authors: <b>Youn-kyung Lim</b>, Alice Oh, Tek-jin Nam, Kee-Eung Kim
+  title: Personal Informatics for Discovering Human-centered Lifecare System Opportunities
+  pdf: lim_lifecare_system.pdf
+  stages: preparation, collection
+  driven: user/system
+  facets: health
+- authors: <b>Zhicheng Liu</b>, Sarita Yardi, John Stasko
+  title: Do you know what you did last summer? Visualizing personal behavior in Google
+    services
+  pdf: liu_last_summer.pdf
+  stages: reflection
+  driven: system
+  facets: multi-faceted (Google usage)
+- authors: <b>Yevgeniy Medynskiy</b>, Elizabeth D. Mynatt
+  title: From Personal Health Informatics to Health Self-management
+  pdf: medynskiy_personal_health_informatics.pdf
+  stages: collection&ndash;action
+  driven: user/system
+  facets: health
+- authors: <b>Brennan Moore</b>, Max Van Kleek, David R. Karger, mc schraefel
+  title: 'Assisted Self Reflection: Combining Lifetracking, Sensemaking, & Personal
+    Information Management'
+  pdf: moore_assisted_self_reflection.pdf
+  stages: collection&ndash;reflection
+  driven: user/system
+  facets: multi-faceted (online activities)
+- authors: <b>Zachary Pousman</b>
+  title: 'Casual Infovis in the Workplace: Supporting Worker Reflections and Conversations'
+  pdf: pousman_casual_infovis.pdf
+  stages: collection&ndash;reflection
+  driven: system
+  facets: work
+- authors: <b>Thorsten Prante</b>, Jens Sauer, Seif Lotfy, Albrecht Schmidt
+  title: 'Personal Experience Trace: Orienting Oneself in One’s Activities and Experiences'
+  pdf: prante_experience_trace.pdf
+  stages: collection
+  driven: system
+  facets: multi-faceted
+- authors: <b>Reza Rawassizadeh</b>, Martin Tomitsch
+  title: Towards Digital Preservation of Pervasive Device Information
+  pdf: rawassizadeh_digital_preservation.pdf
+  stages: collection
+  driven: user/system
+  facets: multi-faceted
+- authors: <b>Pedro Sanches</b>, Elsa Kosmack Vaara, Marie Sjölinder, Claus Weymann,
+    Kristina Höök
+  title: 'Affective Health: designing for empowerment rather than stress diagnosis'
+  pdf: sanches_affective_health.pdf
+  stages: collection
+  driven: system
+  facets: physiological signs
+- authors: <b>Nathan Yau</b>, Mark Hansen
+  title: 'your.flowingdata: Personal Data Collection via Twitter'
+  pdf: yau_your_flowingdata.pdf
+  stages: collection&ndash;reflection
+  driven: user/system
+  facets: multi-faceted
