@@ -1,0 +1,11 @@
+---
+layout: chi2010
+---
+<h2>Accepted papers</h2>
+
+{% for paper in site.data.chi2010_papers %}
+  <p>
+    <a href="/docs/chi2010/{{ paper.id }}.pdf">{{ paper.title }}</a><br>
+    {{ paper.authors }}
+  </p>
+{% endfor %}

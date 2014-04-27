@@ -1,0 +1,64 @@
+---
+layout: chi2010
+---
+<h2>Papers Categorized</h2>
+
+<p>
+	To show the diversity of topics discussed in the workshop,
+	we categorized the papers using
+	<a href="http://personalinformatics.ianli.com/lab/model">a stage-based model of personal informatics systems</a>.
+	The following are the categories:
+</p>
+
+<ul>
+	<li><b>Stages</b>:
+		The stages of personal informatics
+		that authors primarily focused on in their papers.
+	</li>
+	<li><b>User/system-driven</b>:
+		The third property of the stages:
+		stages are user- or system-driven or a combination.
+	</li>
+	<li><b>Facets</b>:
+		The fourth property of the stages:
+		systems may focus on one type of information
+		(<i>e.g.</i>, exercise, music, etc.),
+		while others may focus on multiple facets.
+	</li>
+</ul>
+
+<div class="row">
+  <div class="col-xs-6">
+    <b>Paper</b>
+  </div>
+  <div class="col-xs-2">
+    <b>Stages</b>
+  </div>
+  <div class="col-xs-2">
+    <b>User/system</b>
+  </div>
+  <div class="col-xs-2">
+    <b>Facets</b>
+  </div>
+</div>
+
+{% for paper in site.data.chi2010_papers %}
+	<hr>
+
+  <div class="row">
+  	<div class="col-xs-6">
+      <a href="/docs/chi2010/{{ paper.pdf }}">{{ paper.title }}</a><br>
+      {{ paper.authors }}
+  	</div>
+  	<div class="col-xs-2">
+  		{{ paper.stages }}
+  	</div>
+  	<div class="col-xs-2">
+  		{{ paper.driven }}
+  	</div>
+  	<div class="col-xs-2">
+  		{{ paper.facets }}
+  	</div>
+  </div>
+
+{% endfor %}
