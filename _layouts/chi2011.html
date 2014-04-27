@@ -1,153 +1,86 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    {% if page.title %}
-      <title>{{ page.title }}</title>
-    {% else %}
-      <title>Personal Informatics</title>
-    {% endif %}
+---
+layout: default
+---
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="http://localhost:9080/shared/bootstrap/3.1.1/css/bootstrap.min.css">
-<!--     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css"> -->
+<!-- ============================== -->
+<!-- Header -->
+<!-- ============================== -->
+<header style="background-image:url(/img/bg-44a9eb.png);">
+  {% include navbar.html %}
 
-    <!-- Default CSS -->
-    <link rel="stylesheet" href="/css/default.css">
-
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-  </head>
-  <body data-spy="scroll" data-target=".navbar-collapse">
-    <!-- ============================== -->
-    <!-- Facebook -->
-    <!-- ============================== -->
-    <div id="fb-root"></div>
-    <script>(function(d, s, id) {
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) return;
-      js = d.createElement(s); js.id = id;
-      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=631937883543534";
-      fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));</script>
-
-    <!-- ============================== -->
-    <!-- Header -->
-    <!-- ============================== -->
-    <header style="background-image:url(/img/bg-44a9eb.png);">
-      {% include navbar.html %}
-
-      <div class="jumbotron">
-        <div class="container">
-          <div class="row">
-            <div class="col-md-12">
-              <h1>
-                Personal Informatics &amp; HCI: Design, Theory, &amp; Social Implications
-              </h1>
-              <p>
-                CHI 2011 Workshop &middot;
-                May 7&ndash;12, 2011 &middot;
-                Vancouver, BC, Canada
-              </p>
-              <ul class="nav nav-pills">
-                <li {% if page.url == "/chi2011/index.html" %}class="active"{% endif %}><a href="index.html">Accepted Papers</a></li>
-                <li {% if page.url == "/chi2011/day.html" %}class="active"{% endif %}><a href="day.html">Day of Workshop</a></li>
-                <li {% if page.url == "/chi2011/notes.html" %}class="active"{% endif %}><a href="notes.html">Workshop Notes</a></li>
-                <li {% if page.url == "/chi2011/cfp.html" %}class="active"{% endif %}><a href="cfp.html">Call for Participation</a></li>
-                <li {% if page.url == "/chi2011/organizers.html" %}class="active"{% endif %}><a href="organizers.html">Organizers</a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </header>
-
-    <!-- ============================== -->
-    <!-- Content -->
-    <!-- ============================== -->
+  <div class="jumbotron">
     <div class="container">
       <div class="row">
-        <div class="col-xs-9">
-          {{ content }}
-        </div>
-        <div class="col-xs-3">
-
-          <h4>Connect</h4>
-
+        <div class="col-md-12">
+          <h1>
+            Personal Informatics &amp; HCI: Design, Theory, &amp; Social Implications
+          </h1>
           <p>
-            Follow <a href="http://twitter.com/allpi">@allpi</a> on Twitter.
+            CHI 2011 Workshop &middot;
+            May 7&ndash;12, 2011 &middot;
+            Vancouver, BC, Canada
           </p>
-          <p>
-            Join the <a href="http://www.facebook.com/group.php?gid=149242736469">Personal Informatics Facebook Group</a>.
-          </p>
-
-          <h4>Organized by</h4>
-          <p>
-          	<a href="http://ianli.com/">Ian Li</a><br>
-          	<a href="http://anind.cmubi.org/">Anind Dey</a><br>
-          	<a href="http://goodgestreet.com/">Jodi Forlizzi</a><br>
-          	<a href="http://www.sics.se/~kia/">Kristina H&ouml;&ouml;k</a><br>
-          	<a href="http://www.cc.gatech.edu/~eugenem/">Yevgeniy Medynskiy</a>
-          </p>
-
-          <h3>Dates</h3>
-          <ul class="bulletless">
-          	<li>
-          		<b>Papers Due</b>&nbsp;
-          		<del>February 11, 2011</del><br/>
-          	</li>
-          	<li>
-          		<b>Notification</b>&nbsp;
-          		<del>March 15, 2011</del><br/>
-          	</li>
-          	<li><b>Workshop</b>&nbsp; May 7, 2011</li>
+          <ul class="nav nav-pills">
+            <li {% if page.url == "/chi2011/index.html" %}class="active"{% endif %}><a href="index.html">Accepted Papers</a></li>
+            <li {% if page.url == "/chi2011/day.html" %}class="active"{% endif %}><a href="day.html">Day of Workshop</a></li>
+            <li {% if page.url == "/chi2011/notes.html" %}class="active"{% endif %}><a href="notes.html">Workshop Notes</a></li>
+            <li {% if page.url == "/chi2011/cfp.html" %}class="active"{% endif %}><a href="cfp.html">Call for Participation</a></li>
+            <li {% if page.url == "/chi2011/organizers.html" %}class="active"{% endif %}><a href="organizers.html">Organizers</a></li>
           </ul>
-
-          <h3>CHI 2011</h3>
-          <p>
-            <a href="http://www.chi2011.org/"><img src="/img/chi2011/chi2011.png" alt="CHI 2011" width="100%"></a><br>
-          	May 7&ndash;12, 2011<br/>
-          	Vancouver, BC, Canada
-          </p>
-
         </div>
       </div>
     </div>
+  </div>
+</header>
 
-    <!-- ============================== -->
-    <!-- Footer -->
-    <!-- ============================== -->
-    <footer>
-      <div class="container">
-        <div class="row">
-          <div class="col-md-9">
-            <p>
-              <a href="/">Personal Informatics</a>
-            </p>
-          </div>
-          <div class="col-md-3" style="text-align:right;">
-            <p>
-              Created by
-              <a href="http://ianli.com">Ian Li</a>
-            </p>
-          </div>
-        </div>
-      </div>
-    </footer>
+<!-- ============================== -->
+<!-- Content -->
+<!-- ============================== -->
+<div class="container">
+  <div class="row">
+    <div class="col-xs-9">
+      {{ content }}
+    </div>
+    <div class="col-xs-3">
 
-    <!-- ============================== -->
-    <!-- Javascript -->
-    <!-- ============================== -->
-    <!-- Bootstrap CSS -->
-<!--     // <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script> -->
-<!--     // <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script> -->
-    <script src="http://localhost:9080/shared/jquery/1.10.2/jquery.min.js"></script>
-    <script src="http://localhost:9080/shared/bootstrap/3.1.1/js/bootstrap.min.js"></script>
-  </body>
-</html>
+      <h4>Connect</h4>
+
+      <p>
+        Follow <a href="http://twitter.com/allpi">@allpi</a> on Twitter.
+      </p>
+      <p>
+        Join the <a href="http://www.facebook.com/group.php?gid=149242736469">Personal Informatics Facebook Group</a>.
+      </p>
+
+      <h4>Organized by</h4>
+      <p>
+      	<a href="http://ianli.com/">Ian Li</a><br>
+      	<a href="http://anind.cmubi.org/">Anind Dey</a><br>
+      	<a href="http://goodgestreet.com/">Jodi Forlizzi</a><br>
+      	<a href="http://www.sics.se/~kia/">Kristina H&ouml;&ouml;k</a><br>
+      	<a href="http://www.cc.gatech.edu/~eugenem/">Yevgeniy Medynskiy</a>
+      </p>
+
+      <h3>Dates</h3>
+      <ul class="bulletless">
+      	<li>
+      		<b>Papers Due</b>&nbsp;
+      		<del>February 11, 2011</del><br/>
+      	</li>
+      	<li>
+      		<b>Notification</b>&nbsp;
+      		<del>March 15, 2011</del><br/>
+      	</li>
+      	<li><b>Workshop</b>&nbsp; May 7, 2011</li>
+      </ul>
+
+      <h3>CHI 2011</h3>
+      <p>
+        <a href="http://www.chi2011.org/"><img src="/img/chi2011/chi2011.png" alt="CHI 2011" width="100%"></a><br>
+      	May 7&ndash;12, 2011<br/>
+      	Vancouver, BC, Canada
+      </p>
+
+    </div>
+  </div>
+</div>
