@@ -1,0 +1,104 @@
+---
+section: tools
+---
+<!DOCTYPE html>
+<html lang="en" ng-app="PiToolsApp">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Personal Informatics Tools</title>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+
+    <!-- Default CSS -->
+    <link rel="stylesheet" href="/css/default.css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Javascript -->
+<!--     // <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js"></script> -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+    <script src="http://www.jsviews.com/download/jsviews.min.js"></script>
+  </head>
+  <body id="tools-body">
+    <!-- ============================== -->
+    <!-- Facebook -->
+    <!-- ============================== -->
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=631937883543534";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+
+    <!-- ============================== -->
+    <!-- Header -->
+    <!-- ============================== -->
+    <header id="tools-header">
+      {% include navbar.html %}
+    </header>
+
+    <!-- ============================== -->
+    <!-- Sidebar -->
+    <!-- ============================== -->
+    <div id="tools-sidebar">
+    </div>
+
+    <!-- ============================== -->
+    <!-- Content -->
+    <!-- ============================== -->
+    <div id="tools-frame">
+      {% for tool in site.data.tools %}
+        {% if tool.approved %}
+          <div class="tools-item
+              {% for tag in tool.tags %}
+                {{ tag | replace:' ','-' | prepend:"tag-" }}
+              {% endfor %}
+              {% for platform in tool.platforms %}
+                {{ platform | replace:' ','-' | prepend: "platform-" }}
+              {% endfor %}
+            ">
+            <img src="/img/thumbnails/{{ tool.thumbnail }}">
+            <div class="tools-item-name">{{ tool.name }}</div>
+            <div class="tools-item-slogan">{{ tool.slogan }}</div>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+
+    <!-- ============================== -->
+    <!-- Template for tags list -->
+    <!-- ============================== -->
+    <script id="tmpl-tags-list" type="text/x-jsrender">
+      {% raw %}
+        <ul>
+          <li>
+            <a href="#" class="button active" data-filter="">All</a>
+          </li>
+          {{for tags}}
+            <li>
+              <a href="#" class="button" data-filter=".{{:id}}">{{:value}}</a>
+            </li>
+          {{/for}}
+        </ul>
+      {% endraw %}
+    </script>
+
+    <!-- ============================== -->
+    <!-- Javascript -->
+    <!-- ============================== -->
+    <script src="/js/isotope.pkgd.min.js"></script>
+    <script src="/js/tools.js"></script>
+  </body>
+</html>
