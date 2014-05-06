@@ -23,7 +23,6 @@ section: tools
     <![endif]-->
 
     <!-- Javascript -->
-<!--     // <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js"></script> -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
     <script src="http://www.jsviews.com/download/jsviews.min.js"></script>
@@ -65,11 +64,8 @@ section: tools
               {% for tag in tool.tags %}
                 {{ tag | replace:' ','-' | prepend:"tag-" }}
               {% endfor %}
-              {% for platform in tool.platforms %}
-                {{ platform | replace:' ','-' | prepend: "platform-" }}
-              {% endfor %}
             ">
-            <img src="/img/thumbnails/{{ tool.thumbnail }}">
+            <img src="/img/blank.gif" data-echo="/img/thumbnails/{{ tool.thumbnail }}">
             <div class="tools-item-name">{{ tool.name }}</div>
             <div class="tools-item-slogan">{{ tool.slogan }}</div>
           </div>
@@ -99,6 +95,7 @@ section: tools
     <!-- Javascript -->
     <!-- ============================== -->
     <script src="/js/isotope.pkgd.min.js"></script>
+    <script src="/js/echo.min.js"></script>
     <script src="/js/tools.js"></script>
   </body>
 </html>
