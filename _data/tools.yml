@@ -1,0 +1,3472 @@
+-
+  id: 1
+  name: Capzles
+  url: http://capzles.com/
+  slogan: Combine your videos, photos, and mp3s into multimedia storylines
+  permalink: capzles
+  created_at: 2009-12-23 23:34:43
+  tags:
+    - timeline
+  platforms:
+    - website
+  approved: true
+  thumbnail: capzles.com-.png
+-
+  id: 2
+  name: Dandelife
+  url: http://www.dandelife.com/
+  slogan: A place for you to record the events of your life
+  permalink: dandelife
+  created_at: 2009-12-23 23:34:44
+  tags:
+    - timeline
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.dandelife.com-.png
+-
+  id: 3
+  name: Dipity
+  url: http://www.dipity.com/
+  slogan: Create timelines that you can share with the world
+  description: Dipity helps you create timelines of your lifestreams. Your lifestreams include data from Twitter, Last.fm, Flickr, Blogger, etc. You also have the option of adding RSS feeds from other sources. You can see you lifestreams visualized in a timeline, a flipbook, a list, or on a map.
+  permalink: dipity
+  created_at: 2009-12-23 17:00:00
+  tags:
+    - timeline
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.dipity.com-.png
+-
+  id: 4
+  name: Lifeblob
+  url: http://www.lifeblob.com/
+  slogan: Share experiences, memories and events with your friends
+  permalink: lifeblob
+  created_at: 2009-12-23 23:34:44
+  tags:
+    - timeline
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.lifeblob.com-.png
+-
+  id: 5
+  name: Lifesnapz
+  url: http://lifesnapz.com/
+  slogan: Share and explore life's events with friends
+  permalink: lifesnapz
+  created_at: 2009-12-23 23:34:44
+  tags:
+    - timeline
+  platforms:
+    - website
+  approved: true
+  thumbnail: lifesnapz.com-.png
+-
+  id: 6
+  name: OurStory
+  url: http://www.ourstory.com/
+  slogan: Capture your stories
+  permalink: ourstory
+  created_at: 2009-12-23 23:34:44
+  tags:
+    - timeline
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.ourstory.com-.png
+-
+  id: 7
+  name: thisMoment
+  url: http://www.thismoment.com/
+  slogan: Save and share the moments of your life
+  permalink: thismoment
+  created_at: 2009-12-23 23:34:44
+  tags:
+    - timeline
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.thismoment.com-.png
+-
+  id: 8
+  name: Klout
+  url: http://klout.com/
+  slogan: Measuring influence across the social web
+  description:
+  permalink: klout
+  created_at: 2009-12-23 23:34:44
+  tags:
+    - social web
+    - twitter
+  platforms:
+    - website
+  approved: true
+  thumbnail: klout.com-.png
+-
+  id: 9
+  name: Personas
+  url: http://personas.media.mit.edu/
+  slogan: Scours the web for information to characterize a person
+  permalink: personas
+  created_at: 2009-12-23 23:34:44
+  tags:
+    - social web
+  platforms:
+    - website
+  approved: true
+  thumbnail: personas.media.mit.edu-.png
+-
+  id: 10
+  name: Twitalyzer
+  url: http://www.twitalyzer.com/
+  slogan: Measure your impact and success in social media
+  description:
+  permalink: twitalyzer
+  created_at: 2009-12-23 23:34:45
+  tags:
+    - social web
+    - twitter
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.twitalyzer.com-.png
+-
+  id: 11
+  name: Delicious
+  url: http://delicious.com/
+  slogan: A social bookmarking service
+  permalink: delicious
+  created_at: 2009-12-23 23:34:45
+  tags:
+    - web activity
+  platforms:
+    - website
+  approved: true
+  thumbnail: delicious.com-.png
+-
+  id: 12
+  name: DeliciousDiscovery
+  url: http://ianli.com/dd/
+  slogan: Reflect on your monthly usage of Delicious bookmarks and tags.
+  permalink: deliciousdiscovery
+  created_at: 2009-12-23 23:34:45
+  tags:
+    - web activity
+  platforms:
+    - website
+  approved: true
+  thumbnail: ianli.com-dd.png
+-
+  id: 13
+  name: Google Bookmarks
+  url: http://www.google.com/bookmarks/
+  slogan: Bookmark pages with Google
+  permalink: google-bookmarks
+  created_at: 2009-12-23 23:34:45
+  tags:
+    - web activity
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.google.com-bookmarks.png
+-
+  id: 14
+  name: Google Web History
+  url: http://www.google.com/history/
+  slogan: View and manage your Google web history
+  permalink: google-web-history
+  created_at: 2009-12-23 23:34:45
+  tags:
+    - web activity
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.google.com-history.png
+-
+  id: 15
+  name: Islet 2.0
+  url: http://iabetics.com/
+  slogan: Diabetes management application for the iPhone and iPod Touch
+  permalink: islet-2-0
+  created_at: 2009-12-23 23:34:45
+  tags:
+    - diabetes
+  platforms:
+    - ios
+  approved: true
+  thumbnail: iabetics.com-.png
+-
+  id: 16
+  name: SugarStats
+  url: http://www.sugarstats.com/
+  slogan: Online diabetes management and community support
+  permalink: sugarstats
+  created_at: 2009-12-23 23:34:45
+  tags:
+    - diabetes
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.sugarstats.com-.png
+-
+  id: 17
+  name: Log for Life
+  url: http://www.logforlife.com/
+  slogan: An online diabetes log book
+  permalink: log-for-life
+  created_at: 2009-12-23 23:34:45
+  tags:
+    - diabetes
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.logforlife.com-.png
+-
+  id: 18
+  name: SweetSpot
+  url: https://www.sweetspot.dm/
+  slogan: Collaborative diabetes management
+  permalink: sweetspot
+  created_at: 2009-12-23 23:34:46
+  tags:
+    - diabetes
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.sweetspot.dm-.png
+-
+  id: 19
+  name: Holmes
+  url: http://www.diykyoto.com/uk/holmes/about
+  slogan: Works with Wattson to visualize your electricity usage
+  permalink: holmes
+  created_at: 2009-12-23 23:34:46
+  tags:
+    - electricity
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.diykyoto.com-uk-holmes-about.png
+-
+  id: 20
+  name: Kill-A-Watt
+  url: http://www.p3international.com/products/special/P4400/P4400-CE.html
+  slogan: Empowers you to save $100's on electric bills
+  permalink: kill-a-watt
+  created_at: 2009-12-23 23:34:46
+  tags:
+    - electricity
+  platforms:
+    - device
+  approved: true
+  thumbnail: www.p3international.com-products-special-P4400-P4400-CE.html.png
+-
+  id: 21
+  name: Wattson
+  url: http://www.diykyoto.com/uk/wattson/about
+  slogan: Helps you see your electricity usage.
+  permalink: wattson
+  created_at: 2009-12-23 23:34:46
+  tags:
+    - electricity
+  platforms:
+    - device
+  approved: true
+  thumbnail: www.diykyoto.com-uk-wattson-about.png
+-
+  id: 22
+  name: Google PowerMeter
+  url: http://www.google.org/powermeter/
+  slogan: A free electricity usage monitoring tool from Google
+  permalink: google-powermeter
+  created_at: 2009-12-23 23:34:46
+  tags:
+    - electricity
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.google.org-powermeter.png
+-
+  id: 23
+  name: WattzOn
+  url: http://www.wattzon.com/
+  slogan: The tools you need to track your energy consumption
+  permalink: wattzon
+  created_at: 2009-12-23 23:34:46
+  tags:
+    - electricity
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.wattzon.com-.png
+-
+  id: 24
+  name: MailTrends
+  url: http://code.google.com/p/mail-trends/
+  slogan: Analyze your email usage
+  permalink: mailtrends
+  created_at: 2009-12-23 23:34:46
+  tags:
+    - email
+  platforms:
+    - website
+  approved: true
+  thumbnail: code.google.com-p-mail-trends.png
+-
+  id: 25
+  name: Xobni
+  url: http://www.xobni.com/email-analytics
+  slogan: Email analytics for Outlook email
+  permalink: xobni
+  created_at: 2009-12-23 23:34:47
+  tags:
+    - email
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.xobni.com-email-analytics.png
+-
+  id: 26
+  name: ClearContext
+  url: http://online.clearcontext.com/
+  slogan: Analyze and compare your email usage and effectiveness
+  permalink: clearcontext
+  created_at: 2009-12-23 23:34:47
+  tags:
+    - email
+  platforms:
+    - website
+  approved: true
+  thumbnail: online.clearcontext.com-.png
+-
+  id: 27
+  name: Miley
+  url: http://bunsentech.com/miley/
+  slogan: Fuel economy tracker for iPhone
+  permalink: miley
+  created_at: 2009-12-23 23:34:47
+  tags:
+    - gas mileage
+  platforms:
+    - ios
+  approved: true
+  thumbnail: bunsentech.com-miley.png
+-
+  id: 28
+  name: Appigo
+  url: http://www.appigo.com/accufuel/
+  slogan: Easily monitor your car's fuel efficiency
+  permalink: appigo
+  created_at: 2009-12-23 23:34:47
+  tags:
+    - gas mileage
+  platforms:
+    - ios
+  approved: true
+  thumbnail: www.appigo.com-accufuel.png
+-
+  id: 29
+  name: Car Care by Karl Becker
+  url: http://karlbecker.com/carcare/
+  slogan: Calculate your gas mileage at the pump
+  permalink: car-care-by-karl-becker
+  created_at: 2009-12-23 23:34:47
+  tags:
+    - gas mileage
+  platforms:
+    - website
+  approved: true
+  thumbnail: karlbecker.com-carcare.png
+-
+  id: 30
+  name: CarStat
+  url: http://cogstorm.com/carstat.html
+  slogan: Keep track of your car's mileage on the iPhone
+  permalink: carstat
+  created_at: 2009-12-23 23:34:47
+  tags:
+    - gas mileage
+  platforms:
+    - ios
+  approved: true
+  thumbnail: cogstorm.com-carstat.html.png
+-
+  id: 31
+  name: FuelGauge
+  url: http://www.iphonecodemonkey.com/FuelGauge.html
+  slogan: A simple iPhone app to keep track of your mileage
+  permalink: fuelgauge
+  created_at: 2009-12-23 23:34:47
+  tags:
+    - gas mileage
+  platforms:
+    - ios
+  approved: true
+  thumbnail: www.iphonecodemonkey.com-FuelGauge.html.png
+-
+  id: 32
+  name: GasHog
+  url: http://www.adairsystems.com/gashog/
+  slogan: The fuel economy tracker for iPhone
+  permalink: gashog
+  created_at: 2009-12-23 23:34:47
+  tags:
+    - gas mileage
+  platforms:
+    - ios
+  approved: true
+  thumbnail: www.adairsystems.com-gashog.png
+-
+  id: 33
+  name: FuelFrog
+  url: http://www.fuelfrog.com/
+  slogan: Track your gas mileage
+  permalink: fuelfrog
+  created_at: 2009-12-23 23:34:48
+  tags:
+    - gas mileage
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.fuelfrog.com-.png
+-
+  id: 34
+  name: Fuelly
+  url: http://www.fuelly.com/
+  slogan: Share and compare your MPG
+  permalink: fuelly
+  created_at: 2009-12-23 23:34:48
+  tags:
+    - gas mileage
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.fuelly.com-.png
+-
+  id: 35
+  name: Mileage Tracker
+  url: http://www.mileagetracker.org/
+  slogan: Easily maintain your mileage and maintenance records
+  permalink: mileage-tracker
+  created_at: 2009-12-23 23:34:48
+  tags:
+    - gas mileage
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.mileagetracker.org-.png
+-
+  id: 36
+  name: MPGTune
+  url: http://www.mpgtune.com/
+  slogan: Track your vehicle's MPG or Liters/100km online
+  permalink: mpgtune
+  created_at: 2009-12-23 23:34:48
+  tags:
+    - gas mileage
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.mpgtune.com-.png
+-
+  id: 37
+  name: MyMileMarker
+  url: http://mymilemarker.com/
+  slogan: Record your miles and view reports
+  permalink: mymilemarker
+  created_at: 2009-12-23 23:34:48
+  tags:
+    - gas mileage
+  platforms:
+    - website
+  approved: true
+  thumbnail: mymilemarker.com-.png
+-
+  id: 38
+  name: Joe's Goals
+  url: http://www.joesgoals.com/
+  slogan: A simple tool to keep track of your goals
+  permalink: joe-s-goals
+  created_at: 2009-12-23 23:34:48
+  tags:
+    - goals
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.joesgoals.com-.png
+-
+  id: 39
+  name: stickK
+  url: http://www.stickk.com/
+  slogan: Put a contract on yourself
+  permalink: stickk
+  created_at: 2009-12-23 23:34:49
+  tags:
+    - goals
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.stickk.com-.png
+-
+  id: 40
+  name: ThankfulFor
+  url: http://thankfulfor.com/
+  slogan: What are you thankful for today?
+  description:
+  permalink: thankfulfor
+  created_at: 2009-12-23 23:34:49
+  tags:
+    - gratitude
+    - twitter
+  platforms:
+    - website
+  approved: true
+  thumbnail: thankfulfor.com-.png
+-
+  id: 41
+  name: CureTogether
+  url: http://curetogether.com/
+  slogan: Manage your own health
+  permalink: curetogether
+  created_at: 2009-12-23 23:34:49
+  tags:
+    - health
+  platforms:
+    - website
+  approved: true
+  thumbnail: curetogether.com-.png
+-
+  id: 42
+  name: PatientsLikeMe
+  url: http://www.patientslikeme.com/
+  slogan: Patients helping patients live better every day
+  permalink: patientslikeme
+  created_at: 2009-12-23 23:34:49
+  tags:
+    - health
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.patientslikeme.com-.png
+-
+  id: 43
+  name: MonthlyInfo
+  url: http://monthlyinfo.com/
+  slogan: A simple tool to keep track of your menstrual cycles
+  permalink: monthlyinfo
+  created_at: 2009-12-23 23:34:50
+  tags:
+    - menstruation
+  platforms:
+    - website
+  approved: true
+  thumbnail: monthlyinfo.com-.png
+-
+  id: 44
+  name: MyMonthlyCycles
+  url: http://www.mymonthlycycles.com/
+  slogan: Free tools for your cycles
+  permalink: mymonthlycycles
+  created_at: 2009-12-23 23:34:50
+  tags:
+    - menstruation
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.mymonthlycycles.com-.png
+-
+  id: 45
+  name: ChronoRecord
+  url: http://chronorecord.org/software.htm
+  slogan: Software to record moods, sleep, medications taken, and life events
+  permalink: chronorecord
+  created_at: 2009-12-23 23:34:50
+  tags:
+    - mood
+  platforms:
+    - website
+  approved: true
+  thumbnail: chronorecord.org-software.htm.png
+-
+  id: 46
+  name: HealthEngage Depression
+  url: http://www.healthengage.com/healthengagedepression.html
+  slogan: Manage depression or bipolar disorder with ease and flexibility
+  permalink: healthengage-depression
+  created_at: 2009-12-23 23:34:50
+  tags:
+    - mood
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.healthengage.com-healthengagedepression.html.png
+-
+  id: 47
+  name: MoodStats
+  url: http://www.moodstats.com/
+  slogan: Your one-stop personal journal mood diary organizer and recorder
+  permalink: moodstats
+  created_at: 2009-12-23 23:34:50
+  tags:
+    - mood
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.moodstats.com-.png
+-
+  id: 48
+  name: Optimism
+  url: http://www.findingoptimism.com/
+  slogan: An easy-to-use mood chart and diary to understand your mental health
+  permalink: optimism
+  created_at: 2009-12-23 23:34:51
+  tags:
+    - mood
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.findingoptimism.com-.png
+-
+  id: 49
+  name: Happy Factor
+  url: http://www.happyfactor.com/
+  slogan: Learn what makes you happy
+  permalink: happy-factor
+  created_at: 2009-12-23 23:34:51
+  tags:
+    - mood
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.happyfactor.com-.png
+-
+  id: 50
+  name: MoodJam
+  url: http://www.moodjam.org/
+  slogan: Visualize your moods in beautiful color strips
+  permalink: moodjam
+  created_at: 2009-12-23 23:34:51
+  tags:
+    - mood
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.moodjam.org-.png
+-
+  id: 51
+  name: MoodMill
+  url: http://www.moodmill.com/
+  slogan: Social mood management website
+  permalink: moodmill
+  created_at: 2009-12-23 23:34:51
+  tags:
+    - mood
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.moodmill.com-.png
+-
+  id: 52
+  name: MoodTracker
+  url: http://www.moodtracker.com/
+  slogan: Track your moods and medications to better understand your treatment's effectiveness.
+  permalink: moodtracker
+  created_at: 2009-12-23 23:34:51
+  tags:
+    - mood
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.moodtracker.com-.png
+-
+  id: 53
+  name: Track Your Happiness
+  url: http://www.trackyourhappiness.org/
+  slogan: What makes you happy?
+  permalink: track-your-happiness
+  created_at: 2009-12-23 23:34:51
+  tags:
+    - mood
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.trackyourhappiness.org-.png
+-
+  id: 54
+  name: Last.fm
+  url: http://www.last.fm/
+  slogan: Track the music that you listen to the most
+  permalink: last-fm
+  created_at: 2009-12-23 23:34:51
+  tags:
+    - music
+  platforms:
+    - website
+    - android
+    - ios
+    - desktop
+  approved: true
+  thumbnail: www.last.fm-.png
+-
+  id: 55
+  name: The Printable CEO
+  url: http://davidseah.com/blog/the-printable-ceo-series/
+  slogan: An investigative approach to design, productivity, and inspiration
+  description:
+  permalink: the-printable-ceo
+  created_at: 2009-12-23 23:34:52
+  tags:
+    - productivity
+    - time management
+  platforms:
+    - website
+  approved: true
+  thumbnail: davidseah.com-blog-the-printable-ceo-series.png
+-
+  id: 56
+  name: RescueTime
+  url: http://www.rescuetime.com/
+  slogan: Automated time tracking and management
+  description:
+  permalink: rescuetime
+  created_at: 2009-12-23 23:34:52
+  tags:
+    - productivity
+    - time management
+  platforms:
+    - website
+    - desktop
+  approved: true
+  thumbnail: www.rescuetime.com-.png
+-
+  id: 57
+  name: Slife
+  url: http://www.slifelabs.com/
+  slogan: Activity analytics software
+  description:
+  permalink: slife
+  created_at: 2009-12-23 23:34:52
+  tags:
+    - productivity
+    - time management
+  platforms:
+    - website
+    - desktop
+  approved: true
+  thumbnail: www.slifelabs.com-.png
+-
+  id: 58
+  name: Wakoopa
+  url: http://wakoopa.com/
+  slogan: Discover software and games
+  description:
+  permalink: wakoopa
+  created_at: 2009-12-23 23:34:52
+  tags:
+    - productivity
+    - time management
+    - web activity
+  platforms:
+    - website
+    - desktop
+  approved: true
+  thumbnail: wakoopa.com-.png
+-
+  id: 59
+  name: Bedpost
+  url: http://bedposted.com/
+  slogan: A personal web application that will give you some insight into your sex life.
+  permalink: bedpost
+  created_at: 2009-12-23 23:34:53
+  tags:
+    - sex
+  platforms:
+    - website
+  approved: true
+  thumbnail: bedposted.com-.png
+-
+  id: 60
+  name: SleepTracker
+  url: http://www.sleeptracker.com/
+  slogan: Track your sleep with a watch
+  permalink: sleeptracker
+  created_at: 2009-12-23 23:34:53
+  tags:
+    - sleep
+  platforms:
+    - device
+    - website
+  approved: true
+  thumbnail: www.sleeptracker.com-.png
+-
+  id: 61
+  name: Sleep Tracker TYLENOL PM
+  url: http://www.tylenol.com/sleeptracker/
+  slogan: Track your sleep using your iPhone or iPod Touch
+  permalink: sleep-tracker-tylenol-pm
+  created_at: 2009-12-23 23:34:53
+  tags:
+    - sleep
+  platforms:
+    - ios
+  approved: true
+  thumbnail: www.tylenol.com-sleeptracker.png
+-
+  id: 62
+  name: YawnLog
+  url: http://www.yawnlog.com/
+  slogan: A social sleep tracker
+  permalink: yawnlog
+  created_at: 2009-12-23 23:34:54
+  tags:
+    - sleep
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.yawnlog.com-.png
+-
+  id: 63
+  name: Zeo
+  url: http://www.myzeo.com
+  slogan: Personal sleep coach
+  permalink: zeo
+  created_at: 2009-12-23 23:34:54
+  tags:
+    - sleep
+  platforms:
+    - website
+    - device
+  approved: true
+  thumbnail: www.myzeo.com-.png
+-
+  id: 64
+  name: Qwitter
+  url: http://qwitter.tobaccofreeflorida.com/
+  slogan: A Twitter tool to help you quit smoking
+  description:
+  permalink: qwitter
+  created_at: 2009-12-23 23:34:54
+  tags:
+    - smoking
+    - twitter
+  platforms:
+    - website
+  approved: true
+  thumbnail: qwitter.tobaccofreeflorida.com-.png
+-
+  id: 65
+  name: StepGreen
+  url: http://www.stepgreen.org/
+  slogan: Track the financial and environmental savings of simple green actions
+  permalink: stepgreen
+  created_at: 2009-12-23 23:34:54
+  tags:
+    - sustainability
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.stepgreen.org-.png
+-
+  id: 66
+  name: TripIt
+  url: http://www.tripit.com/
+  slogan: Online travel itinerary and trip planner
+  permalink: tripit
+  created_at: 2009-12-23 23:34:54
+  tags:
+    - travel
+  platforms:
+    - website
+    - ios
+    - android
+  approved: true
+  thumbnail: www.tripit.com-.png
+-
+  id: 67
+  name: Dopplr
+  url: http://www.dopplr.com/
+  slogan: Makes your travel planning smarter
+  permalink: dopplr
+  created_at: 2009-12-23 23:34:55
+  tags:
+    - travel
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.dopplr.com-.png
+-
+  id: 68
+  name: Garmin Training Center
+  url: http://www.garmin.com/products/trainingcenter/
+  slogan: Training tool that works with your Garmin fitness device
+  permalink: garmin-training-center
+  created_at: 2009-12-23 23:34:55
+  tags:
+    - exercise
+  platforms:
+    - device
+  approved: true
+  thumbnail: www.garmin.com-products-trainingcenter.png
+-
+  id: 69
+  name: Nokia Step Counter
+  url: http://betalabs.nokia.com/betas/view/nokia-step-counter
+  slogan: Track your step counts with your Nokia phone
+  permalink: nokia-step-counter
+  created_at: 2009-12-23 23:34:55
+  tags:
+    - exercise
+  platforms:
+    - miscellaneous
+  approved: true
+  thumbnail: betalabs.nokia.com-betas-view-nokia-step-counter.png
+-
+  id: 70
+  name: RunKeeper
+  url: http://runkeeper.com/
+  slogan: Fitness tracking on your mobile phone.
+  permalink: runkeeper
+  created_at: 2009-12-23 23:34:55
+  tags:
+    - exercise
+  platforms:
+    - ios
+    - android
+  approved: true
+  thumbnail: runkeeper.com-.png
+-
+  id: 71
+  name: Garmin Connect
+  url: http://connect.garmin.com/
+  slogan: Community of Garmin users who track and share their activities
+  permalink: garmin-connect
+  created_at: 2009-12-23 23:34:55
+  tags:
+    - exercise
+  platforms:
+    - website
+  approved: true
+  thumbnail: connect.garmin.com-.png
+-
+  id: 72
+  name: MapMyRun
+  url: http://www.mapmyrun.com/
+  slogan: Map your run
+  permalink: mapmyrun
+  created_at: 2009-12-23 23:34:55
+  tags:
+    - exercise
+  platforms:
+    - ios
+    - android
+  approved: true
+  thumbnail: www.mapmyrun.com-.png
+-
+  id: 73
+  name: Nike+
+  url: http://www.nikeplus.com/
+  slogan: Sync your runs, set personal goals and challenge friends.
+  permalink: nike+
+  created_at: 2009-12-23 23:34:55
+  tags:
+    - exercise
+  platforms:
+    - device
+    - ios
+    - android
+  approved: true
+  thumbnail: www.nikeplus.com-.png
+-
+  id: 74
+  name: BodyMedia
+  url: http://www.bodymedia.com/
+  slogan: Armbands and displays to track your physical activity
+  permalink: bodymedia
+  created_at: 2009-12-23 23:34:55
+  tags:
+    - exercise
+  platforms:
+    - website
+    - device
+  approved: true
+  thumbnail: www.bodymedia.com-.png
+-
+  id: 75
+  name: FatSecret
+  url: http://www.fatsecret.com/
+  slogan: All things food and diet
+  description: FatSecret is a place for people interested in food and diet. Sign up and achieve your food, diet and exercise goals. The site has features such as easily recording your food and exercise, keeping a lifetime record of your weight, finding buddies to support you and discovering recipes that are right for you. You can use your FatSecret profile with many other services like Facebook, iGoogle and even on your mobile phone. FatSecret is your one-stop-shop for all things food and diet.
+  permalink: fatsecret
+  created_at: 2009-12-23 23:34:56
+  tags:
+    - exercise
+    - food
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.fatsecret.com-.png
+-
+  id: 76
+  name: FitDay
+  url: http://www.fitday.com/
+  slogan: Free diet and weight loss journal
+  permalink: fitday
+  created_at: 2009-12-23 23:34:56
+  tags:
+    - exercise
+    - food
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.fitday.com-.png
+-
+  id: 77
+  name: My Calorie Counter
+  url: http://www.my-calorie-counter.com/
+  slogan: Free online diet journal and calorie counter
+  permalink: my-calorie-counter
+  created_at: 2009-12-23 23:34:56
+  tags:
+    - exercise
+    - food
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.my-calorie-counter.com-.png
+-
+  id: 78
+  name: Spark People
+  url: http://www.sparkpeople.com/
+  slogan: Free tools for nutrition, health, and fitness
+  permalink: spark-people
+  created_at: 2009-12-23 23:34:57
+  tags:
+    - exercise
+    - food
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.sparkpeople.com-.png
+-
+  id: 79
+  name: Traineo
+  url: http://www.traineo.com/
+  slogan: Support and motivation to reach your health and fitness goals
+  permalink: traineo
+  created_at: 2009-12-23 23:34:57
+  tags:
+    - exercise
+    - food
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.traineo.com-.png
+-
+  id: 80
+  name: Daily Burn
+  url: http://dailyburn.com/
+  slogan: A diet and fitness tracking web site
+  permalink: daily-burn
+  created_at: 2009-12-23 23:34:58
+  tags:
+    - exercise
+    - food
+  platforms:
+    - website
+    - ios
+    - android
+  approved: true
+  thumbnail: dailyburn.com-.png
+-
+  id: 81
+  name: FitBit
+  url: http://www.fitbit.com/
+  slogan: Automatically tracks your fitness and sleep
+  permalink: fitbit
+  created_at: 2009-12-23 23:34:58
+  tags:
+    - exercise
+    - sleep
+  platforms:
+    - website
+    - device
+    - android
+    - ios
+  approved: true
+  thumbnail: www.fitbit.com-.png
+-
+  id: 82
+  name: GNUCash
+  url: http://www.gnucash.org/
+  slogan: Accounting software freely licensed under the GNU GPL
+  permalink: gnucash
+  created_at: 2009-12-23 23:34:58
+  tags:
+    - finance
+  platforms:
+    - desktop
+  approved: true
+  thumbnail: www.gnucash.org-.png
+-
+  id: 83
+  name: Quicken
+  url: http://quicken.intuit.com/personal-finance-software/deluxe-money-management.jsp
+  slogan: Personal finance software from Intuit
+  permalink: quicken
+  created_at: 2009-12-23 23:34:58
+  tags:
+    - finance
+  platforms:
+    - desktop
+  approved: true
+  thumbnail: quicken.intuit.com-personal-finance-software-deluxe-money-management.jsp.png
+-
+  id: 84
+  name: Discover Card Financial Tools
+  url: http://www.discoverfinancial.com/financialeducation/fintools.shtml
+  slogan: Spending and credit management tools for Discover cardmembers
+  permalink: discover-card-financial-tools
+  created_at: 2009-12-23 23:34:59
+  tags:
+    - finance
+  platforms:
+    - website
+    - ios
+    - android
+  approved: true
+  thumbnail: www.discoverfinancial.com-financialeducation-fintools.shtml.png
+-
+  id: 85
+  name: Mint
+  url: http://www.mint.com/
+  slogan: Free personal finance software online
+  permalink: mint
+  created_at: 2009-12-23 23:34:59
+  tags:
+    - finance
+  platforms:
+    - website
+    - ios
+    - android
+  approved: true
+  thumbnail: www.mint.com-.png
+-
+  id: 86
+  name: Wesabe
+  url: http://www.wesabe.com/
+  slogan: Financial management community
+  permalink: wesabe
+  created_at: 2009-12-23 23:34:59
+  tags:
+    - finance
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.wesabe.com-.png
+-
+  id: 87
+  name: The Daily Plate
+  url: http://www.thedailyplate.com/
+  slogan: Helping you eat smarter
+  permalink: the-daily-plate
+  created_at: 2009-12-23 23:34:59
+  tags:
+    - food
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.thedailyplate.com-.png
+-
+  id: 88
+  name: TweetWhatYouEat
+  url: http://tweetwhatyoueat.com/
+  slogan: Keep a food diary via Twitter
+  description:
+  permalink: tweetwhatyoueat
+  created_at: 2009-12-23 23:34:59
+  tags:
+    - food
+    - twitter
+  platforms:
+    - website
+  approved: true
+  thumbnail: tweetwhatyoueat.com-.png
+-
+  id: 89
+  name: TweetYourEats
+  url: http://www.tweetyoureats.com/
+  slogan: Keep track of your eats using Twitter
+  description:
+  permalink: tweetyoureats
+  created_at: 2009-12-23 23:34:59
+  tags:
+    - food
+    - twitter
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.tweetyoureats.com-.png
+-
+  id: 90
+  name: DataDepot
+  url: http://datadepot.msresearch.us/
+  slogan: Track, analyze, and share trend lines
+  description:
+  permalink: datadepot
+  created_at: 2009-12-23 23:34:59
+  tags:
+    - anything
+  platforms:
+    - website
+  approved: true
+  thumbnail: datadepot.msresearch.us-.png
+-
+  id: 91
+  name: Polka
+  url: http://www.polka.com/
+  slogan: Log progress and achieve your goals
+  description:
+  permalink: polka
+  created_at: 2009-12-23 23:34:59
+  tags:
+    - anything
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.polka.com-.png
+-
+  id: 92
+  name: LifeMetric
+  url: http://lifemetric.com/
+  slogan: Track different factors about your life.
+  description:
+  permalink: lifemetric
+  created_at: 2009-12-23 23:34:59
+  tags:
+    - anything
+  platforms:
+    - website
+  approved: true
+  thumbnail: lifemetric.com-.png
+-
+  id: 93
+  name: Limeade
+  url: http://limeade.com/
+  slogan: Measures the key drivers of well-being and health
+  description:
+  permalink: limeade
+  created_at: 2009-12-23 23:35:00
+  tags:
+    - anything
+  platforms:
+    - website
+  approved: true
+  thumbnail: limeade.com-.png
+-
+  id: 94
+  name: Me-trics
+  url: http://www.me-trics.com/
+  slogan: Free tool to track what you do everyday
+  description: |-
+    Me-trics is a free tool designed to help you improve your life by tracking the things you do every day.
+
+    It's fully customizable. You can tailor what you track for your needs. Monitor your health, mood, finance, fitness, online activity, etc.
+
+    Tracking is made easy. You can track on the go with their mobile site and use our automated life feeds to track activity for you.
+
+    You can create personalized life graphs. Find correlation between activities. Compare overall activity over time. Share your graphs with site widgets.
+  permalink: me-trics
+  created_at: 2009-12-23 23:35:00
+  tags:
+    - anything
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.me-trics.com-.png
+-
+  id: 95
+  name: Reger
+  url: http://reger.com/
+  slogan: Personal data blogging
+  description: People use datablogging just like they use any blog software; to publish journal entries, to share photos, to podcast, to network with friends and family. But the exciting part of datablogging is the data that can be collected with each entry. And who defines the type of data that's collected? You do! With drag-and-drop ease you can add data fields to your blog entries and then later build graphs and saved searches using that data. No matter what you're interested in, there's data to track.
+  permalink: reger
+  created_at: 2009-12-23 23:35:00
+  tags:
+    - anything
+  platforms:
+    - website
+  approved: true
+  thumbnail: reger.com-.png
+-
+  id: 96
+  name: The Carrot
+  url: http://thecarrot.com/
+  slogan: Monitor anything using trackers
+  description: |-
+    TheCarrot.com is a secure mobile and web-based health management solution with tracking and analytic features that support users in taking control of their health. Regularly featured as a Top 100 application in the iPhone App store and voted Best Application (2008) at Health 2.0, TheCarrot.com delivers a "whole health" approach by offering real-time tracking of over 35 categories including fitness, nutrition, blood pressure, weight management, smoking cessation, mood, sleep, and more. Personalized data is conveyed through graphically appealing charts and graphs to help users monitor their health, set goals, and identify solutions for improved health. TheCarrot.com is HIPAA compliant.
+
+    ----
+
+    Monitor anything using the trackersâ€”diet, exercise, medicines, your kidâ€™s height, and more. Enter data on the iPhone or snap a pic with your cell phone.
+
+    Once youâ€™ve gathered data, you can create a report. View your data with one of our standard reports, or customize your own report.
+
+    Our reports are formatted for easy printing and emailing. When working with a professional, a clear, comprehensive report makes his/her job much easier.
+  permalink: the-carrot
+  created_at: 2009-12-23 23:35:01
+  tags:
+    - anything
+  platforms:
+    - website
+    - ios
+    - android
+  approved: true
+  thumbnail: thecarrot.com-.png
+-
+  id: 97
+  name: Track-n-Graph
+  url: http://www.trackngraph.com/
+  slogan: Easy way to track and graph information
+  description: |-
+    Track-n-Graph is a free web-based service for friends, family, and co-workers to track and graph information.
+
+    Browse and search the Tracker Catalog to find a pre-defined template for the information you want to track and graph. Leverage the work published by the community for ideas on the perfect tracker for your needs.
+
+    Choose from a variety of appealing graph types (bar, line, area) to view your information. You can create an unlimited number of graphs per tracker and customize them to display your information exactly the way you want it.
+  permalink: track-n-graph
+  created_at: 2009-12-23 23:35:01
+  tags:
+    - anything
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.trackngraph.com-.png
+-
+  id: 98
+  name: your.flowingdata
+  url: http://your.flowingdata.com/
+  slogan: Capture your life in data. One tweet at a time.
+  description: Use your.flowingdata (YFD) to collect data about yourself and your surroundings via Twitter. Record what you eat, when you go to sleep, how much television you watch, or whatever else you want. What you track is completely up to you.
+  permalink: your-flowingdata
+  created_at: 2009-12-23 23:35:01
+  tags:
+    - anything
+    - twitter
+  platforms:
+    - website
+  approved: true
+  thumbnail: your.flowingdata.com-.png
+-
+  id: 99
+  name: Daytum
+  url: http://www.daytum.com/
+  slogan: Collect, categorize, and communicate your everyday data
+  description: Daytum was conceived in 2008 by Ryan Case and Nicholas Felton as a way of creating an elegant and intuitive way to count and communicate the personal statistics generated by each of us every day.
+  permalink: daytum
+  created_at: 2009-12-23 23:35:02
+  tags:
+    - anything
+    - twitter
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.daytum.com-.png
+-
+  id: 100
+  name: Grafitter
+  url: http://www.grafitter.com/
+  slogan: Visualizing your life on Twitter, IM, Delicious, and Blogger
+  description: |-
+    Grafitter is a personal informatics tool for collecting and exploring information about your habits and patterns.
+
+    Use "the Grafitter format":http://www.grafitter.com/format on Twitter, IM, Delicious, and Blogger to collect data about yourself easily and quickly.
+
+    Explore and find trends and patterns in your data using the visualizations on the site. Just type in your username on the site's top blue bar.
+  permalink: grafitter
+  created_at: 2009-12-25 05:40:02
+  tags:
+    - anything
+    - twitter
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.grafitter.com-.png
+-
+  id: 101
+  name: WakeMate
+  url: http://wakemate.com/
+  slogan: Analyze your sleep to find the optimal time for you to wake up
+  description: |-
+    Traditional alarm clocks wake you at a random point in your sleep cycle, leaving you feeling groggy.
+
+    The WakeMate will analyze your sleep to find the optimal time for you to wake up. You will feel refreshed and energized every time you wake, even from naps!
+  permalink: wakemate
+  created_at: 2009-12-28 06:29:06
+  tags:
+    - sleep
+  platforms:
+    - ios
+  approved: true
+  thumbnail: wakemate.com-.png
+-
+  id: 102
+  name: WalkingSpree
+  url: http://www.walkingspree.com/
+  slogan: USB pedometer and tracking
+  description: WalkingSpree is focused on delivering a best-of-breed online wellness program by incorporating the valuable features from online pedometer based programs, online social networking programs and online weight-loss programs. WalkingSpree offers a private program for corporations and a retail program to the general public.
+  permalink: walkingspree
+  created_at: 2009-12-28 06:33:44
+  tags:
+    - exercise
+  platforms:
+    - device
+  approved: true
+  thumbnail: www.walkingspree.com-.png
+-
+  id: 103
+  name: Yamaha BODiBEAT
+  url: http://www.yamaha.com/bodibeat/
+  slogan: Synchronizes your music to the movement of your workout
+  description: |-
+    BODiBEAT is the first portable fitness device/MP3 player with built-in heart rate monitor that naturally synchronizes your music to the movement of your workout.
+
+    Imagine having just one all-in-one workout device, automatically sensing and synchronizing the rhythm of your music to the movement of your workout.
+  permalink: yamaha-bodibeat
+  created_at: 2009-12-28 06:35:16
+  tags:
+    - exercise
+  platforms:
+    - device
+  approved: true
+  thumbnail: www.yamaha.com-bodibeat.png
+-
+  id: 104
+  name: FINIS Lap Track
+  url: http://www.finisinc.com/P-105027/Lap-Track.aspx
+  slogan: Underwater lap counter and timer
+  description: |-
+    The FINIS Lap Track does exactly that, acts as an underwater lap counter and timer - a swimmer's own personal pace clock! The clear 6" by 6" display allows a swimmer to keep track of split times, calories burned, and of course, number of laps, all while continuously swimming.
+
+    The Lap Track fits on most all pool decks as there are various ways of which the unit can be mounted. Included with the packaging is all the necessary set-up equipment: 2 pairs of suction cups (for different sizes tiles), an attachable platform with extenders for use in pools that aren't tiled, and a carrying bag that doubles as a water weight to stabilize the base of the extenders. The Lap Track comes ready-to-use with 2 AAA batteries and no need for additional operating equipment purchases.
+  permalink: finis-lap-track
+  created_at: 2009-12-28 06:37:55
+  tags:
+    - swimming
+  platforms:
+    - device
+  approved: true
+  thumbnail: www.finisinc.com-P-105027-Lap-Track.aspx.png
+-
+  id: 106
+  name: 23andMe
+  url: https://www.23andme.com/
+  slogan: Genetics just got personal
+  description: 23andMe is a genetic testing service that provides information and tools to understand your DNA. Its mission is to be the world's trusted source of personal genetic information.
+  permalink: 23andme
+  created_at: 2009-12-28 09:31:58
+  tags:
+    - genetics
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.23andme.com-.png
+-
+  id: 107
+  name: Snaptic
+  url: http://snaptic.com/
+  slogan: Smartphone apps that make you smarter
+  description: Taking notes with Snaptic's 3banana is less work and easier to share. Capture your thoughts, ideas and notes as well as photos and other stuff you come across on the web or on the go, and your notes will always be with you and in sync. You can keep your notes private, or invite friends to join you in an online conversation.
+  permalink: snaptic
+  created_at: 2009-12-28 09:35:44
+  tags:
+    - notes
+  platforms:
+    - website
+  approved: true
+  thumbnail: snaptic.com-.png
+-
+  id: 109
+  name: deCODEme
+  url: http://www.decodeme.com/
+  slogan: Your genes, your health, your data
+  description: |-
+    deCODEme is a genetic health scan.
+    Getting to know your personal genome will empower you and provide you with a road map to improve your health.
+    In many cases, early detection of risk allows you to prevent a disease from ever taking hold.
+
+    Explore your history with easy-to-use tools that genetically trace the branches of your ancestry thousands of years back through time.
+    Unlock the history that is documented in your genes.
+
+    deCODEme gives you direct access to your genetic data and the tools to translate them into valuable information to which you have exclusive and secure access.
+  permalink: decodeme
+  created_at: 2009-12-28 10:17:21
+  tags:
+    - genetics
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.decodeme.com-.png
+-
+  id: 110
+  name: ShifD
+  url: http://www.shifd.com/
+  slogan: Shift contents between your devices
+  description: ShifD is a mobile application that provides users the capability to seamlessly shift content back and forth between their desktop computers and mobile devices.
+  permalink: shifd
+  created_at: 2009-12-28 10:22:35
+  tags:
+    - notes
+  platforms:
+    - website
+    - desktop
+    - ios
+    - android
+  approved: true
+  thumbnail: shifd.com-welcome.png
+-
+  id: 111
+  name: TrixieTracker
+  url: http://www.trixietracker.com/
+  slogan: Baby tracker for the web and iPhone
+  description: |-
+    Uncover patterns in your baby's sleep rhythms and daily activity.
+    Develop a good sleep schedule with helpful charts. Share online with family and friends.
+
+    See how our rich, informative charts and striking visualizations can help establish good routines.
+  permalink: trixietracker
+  created_at: 2009-12-28 10:27:43
+  tags:
+    - baby
+  platforms:
+    - website
+    - ios
+    - android
+  approved: true
+  thumbnail: www.trixietracker.com-.png
+-
+  id: 112
+  name: Withings
+  url: http://www.withings.com/
+  slogan: The WiFi Scale
+  description: |-
+    The Withings works this way:
+    #  Weigh yourself on the Withings body scale.
+    # The body scale sends your measurements.
+    # Users can easily access their graphs.
+    # Users follow their fitness in the long term
+  permalink: withings
+  created_at: 2009-12-28 10:31:18
+  tags:
+    - weight
+  platforms:
+    - website
+    - ios
+    - android
+  approved: true
+  thumbnail: www.withings.com-.png
+-
+  id: 113
+  name: Youw8
+  url: http://www.youw8.com/en/open/
+  slogan: Your internet body analyzer
+  description: Youw8 (you-weight) is an online personal coach, which helps you to reach and keep your ideal weight. With the Youw8 body monitor you can register your body composition data. Your personal Internet account and the Youw8 online system keep your personal targets and your progress according to your personal weight plan up-to-date, and give you advice on how to reach your targets. The weighing with the Youw8 body monitor will cost you less than 1 minute a day.
+  permalink: youw8
+  created_at: 2009-12-28 10:37:10
+  tags:
+    - weight
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.youw8.com-en-open.png
+-
+  id: 114
+  name: Graffito Data Project
+  url: http://www.graffito.org/
+  slogan: Places from your credit card statement OFX/QFX files
+  description: |-
+    The Graffito Data Project is a new concept about looking at what a credit card statement can be beyond just a bill.
+    We think credit card statements conveniently provide two ingredients to start telling a good story - time and place.
+    So we've started building a platform to let people collect, organize and share those compelling stories that may have otherwise been forgotten.
+  permalink: graffito-data-project
+  created_at: 2009-12-28 10:40:41
+  tags:
+    - location
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.graffito.org-.png
+-
+  id: 115
+  name: HealthyWage
+  url: http://healthywage.com/
+  slogan: Wellness is valuable
+  description: |-
+    HealthyWage enhances your diet success with cash rewards, fun contests, wellness tools and a support network.
+
+    It's just like Biggest Loser, but everyone who loses the weight gets paid! With HealthyWage, you'll be making money, and losing weight!
+  permalink: healthywage
+  created_at: 2009-12-28 21:47:22
+  tags:
+    - weight
+  platforms:
+    - website
+  approved: true
+  thumbnail: healthywage.com-.png
+-
+  id: 116
+  name: HealthEngage
+  url: http://www.healthengage.com/
+  slogan: Diabetes and personal health applications
+  description: Keep track of various information using free tools. Track general health, medication, diet, fitness, diabetes, asthma, etc.
+  permalink: healthengage
+  created_at: 2009-12-28 21:50:15
+  tags:
+    - diabetes
+    - health
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.healthengage.com-.png
+-
+  id: 117
+  name: Kibotzer
+  url: http://kibotzer.com/
+  slogan: Tracks your progress toward your goals
+  description: |-
+    Kibotzer tracks your progress toward your goals. Anything you can put a periodic number on works -- weight, pushups, number of cigarettes, net worth, or how long it takes you to bike to work. Just answer with your number when kibotzer asks and it will show you your progress and a "yellow brick road" to follow to stay on track.
+
+    A big selling point for kibotzer is the data smoothing. With weight loss, for example, it's discouraging and/or nerve-wracking to see the numbers bounce around day-to-day which is why weight-loss programs typically only ask for weekly weigh-ins. But if you have a random up day on a weekly weigh-in day, that's really discouraging. Better to get more data and let kibotzer show you the true trend. And you get daily instead of weekly feedback. That's key.
+  permalink: kibotzer
+  created_at: 2009-12-28 21:53:53
+  tags:
+    - anything
+    - goals
+  platforms:
+    - website
+  approved: true
+  thumbnail: kibotzer.com-.png
+-
+  id: 118
+  name: Microsoft HealthVault
+  url: http://www.healthvault.com/
+  slogan: Make more informed health decisions
+  description: |-
+    HealthVault lets you:
+    * Organize your health information, with everything in one place
+    * Simplify your life: enter health info once, use it in many ways
+    * Gain insight with data that helps you make informed decisions
+  permalink: microsoft-healthvault
+  created_at: 2009-12-28 22:01:04
+  tags:
+    - health
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.healthvault.com-.png
+-
+  id: 119
+  name: MedHelp
+  url: http://www.medhelp.org/
+  slogan: Keep your health in check
+  description: |-
+    MedHelp has many personal health applications. Some of the popular ones are:
+    * ovulation calendar
+    * weight tracker
+    * pain tracker
+    * sleep tracker
+    * peak flow chart
+    * mood tracker
+    * personal health records
+
+    There are many more when you sign up.
+  permalink: medhelp
+  created_at: 2009-12-28 22:08:31
+  tags:
+    - health
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.medhelp.org-.png
+-
+  id: 120
+  name: LivingTime
+  url: http://www.livingtime.com/
+  slogan: Personal memory manager
+  description: |-
+    LivingTime may be best described as a personal memory manager, to record life's events.
+    It is a combination of journal, scrapbook, logbook, calendar, and timeliner.
+
+    Enter your life facts and eventsâ€”along with any photos or sounds or movies to associate with each eventâ€”and gain new perspectives on what youâ€™ve experienced and who you are.
+
+    Want to scroll down memory lane, or perhaps find patterns in your past? Canâ€™t remember exactly how the events in your life unfolded? Where you worked or lived, or the people in your life?
+  permalink: livingtime
+  created_at: 2009-12-28 22:12:47
+  tags:
+    - timeline
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.livingtime.com-.png
+-
+  id: 121
+  name: PedalBrain
+  url: http://en.pedalbrain.com/
+  slogan: A realtime cycling computer, training website, and coaching platform
+  description: Pedal Brain can be thought of as three integrated products. First, it's an iPod and iPhone ANT+ accessory. Second, it's a complete training log. Third, it's a coaching platform. Each of these products have been designed together and as such integrate perfectly well. There's no distinction between your workouts on the web and your workouts on the iPhone or iPod. Simply go for a ride and all your performance data is uploaded in realtime to the web where coaches, teammates and friends can see it (if you allow them to). There's no post workout data upload step with Pedal Brain. Similarly there's no need to copy your workouts onto paper and stuff in your jersey before heading out. It's already there on your iPhone or iPod.
+  permalink: pedalbrain
+  created_at: 2009-12-29 05:36:32
+  tags:
+    - cycling
+  platforms:
+    - website
+    - ios
+  approved: true
+  thumbnail: en.pedalbrain.com-.png
+-
+  id: 122
+  name: Rootein
+  url: http://rootein.com/
+  slogan: The fun and easy way to improve habits
+  description: Rootein lets you define habits and track progress as you go along. Mark the calendar everyday you get up early or hit the gym. Receive reminders so you can never say "I forgot". Get an instant picture of how you've been doing. Feel better!
+  permalink: rootein
+  created_at: 2009-12-29 05:44:33
+  tags:
+    - goals
+  platforms:
+    - website
+  approved: true
+  thumbnail: rootein.com-.png
+-
+  id: 125
+  name: FitClick
+  url: http://www.fitclick.com/
+  slogan: A social networking site for self-tracking
+  description: |-
+    A social networking site to track weight, food intake, and exercise.
+    All the tools are free. Make friends and stay fit.
+  permalink: fitclick
+  created_at: 2009-12-30 15:16:39
+  tags:
+    - exercise
+    - food
+    - twitter
+    - weight
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.fitclick.com-.png
+-
+  id: 126
+  name: Klok
+  url: http://klok.mcgraphix.com/klok/
+  slogan: Personal time tracking made easy
+  description: Keep track of anything with Klok's simple work timer and visual display of how your days "fill up".
+  permalink: klok
+  created_at: 2009-12-31 11:56:29
+  tags:
+    - productivity
+  platforms:
+    - website
+  approved: true
+  thumbnail: klok.mcgraphix.com-klok.png
+-
+  id: 127
+  name: ManicTime
+  url: http://www.manictime.com/
+  slogan: Personal time management software
+  description: |-
+    Use application tracking software to easily log work hours.
+    # Track computer usage.
+    # Track used applications. ManicTime tracks which applications you use and presents them in an easy to understand way.
+    # Tag time. Use tracked data to accurately tag how you spend your time.
+  permalink: manictime
+  created_at: 2009-12-31 11:58:46
+  tags:
+    - productivity
+    - time management
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.manictime.com-.png
+-
+  id: 128
+  name: SlimTimer
+  url: http://slimtimer.com/
+  slogan: All your timesheet are belong to us.
+  description: |-
+    From the SlimTimer, you can create tasks and even share them with your coworkers and those you report to.
+
+    Open the SlimTimer and click on a task to start the clock and click again when you're finished. If you've completed the task click the checkbox to mark it off. Close the browser when you're done.
+
+    Run reports of not only your time but also that of your coworkers and reportees. You can export any report to CSV(Excel).
+  permalink: slimtimer
+  created_at: 2009-12-31 12:02:57
+  tags:
+    - productivity
+    - time management
+  platforms:
+    - website
+  approved: true
+  thumbnail: slimtimer.com-.png
+-
+  id: 129
+  name: Project Hamster
+  url: http://projecthamster.wordpress.com/
+  slogan: Time tracking for the masses
+  description: |-
+    Project Hamster is time tracking for the masses. It helps you to keep track on how much time you have spent during the day on activities you have set up.
+
+    Whenever you change from doing one task to other, you change your current activity in Hamster. After a while you can see some statistics of how many hours you have spent on what. Maybe print it out, or export to some suitable format, if time reporting is a request of your employee.
+  permalink: project-hamster
+  created_at: 2009-12-31 12:05:49
+  tags:
+    - productivity
+    - time management
+  platforms:
+    - website
+  approved: true
+  thumbnail: projecthamster.wordpress.com-.png
+-
+  id: 130
+  name: Lose It!
+  url: http://www.loseit.com/
+  slogan: Succeed at weight loss using your iPhone
+  description: |-
+    Lose It! is a complete and streamlined weight loss application for the iPhone and iPod Touch.
+    * Set goals and establish a daily calorie budget
+    * Stay on track each day by recording your food and exercise
+    * Enter food and exercise easily using a searchable database
+    * Join together with friends for additional support and motivation
+    * Monitor your progress with detailed reports and metrics
+  permalink: lose-it
+  created_at: 2009-12-31 12:14:34
+  tags:
+    - exercise
+    - food
+    - weight
+  platforms:
+    - ios
+  approved: true
+  thumbnail: www.loseit.com-.png
+-
+  id: 131
+  name: Pulse
+  url: http://pulseapp.com/
+  slogan: Monitor the heartbeat of your small business
+  description: |-
+    Pulse is the easy way to manage your cash flow online, allowing you to quickly manage and evaluate your income and expenses.
+
+    Pulse empowers you to make decisions. While other accounting tools let you track your financials, they don't give you the ability to make the tough day to day decisions that happen when running a small business. With Pulse, you can know when to hire that new staff person or make that big new expenditure. You can know when to take a project or even turn one down. With Pulse, you're in control.
+  permalink: pulse
+  created_at: 2009-12-31 12:18:49
+  tags:
+    - finance
+  platforms:
+    - website
+  approved: true
+  thumbnail: pulseapp.com-.png
+-
+  id: 132
+  name: Rationalizer
+  url: http://www.mirrorofemotions.com/
+  slogan: Emotion awareness for online investors
+  description: |-
+    One can think of Rationalizer as a kind of "emotion mirror" in which the user sees the intensity of his feelings, enabling him to take financial decisions which are less emotionally charged and more rationally founded.
+
+    The Rationalizer concept is joint exploration project by the ABN AMRO Dialogues Incubator and Philips Design.
+  permalink: rationalizer
+  created_at: 2009-12-31 12:23:27
+  tags:
+    - conceptual
+    - mood
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.mirrorofemotions.com-.png
+-
+  id: 133
+  name: RX Digita ADC II
+  url: http://www.rxdigita.com/
+  slogan: Smart products for smartphones
+  description: Rxdigita is an Android application which connects with Google Health and allows the user to set cyclic alarms on their medications.  Tracks when medications are taken and if medications are  repeatedly missed an emergency contact is notified.
+  permalink: rx-digita-adc-ii
+  created_at: 2009-12-31 12:27:46
+  tags:
+    - medication
+  platforms:
+    - android
+  approved: true
+  thumbnail: www.rxdigita.com-.png
+-
+  id: 134
+  name: SeeMyWhere
+  url: http://seemywhere.com/
+  slogan: Share your location
+  description: |-
+    SeeMyWhere sends your mobile phone's location to a map and to Facebook in realtime. All it takes is a quick software download to your phone and you'll be ready to share your location with friends and family in minutes. You can view locations from your computer or your phone.
+    Want to see where your friends are? Invite them! After you sign up, you can import your contacts straight from Gmail, Hotmail, and other major email services.
+  permalink: seemywhere
+  created_at: 2009-12-31 12:32:22
+  tags:
+    - location
+  platforms:
+    - android
+    - ios
+  approved: true
+  thumbnail: seemywhere.com-.png
+-
+  id: 135
+  name: MoodLog
+  url: http://moodlog.org/
+  slogan: Log your mood
+  description: |-
+    A moodlog records how you're feeling throughout a period in your life. Moodlog.org is a service that helps you track your moods. At any time, using email, web, SMS, or Twitter, you can send it a brief note describing how you feel. This note can be as short as "ok" or as long as you like. Later, you can come back and check the records. Maybe you'll notice some patterns.
+
+    You can also set up a schedule so Moodlog can send you an email or SMS to remind you to check in.
+  permalink: moodlog
+  created_at: 2009-12-31 12:37:04
+  tags:
+    - mood
+  platforms:
+    - website
+  approved: true
+  thumbnail: moodlog.org-.png
+-
+  id: 136
+  name: Spendly Touch
+  url: http://spendly.com/touch/
+  slogan: Simple income and expense tracking on iPhone
+  description: |-
+    Lets face it, tracking your incomes and expenses isn't fun. Spendly reduces the pain by keeping things simple. Tracking where your money comes from and where it goes is the first step to saving money. Spendly is also great for keeping track of your money on a trip or for a single type of transaction. For instance, track how much you spend on wine. The results may just scare you sober!
+
+    Using Spendly on a day-to-day basis not only simplifies tax time, it also lets you assess your finances at a glance. Open Spendly and you can quickly see if you're making money, or losing money. A green total means you're doing well, a red total means you need to stop and review your income and spending.
+  permalink: spendly-touch
+  created_at: 2009-12-31 12:39:30
+  tags:
+    - finance
+  platforms:
+    - website
+    - ios
+  approved: true
+  thumbnail: spendly.com-touch.png
+-
+  id: 137
+  name: MoneyBook
+  url: http://www.moneybookapp.com/
+  slogan: Track and manage your finances on iPhone
+  description: The simple and elegant way to track and manage your finances. Your budget at a glance, and expense tracking at your fingertips.
+  permalink: moneybook
+  created_at: 2009-12-31 12:41:16
+  tags:
+    - finance
+  platforms:
+    - website
+    - ios
+  approved: true
+  thumbnail: www.moneybookapp.com-.png
+-
+  id: 138
+  name: My Every Move
+  url: http://myeverymove.com/
+  slogan: Log your every move
+  description: |-
+    With My Every Move, you can create daily diary of all your travels automatically.
+    Using a small client installed on your smart phone, you can easily keep track of your every move!
+    Forgot where you were last Tuesday?
+    Simply refer to your My Every Move diary and view your log for that day.
+    My Every Move is a simple and secure way to help you build your location diary.
+  permalink: my-every-move
+  created_at: 2009-12-31 19:26:58
+  tags:
+    - travel
+  platforms:
+    - ios
+    - android
+  approved: true
+  thumbnail: myeverymove.com-.png
+-
+  id: 139
+  name: Philips DirectLife
+  url: http://www.directlife.philips.com/
+  slogan: Get everyone moving
+  description: |-
+    DirectLife combines state-of-the-art activity monitoring with personal feedback and support to help you make lasting changes towards a healthier, more active lifestyle.
+    Their goal is simple: to get everyone moving.
+
+    To achieve this, DirectLife offers something other programs don't.
+    Instead of focusing on just one or two aspects of the healthy living puzzle,
+    DirectLife brings the pieces together in an easy-to-use program that supports you step-by-step on the road to a healthier you.
+
+    Based on your initial assessment, DirectLife will develop an activity plan personalized to fit your needs.
+    The program provides state of the art activity monitoring and tracking to help you reach your fitness goals, while supporting you with inspirational feedback on your progress and healthy living advice.
+    There's even an interactive community area where you can see how well others are doing - a healthy 'competition' of sorts. And if you have questions or need an extra push, a personal coach is on hand to provide answers and motivation.
+  permalink: philips-directlife
+  created_at: 2009-12-31 19:40:04
+  tags:
+    - exercise
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.directlife.philips.com-.png
+-
+  id: 140
+  name: Gas Cubby
+  url: http://appcubby.com/gas/
+  slogan: Sensible car care
+  description: Gas Cubby is the ultimate tool for tracking gas mileage and vehicle maintenance. Whether you're a hypermiler, or just want a reminder to change the oil, Gas Cubby will help save you money and keep your vehicle operating at its peak.
+  permalink: gas-cubby
+  created_at: 2010-01-01 17:01:09
+  tags:
+    - gas mileage
+  platforms:
+    - ios
+  approved: true
+  thumbnail: appcubby.com-gas.png
+-
+  id: 141
+  name: Trip Cubby
+  url: http://appcubby.com/trip/
+  slogan: Mileage log made simple
+  description: |-
+    Trip Cubby is a polished, full featured app; essential for anyone who needs to track mileage for tax deduction or reimbursement.
+
+    After many failed attempts over the years at keeping a paper mileage log, AppCubby created Trip Cubby to take the time and tedium out of this money saving process. We designed Trip Cubby to be fast, clever, and above all, easy to use. With predictive input, auto-entry, auto-calculation, and quick access to frequent trips, Trip Cubby does the hard work for you. A few quick taps will create useful data ready to search, sort, and generate email reports.
+  permalink: trip-cubby
+  created_at: 2010-01-01 19:02:30
+  tags:
+    - travel
+  platforms:
+    - ios
+  approved: true
+  thumbnail: appcubby.com-trip.png
+-
+  id: 142
+  name: Health Cubby
+  url: http://appcubby.com/health/
+  slogan: Social fitness
+  description: |-
+    Everyone knows what it takes to live a healthy life: eat well, exercise, and keep indulgences in check. So, why do so few of us actually do it? Motivation.
+
+    Health Cubby helps you actually do the things you know you should. You won't be incessantly tracking calories or counting every last repetition at the gym. Instead, Health Cubby helps you set simple, realistic goals and tracks your progress in achieving them.
+  permalink: health-cubby
+  created_at: 2010-01-01 19:03:33
+  tags:
+    - exercise
+    - food
+    - weight
+  platforms:
+    - ios
+  approved: true
+  thumbnail: appcubby.com-health.png
+-
+  id: 144
+  name: LastGraph
+  url: http://lastgraph3.aeracode.org/
+  slogan: Explore your Last.fm listening history
+  description: |-
+    LastGraph is a web-based service that aims to give you a new way to explore your last.fm listening history. We use the last.fm API to transfer across your basic profile data, and then crunch it around in various interesting (and often hilariously inefficient) ways.
+
+    LastGraph currently offers the following:
+    * Live browsing of individual artist histories, as well as your entire artist chart.
+    * Rendered posters, displaying your musical history in a pretty and digestable format.
+    * Data export of your profile data in various formats.
+  permalink: lastgraph
+  created_at: 2010-01-03 02:48:43
+  tags:
+    - music
+  platforms:
+    - website
+  approved: true
+  thumbnail: lastgraph3.aeracode.org-.png
+-
+  id: 145
+  name: ZumeLife
+  url: http://zumelife.com/
+  slogan: Innovative tools for living well
+  description: |-
+    If you have a chronic illness, Zume Life frees you to live your life by making self-care activities easier.
+
+    Make your life easier today:
+    * Get timely reminders for all your health activities
+    * Easily record everything you need to track
+
+    Improve your health over time:
+    * Observe patterns and trends in your health
+    * Share easily with your caregivers
+  permalink: zumelife
+  created_at: 2010-01-03 03:00:31
+  tags:
+    - health
+  platforms:
+    - website
+  approved: true
+  thumbnail: zumelife.com-.png
+-
+  id: 146
+  name: FitWatch
+  url: http://www.fitwatch.com/
+  slogan: Get the data, get the knowledge, get fit
+  description: |-
+    FitWatch is a web site that would give you basic information about fitness along with tools to analyze and track your fitness, and which would allow you to focus on improving myself emotionally and intellectually.
+
+    Some fitness sites only focused on "dieting" (lose 10 pounds by July 10th!) and would tell you what to eat. Still others focused on both nutrition and exercise but had no support forums, and were again telling you exactly what to do. And with some you would have to answer many questions before you could even find out how much they charge. Almost all didn't focus on self-improvement.
+  permalink: fitwatch
+  created_at: 2010-01-03 03:14:01
+  tags:
+    - exercise
+    - food
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.fitwatch.com-.png
+-
+  id: 147
+  name: Disciplanner
+  url: http://www.disciplanner.com/
+  slogan: Long term goal management without micro-management
+  description: Disciplanner.com is a web site for tracking long term personal goals and bad habits. No hourly schedules, just commit to weekly goals and record time, that's it.
+  permalink: disciplanner
+  created_at: 2010-01-05 01:24:17
+  tags:
+    - anything
+    - goals
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.disciplanner.com-.png
+-
+  id: 148
+  name: Salud!
+  url: http://salud.cc.gatech.edu/
+  slogan: A platform for meeting your health and wellness goals
+  description: |-
+    Individuals frequently take an active role in managing day-to-day aspects of their health, like improving nutrition or increasing physical activity. Clinicians also increasingly teach health self-management skills to patients with a range of chronic illnesses, such as diabetes, hypertension or arthritis.
+
+    The Salud! research team is designing and developing Salud!, a web-based platform for supporting health self-management. Salud! will allow its users to track personally-relevant aspects of their everyday life, and provide visualization and analytics tools with which to make sense of the resulting datasets. In effect, Salud! is a health-oriented, capture and analysis tool for temporal data.
+  permalink: salud
+  created_at: 2010-01-05 02:35:44
+  tags:
+    - health
+  platforms:
+    - website
+  approved: true
+  thumbnail: salud.cc.gatech.edu-.png
+-
+  id: 149
+  name: Goodreads
+  url: http://www.goodreads.com/
+  slogan: Track books you read
+  description: Goodreads is the largest social network for readers in the world. A place for casual readers and bona-fide bookworms alike, Goodreads members recommend books, compare what they are reading, keep track of what they've read and would like to read, form book clubs and much more. Goodreads was launched in December 2006.
+  permalink: goodreads
+  created_at: 2010-01-05 17:54:59
+  tags:
+    - books
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.goodreads.com-.png
+-
+  id: 150
+  name: Normalisr
+  url: http://www.normalisr.com/
+  slogan: Time-based charts of your last.fm music data
+  description: |-
+    A little application to rank your favourite artists and albums by an estimation of how long you have spent listening to them.
+
+    The form takes your last.fm username, gets the lists of your favourite artists or albums and estimates the time you have spent listening to each of them based on track length data taken from Musicbrainz. The resulting table shows your standard last.fm charts, with reordered rankings based on your estimated listening time.
+  permalink: normalisr
+  created_at: 2010-01-08 07:03:24
+  tags:
+    - music
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.normalisr.com-.png
+-
+  id: 151
+  name: WattVision
+  url: http://www.wattvision.com/
+  slogan: Your home energy use, live.
+  description: |-
+    Wattvision makes the best consumer-installed energy sensor on the market. All you need is an Internet connection and access to your electric meter.
+
+    Your whole-house energy use data will be available on the web or on your mobile device, updated every 10 seconds.
+
+    The first step to improving something is measuring it. With live information on your home's energy use, you can take steps to reduce consumption, and see the live impact of these changes.
+  permalink: wattvision
+  created_at: 2010-01-08 07:09:42
+  tags:
+    - electricity
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.wattvision.com-.png
+-
+  id: 152
+  name: LIFEmee
+  url: http://www.lifemee.com/
+  slogan: Store all of your information in one place
+  description: LIFEmee is a site that organizes everything about "YOU". By organizing your lifestream and items, as well as sharing information with your friends and family, you'll have everything at your fingertips.
+  permalink: lifemee
+  created_at: 2010-01-08 07:16:40
+  tags:
+    - anything
+    - social web
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.lifemee.com-.png
+-
+  id: 176
+  name: DailyMile
+  url: http://www.dailymile.com/
+  slogan: A social training log for runners, triathletes, and cyclists.
+  description: A social training log for runners, triathletes, and cyclists. Dailymile is the easiest way to share your training with friends and stay motivated.
+  permalink: dailymile
+  created_at: 2010-01-13 16:03:37
+  tags:
+    - exercise
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.dailymile.com-.png
+-
+  id: 177
+  name: PhysicsDiet
+  url: http://www.physicsdiet.com/
+  slogan: Chart your weight
+  description: |-
+    PhysicsDiet.com will chart your weight and show you how much weight you are losing and how many calories under your daily calorie allowance you are.
+    * Track your weight loss without going crazy.
+    * Find out exactly how many calories your body burns.
+  permalink: physicsdiet
+  created_at: 2010-01-13 16:04:10
+  tags:
+    - weight
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.physicsdiet.com-.png
+-
+  id: 178
+  name: NutriMirror
+  url: http://www.nutrimirror.com/
+  slogan: Free food journal, exercise log, and diet analysis
+  description: |-
+    If your goal is to be in nutritional balance and to either lose weight, gain weight, or to maintain current weight, NutriMirror provides accurate feedback.
+
+    Log food and exercise choices each day and get personalized feedback (your "Reflection") to help you assess and successfully manage the behaviors that determine your body weight and nutritional balance. When your Reflections are reported in green, you've done well â€” your calorie count (weight control) and nutritional benchmarks are in balance. When reported in red, there are imbalances that require your attention. A simple click lets you quickly assess your deficiencies, and provides the informed guidance that moves you to green.
+  permalink: nutrimirror
+  created_at: 2010-01-13 16:04:44
+  tags:
+    - food
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.nutrimirror.com-.png
+-
+  id: 179
+  name: 43Things
+  url: http://www.43things.com/
+  slogan: Maintain a list of your goals
+  description: |-
+    People have known for years that making a list of goals is the best way to achieve them. But most of us never get around to making a list. 43 Things is great for that!
+    Make a list on 43 Things and see what changes happen in your life.
+    Best of all it's a way of connecting with other enthusiasts interested in everything from watching a space shuttle launch to grow my own vegetables.
+    So the next time someone asks you, what do you do? you can answer with confidence, I am doing 43 things!
+  permalink: 43things
+  created_at: 2010-01-13 16:05:10
+  tags:
+    - goals
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.43things.com-.png
+-
+  id: 180
+  name: BubbleTimer
+  url: http://www.bubbletimer.com/
+  slogan: Track how you spend your time
+  description: A web application that lets you track how you spend your time each day by filling in "bubble-like" controls.
+  permalink: bubbletimer
+  created_at: 2010-01-13 16:32:31
+  tags:
+    - time management
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.bubbletimer.com-.png
+-
+  id: 181
+  name: DailyDiary
+  url: http://www.dailydiary.com/
+  slogan: Journal all sorts of things about your life
+  description: |-
+    DailyDiary.com is a free online service that makes it easy for you to keep a diary (or journal) of all sorts of things about your life. A DailyDiary doesn't have to be made up of just words, it can be numbers too. This lets you keep track of things you can't with any other diary service on the web.
+
+    *How does it work?*
+
+    * Sign up for questions you want to answer to create your diary.
+    * Reply to simple E-mail reminders sent to your Inbox.
+
+    A DailyDiary doesn't have to be kept daily and it can be private or public. You have total control.
+  permalink: dailydiary
+  created_at: 2010-01-16 05:33:23
+  tags:
+    - anything
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.dailydiary.com-.png
+-
+  id: 182
+  name: LibraryThing
+  url: http://www.librarything.com/
+  slogan: Catalog your books online
+  description: LibraryThing is an online service to help people catalog their books easily. You can access your catalog from anywhereâ€”even on your mobile phone. Because everyone catalogs together, LibraryThing also connects people with the same books, comes up with suggestions for what to read next, and so forth.
+  permalink: librarything
+  created_at: 2010-01-16 18:23:56
+  tags:
+    - books
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.librarything.com-.png
+-
+  id: 183
+  name: Graphomatic
+  url: http://graphomatic.net/
+  slogan: Graph your life
+  description: Graphomatic is your personal dashboard. Record and graph anything you like, quickly and easily. See everything in one place. You can also share data with your friends.
+  permalink: graphomatic
+  created_at: 2010-01-18 15:25:54
+  tags:
+    - anything
+  platforms:
+    - website
+  approved: true
+  thumbnail: graphomatic.net-.png
+-
+  id: 184
+  name: Symptom Journal
+  url: http://www.symptomjournal.com/
+  slogan: Track your symptoms.  Get Answers. Live Well.
+  description: The Symptom Journal is a health suite featuring custom questions for 17 health conditions including extensive checklists, daily and monthly questions, nutrition & exercise module, writing journal, goal setting tools and a friends network.    Excellent reporting functionality allows the user to see which behaviors led to better days and which led to ones that were worse.
+  permalink: symptom-journal
+  created_at: 2010-01-19 18:42:22
+  tags:
+    - anything
+    - health
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.symptomjournal.com-.png
+-
+  id: 185
+  name: miCoach
+  url: http://www.adidas.com/us/micoach/
+  slogan: Helps you achieve your physical fitness goals
+  description: |-
+    miCoach guides you on the path to gettingâ€”and stayingâ€”fit. Whether you have the miCoach Gear or not, miCoach is a coaching experience designed to help you achieve your personal goals.
+
+    With miCoach, you can:
+    * Choose a plan.
+    * Create a custom workout.
+    * Manage your schedule.
+    * Hear real-time coaching.
+    * Track your progress.
+    * Enter stats manually.
+    * Map your routes.
+  permalink: micoach
+  created_at: 2010-01-24 22:41:53
+  tags:
+    - exercise
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.adidas.com-us-micoach.png
+-
+  id: 186
+  name: Migraine Living
+  url: http://www.migraineliving.com
+  slogan: Track and report on all your migraine triggers
+  description: MigraineLiving is a place for migraineurs to track their triggers and graph their migraine trends.  MigraineLiving also provides an online community where people can blog about their experiences and share their own personal remedies.
+  permalink: migraine-living
+  created_at: 2010-02-05 22:53:20
+  tags:
+    - migraine
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.migraineliving.com-.png
+-
+  id: 187
+  name: Skimble
+  url: http://www.skimble.com/
+  slogan: Track your active life
+  description: Skimble is the ultimate companion for active people on the web and mobile. Use Skimble to easily plan, track, and discover your active life. Our mission at Skimble is to inspire active lifestyles! Use Skimble to track your sports activities and monitor your athletic progress. Share your achievements with friends, follow their updates, and motivate each other. Whether you run, hike, bike, rock climb, ski, snowboard, kayak, canoe, do cardio, lift weights, or practice yoga and pilates, join the fun and skimble it!
+  permalink: skimble
+  created_at: 2010-02-19 01:52:37
+  tags:
+    - exercise
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.skimble.com-.png
+-
+  id: 188
+  name: IOGraph
+  url: http://iographica.com/
+  slogan: Track your mouse cursor wherever it goes
+  description: |-
+    Formerly known as MousePath it was made by Moscow designer Anatoly Zenkov to brighten up the routine work. Posting it at Flickr caused informal interest and afterward Anatoly Zenkov and his colleague Andrey Shipilov decided to evolve the app.
+
+    IOGraph â€” is an application that turns mouse movements into a modern art. The idea is that you just run it and do your usual day stuff at the computer. Go back to IOGraph after a while and grab a nice picture of what youâ€™ve done!
+  permalink: iograph
+  created_at: 2010-02-20 03:04:35
+  tags:
+    - mouse activity
+  platforms:
+    - desktop
+  approved: true
+  thumbnail: iographica.com-.png
+-
+  id: 189
+  name: TallyZoo
+  url: http://tallyzoo.com/
+  slogan: If it's important to you, track it.
+  description: |-
+    You need a way to manage the data in your life.
+    TallyZoo is for people who need to track different types of information.
+    For some people that is cups of coffee, for others it is revenue per store (or both)! TallyZoo is Easy, Quick and Mobile.
+
+    With TallyZoo, you can:
+    * Use the interactive graphs to see your information quickly.
+    * Create dashboards to organize what is most important to you.
+    * We make it easy for you to track the things that are important to you, and share only those activities that you want to.
+  permalink: tallyzoo
+  created_at: 2010-02-23 04:00:38
+  tags:
+    - anything
+  platforms:
+    - website
+  approved: true
+  thumbnail: tallyzoo.com-.png
+-
+  id: 190
+  name: Dayta
+  url: http://daytaapp.com/
+  slogan: Track and reflect on everything about you
+  description: |-
+    Dayta is a data tracking application that allows you to track literally everything about you; from your weight, to how many glasses of water you've had today, or even your kill/death ratio in Call of Duty, Dayta can track it all.
+
+    Features:
+    * Track and reflect on everything about you.
+    * Export data through email, along with a nice CSV file.
+    * Create folders to organize your data.
+    * Wipe a data log once you're done tracking a piece of data.
+    * Consolidate data daily (automatically add values within a day together, useful for tracking glasses of water).
+  permalink: dayta
+  created_at: 2010-02-25 15:57:14
+  tags:
+    - anything
+  platforms:
+    - website
+    - ios
+  approved: true
+  thumbnail: daytaapp.com-.png
+-
+  id: 191
+  name: 1DayLater
+  url: http://1daylater.com/
+  slogan: Keep track of your time, money and business miles
+  description: |-
+    Whether you freelance or run your own small business, tracking your time, mileage and daily cashflow is super important.
+
+    1DayLater lets you keep an exact record of your activities and will give you confidence in your business, invoices and productivity.
+
+    Features:
+    * Seeing your working habits is a great way to motivate yourself and become more productive.
+    * Our interface has been designed so you can log your activities in literally seconds. You have lots to worry about in your business, and 1DayLater will cut down your admin time to a fraction of what it was.
+    * Having an accurate working history lets you know exactly the hours you've worked, expenses accrued and business miles travelled. Your invoices will be air tight and you'll have renewed confidence in your worth.
+    * Stay organised regardless of where you are or what you're doing - our phone apps let you record business miles, time with clients and casual expenses while on the move, and our desktop apps lets you record your time in the office too!
+  permalink: 1daylater
+  created_at: 2010-02-25 15:59:12
+  tags:
+    - productivity
+  platforms:
+    - website
+  approved: true
+  thumbnail: 1daylater.com-.png
+-
+  id: 192
+  name: LastHistory
+  url: http://www.frederikseiffert.de/lasthistory/
+  slogan: Visualizing Last.fm Listening Histories and Personal Streams
+  description: |-
+    LastHistory allows you to analyze music listening histories from Last.fm through an interactive visualization and to explore your own past by combining the music you listened to with your own photos and calendar entries. It is written as a desktop application for Mac OS X v10.5 or higher.
+
+    LastHistory can be used in one of two modes, each of which is optimized for a different use case:
+
+    * *Analysis Mode*
+    This mode can be used for interactively analyzing an arbitrary listening history (not necessarily your own) in three basic dimensions: time, tracks and genre. Integrated tools like searching, playlist highlighting, mouse-over information, and zooming allow to generate insight for the visualized music listening history in each of those dimensions.
+    * *Personal Mode*
+    This mode adapts the visualization shown in Analysis mode for exploring your own past: by adding photos from your iPhoto library and calendar entries from iCal to the visualization, you can reminisce about your past by listening to the top tracks from your last vacation while watching a slide show of the corresponding photos. Or you can find the most influential tracks that you listened to most during a specific timeframe by inspecting the highlighted tracks in the visualization.
+  permalink: lasthistory
+  created_at: 2010-03-07 18:29:46
+  tags:
+    - music
+  platforms:
+    - website
+  approved: true
+  thumbnail: frederikseiffert.de_lasthistory.png
+-
+  id: 193
+  name: Eat.ly
+  url: http://eat.ly
+  slogan: Track, Share & Discover Great Food
+  description: Eat.ly lets you keep a visual record of meals you've eaten, encouraging healthier and more social eating. Whether you're a foodie or a nutritionist, you'll love eat.ly. Start tracking meals today.
+  permalink: eat-ly
+  created_at: 2010-03-28 19:58:34
+  tags:
+    - food
+  platforms:
+    - website
+  approved: true
+  thumbnail: eat.ly_.png
+-
+  id: 226
+  name: gottaFeeling
+  url: http://gottafeeling.com/
+  slogan: gottaFeeling?  Share it
+  description: |-
+    gottaFeeling is an iPhone app to identify, express and track your emotions.  It is free to download and available in English and Spanish.
+
+    Ever notice how the moment you recognize how you feel and express it you feel better?
+
+    That's the idea behind the gottaFeeling mobile application.
+
+    Benefits of using gottaFeeling:
+
+    * Make better decisions
+    * Improve relationships
+    * Build a stronger pre-frontal cortex
+
+    Features:  reminders, sharing, and reports!
+
+    A basic report is a list of all your logged feelings and it is free.  Advanced reporting is $1.99 and includes geo-location tracking and feelings by date and time.
+
+    Getting in touch with your feelings is the first step to happiness.  gottaFeeling will show you how.
+
+    Follow us on Twitter @gottafeelingapp
+    You can reach us at gottafeelingapp@gmail.com
+
+
+  permalink: gottafeeling
+  created_at: 2011-02-09 08:33:35
+  tags:
+    - mood
+  platforms:
+    - ios
+  approved: true
+  thumbnail: gottafeeling.com-.320.png
+-
+  id: 195
+  name: Daily Tracker for the iPhone
+  url: http://www.thedailytracker.com
+  slogan: A personal organizer combining several utilities into one.
+  description: |-
+    Daily Tracker is a breakthrough personal organizer that allows you to take notes, organize to-do lists or track other important things in your life, such as your workouts, habits, goals, illness, medication, food allergies, expenses, earnings, memories, news, time spent on projects and actually... pretty much anything else you can think of.
+
+    :: TOP FEATURES
+
+    * Customize to track anything
+    * Week, Month and Year summaries
+    * Trend charts
+    * Notes with photos, voice memos & maps
+    * Integrated RSS Reader
+    * Instant word-wheel search
+    * Email notes and entries
+    * Sync Notes to Google Docs
+    * Upload data to Google Spreadsheets
+    * Backup and Restore to Google Docs
+    * Password protection
+    * Portrait and Landscape orientation
+
+    But above all, a growing community and a 24hr support. Visit our website to learn more.
+
+
+  permalink: daily-tracker-for-the-iphone
+  created_at: 2010-04-22 04:44:18
+  tags:
+    - anything
+  platforms:
+    - ios
+  approved: true
+  thumbnail: thedailytracker.com-wordpress.png
+-
+  id: 196
+  name: Readernaut
+  url: http://readernaut.com
+  slogan: The easiest way to share what you're reading with friends.
+  description: Share your reading experience by writing notes, tracking progress, and engaging in meaningful discussions with friends.
+  permalink: readernaut
+  created_at: 2010-04-23 22:02:37
+  tags:
+    - books
+  platforms:
+    - website
+  approved: true
+  thumbnail: readernaut.com.png
+-
+  id: 197
+  name: Last Night's Check-ins
+  url: http://lastnightscheckins.com
+  slogan: Last Night's Check-ins is a painless way to keep a log of what you did when you were out based on your Foursquare check-ins.
+  description: |-
+    # Every day around lunchtime we'll email you a list of your check-ins from the previous night.
+    # You write back with some notes or stories about each of those stops.
+    # We receive your notes and save them here, so you can come back and view them all whenever you want.
+    # "Oh, the memories!", you'll say as you sit by a roaring fire, reading and remembering your antics from months ago.
+
+    Bonus! Get a map of your check-ins!
+  permalink: last-night-s-check-ins
+  created_at: 2010-04-26 20:51:21
+  tags:
+    - location
+  platforms:
+    - website
+  approved: true
+  thumbnail: lastnightscheckins.com-.png
+-
+  id: 199
+  name: MIO Watch
+  url: http://www.miowatch.com/
+  slogan: The watch that knows your heart rate
+  description: |-
+    * On demand, ECG Accurate heart rate without a chest strap
+    * Patented calorie management system allowing users to track calorie intake throughout the day and calories burned during exercise against a daily calorie target
+    * Get results faster with the MIO 3500 Calorie Club program
+    * Percentage of maximum heart rate
+    * Full featured sports watch including alarm, exercise timer, date and backlit display Interchangeable watch band with colors to fit your every mood (additional bands sold separately)
+    * BONUS: MioSense Guide to Healthy Living
+  permalink: mio-watch
+  created_at: 2010-04-29 14:58:33
+  tags:
+    - exercise
+  platforms:
+    - device
+  approved: true
+  thumbnail: www.miowatch.com-.png
+-
+  id: 200
+  name: reQall
+  url: http://www.reqall.com/
+  slogan: Remember what's important to you with reQall
+  description: |-
+    reQall is a voice-enabled memory aid that seamlessly integrates your mobile phone, email, text messaging and IM into a powerful organizer, reminder system and productivity assistant. reQall lets you capture your ideas, tasks and commitments before you forget, and it proactively keeps you well-prepared and memory-strong.
+
+    Explore the pages below to see what you can do with reQall and learn how it integrates with the devices and programs youâ€™re already using. See our comparison chart to learn about the two versions of reQall, Standard and Pro.
+  permalink: reqall
+  created_at: 2010-04-29 15:06:40
+  tags:
+    - notes
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.reqall.com-.png
+-
+  id: 201
+  name: NextFit
+  url: http://www.nextfit.com/
+  slogan: Go-anywhere personal trainer
+  description: |-
+    You get professional, personal coaching with the world's top trainers in the palm of your hand.
+    Plug in the Keychain Trainer for instant access to more than 30 of the world's top fitness experts.
+    NextFit combines customized personal training sessions with more than 150 tracks of professionally-engineered music to create a fitness program that motivates, keeps you moving, and gets results.
+  permalink: nextfit
+  created_at: 2010-04-29 15:08:26
+  tags:
+    - exercise
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.nextfit.com-.png
+-
+  id: 202
+  name: BodyBugg
+  url: http://www.bodybugg.com/
+  slogan: A personal calorie management system
+  description: The BodyBugg system includes an armband sensor that tracks physical activity (calories out), and a Web application where the user enters information on food intake (calories in).  A variety of analysis tools are included with the Web application.
+  permalink: bodybugg
+  created_at: 2010-05-02 11:22:04
+  tags:
+    - exercise
+  platforms:
+    - device
+  approved: true
+  thumbnail: bodybugg.com-.png
+-
+  id: 203
+  name: Lifetick
+  url: http://lifetick.com/
+  slogan: Goal setting made simple
+  description: Lifetick is web-based software that brings together goals like you've never seen them before. Complete with reminders that you can set yourself and a journal that captures everything you do.
+  permalink: lifetick
+  created_at: 2010-05-02 18:01:33
+  tags:
+    - anything
+    - goals
+  platforms:
+    - website
+  approved: true
+  thumbnail: lifetick.com-.png
+-
+  id: 204
+  name: iPod nano
+  url: http://www.apple.com/ipodnano/features/fitness.html
+  slogan: iPod nano has a built-in pedometer
+  description: iPod nano now doubles as a pedometer. It uses the built-in accelerometer to keep track of your steps and help you meet your fitness goals. You can create a daily step goal or set it to Always On so it counts all the steps you take all the time.
+  permalink: ipod-nano
+  created_at: 2010-05-04 15:14:28
+  tags:
+    - exercise
+  platforms:
+    - device
+  approved: true
+  thumbnail: www.apple.com-ipodnano-features-fitness.html.png
+-
+  id: 205
+  name: Healthy Habits Coach
+  url: http://glyph.stanford.edu/coach/
+  slogan: Creating and sustaining health habits through social media
+  description: Your Healthy Habits Coach is a web browser extension intended to help you create & sustain healthy habits through social media technology.
+  permalink: healthy-habits-coach
+  created_at: 2010-05-06 14:51:11
+  tags:
+    - health
+  platforms:
+    - website
+  approved: true
+  thumbnail: glyph.stanford.edu-coach.png
+-
+  id: 206
+  name: FoodPad Calorie Tracker
+  url: http://www.lightbringersoftware.com/products/foodpad/
+  slogan: The simplest way to track your calories on the iPhone
+  description: FoodPad is designed to make it as easy as possible to keep track of what you eat. Simply enter the name of the food and the number of calories it has and tap Add Food.
+  permalink: foodpad-calorie-tracker
+  created_at: 2010-05-06 18:38:52
+  tags:
+    - food
+  platforms:
+    - ios
+  approved: true
+  thumbnail: www.lightbringersoftware.com-products-foodpad.png
+-
+  id: 207
+  name: Momento iPhone App
+  url: http://www.momentoapp.com/
+  slogan: Diary writing for iPhone and iPod Touch
+  description: |-
+    Momento is a unique diary/journal writing app for iPhone & iPod touch,
+    which provides a quick and easy way to record 'moments' throughout your day.
+
+    Connect with popular social web services, such as Twitter, Facebook, Flickr and Last.fm, to collect and display your online activity as part of your diary.
+
+    * Privately record your daily activities, experiences, thoughts and ideas on the go.
+    * Tag people, places &amp; events for a fast and effective way to browse and search your diary.
+    * Create custom tags to categorise and keyword moments however you wish.
+    * Import your social activity to display it alongside your personal moments.
+    * Search and browse by content, date and tags to easily recall, reflect and reminisce.
+  permalink: momento-iphone-app
+  created_at: 2010-05-26 17:18:45
+  tags:
+    - journal
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.momentoapp.com-.320x240.png
+-
+  id: 208
+  name: Limits iPhone App
+  url: http://www.juicycocktail.com/limits/limits.php
+  slogan: Track everything in your life
+  description: |-
+    Lets you track everything in your life. You can add your expenses, weight, call time, or even tweetups, and track their progress. The interface is very clean and simple to use so you can easily adjust your limits while you are on the go.
+
+    Updating a limit's value is just a few taps away.
+
+    * Adding and modifying what we call limits; it's like a goal you set for a certain part of your life, no matter if it's related to your work, recreation, weight or other subjects
+    * Uncluttered interface: it's easy to navigate through the application;
+    the details view fits on one screen so you don't have to scroll
+    * Overview screen with graphical gradient bars: everything at one place
+    * History: set a goal and track your achievements over a period of time
+
+  permalink: limits-iphone-app
+  created_at: 2010-05-26 17:19:07
+  tags:
+    - anything
+  platforms:
+    - website
+    - ios
+  approved: true
+  thumbnail: www.juicycocktail.com-limits-limits.php.320x240.png
+-
+  id: 209
+  name: WhereDoYouGo
+  url: http://www.wheredoyougo.net/
+  slogan: Create a heat map of your Foursquare checkins
+  description: Use this site to create and share a heat map of your Foursquare checkins. Login with your Google account first, and then authenticate with Foursquare - don't worry, we don't see either password.
+  permalink: wheredoyougo
+  created_at: 2010-05-26 17:19:28
+  tags:
+    - location
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.wheredoyougo.net-.320x240.png
+-
+  id: 210
+  name: ReadMore
+  url: http://navel-labs.com/apps/readmore
+  slogan: Track your reading habits
+  description: ReadMore is a reading log, a diary to show you your reading habits and motivate you with relevant feedback. It helps break large books into more manageable pieces and keeps track of your progress.
+  permalink: readmore
+  created_at: 2010-05-26 17:19:44
+  tags:
+    - books
+  platforms:
+    - ios
+  approved: true
+  thumbnail: navel-labs.com-apps-readmore.320x240.png
+-
+  id: 211
+  name: WeightBot
+  url: http://tapbots.com/software/weightbot/
+  slogan: Track your weight
+  description: Weightbot is a simple weight tracking app that makes weight management fun! Just enter your weight daily and see your trends get plotted on a beautiful graph. Set weight goals, watch your progress, and view interesting analytical data about your weight changes. If you are tired of complex and tedious weight management applications, youâ€™ll find Weightbot to be very refreshing and quite enjoyable. As simple as Weightbot sounds, read on to learn more about the powerful features it has.
+  permalink: weightbot
+  created_at: 2010-05-26 17:20:06
+  tags:
+    - weight
+  platforms:
+    - ios
+  approved: true
+  thumbnail: tapbots.com-software-weightbot.320x240.png
+-
+  id: 212
+  name: SleepCycle
+  url: http://www.lexwarelabs.com/sleepcycle/
+  slogan: Analyze your sleep pattern
+  description: |-
+    The Sleep Cycle alarm clock is a bio-alarm clock that analyzes your sleep patterns and wakes you when you are in the lightest sleep phase.
+
+    Waking up in the lightest sleep phase feels like waking without an alarm clock - it is a natural way to wake up where you feel rested and relaxed.
+
+    Sleep Cycle has become a huge success with a #1 paid app position in many countries, including Germany, Japan and Russia.
+
+    Since you move differently in bed during the different phases, Sleep Cycle uses the accelerometer in your iPhone to monitor your movement to determine which sleep phase you are in.
+  permalink: sleepcycle
+  created_at: 2010-05-26 17:21:17
+  tags:
+    - sleep
+  platforms:
+    - ios
+  approved: true
+  thumbnail: www.lexwarelabs.com-sleepcycle.320x240.png
+-
+  id: 225
+  name: Chart Myself
+  url: http://chartmyself.com
+  slogan: Know yourself better than your doctor
+  description: Do certain foods make you sleepy? Does your mood improve with exercise? Are your supplements or medications doing any good? Now you can have the answers. Chartmyself.com helps you track single or multiple aspects of your health and lifestyle to see how they change. Watch patterns emerge between symptoms, sleep, exercise, body measurements, food consumption, treatments, and more! Anonymous, free and beautifully designed.
+  permalink: chart-myself
+  created_at: 2011-01-16 18:43:53
+  tags:
+    - anything
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.chartmyself.com-.320.png
+-
+  id: 214
+  name: Daileez
+  url: http://www.daileez.com/
+  slogan: The first icon online diary & journal
+  description: |-
+    Daileez is the first icon diary & online journal that gives you a backwards glance at your life and the lives of others, in icons.
+    Use what you experienced and "iconize" your day.
+    Choose an icon that best describes your activity.
+    If an icon isn't enough, you can add a detailed text description of your activity.
+    Connect Daileez with your Facebook and Twitter accounts to send updates there as well.
+  permalink: daileez
+  created_at: 2010-07-16 16:09:25
+  tags:
+    - journal
+  platforms:
+    - website
+  approved: true
+  thumbnail: daileez.com-.320.png
+-
+  id: 215
+  name: GoalsOnTrack
+  url: http://www.goalsontrack.com
+  slogan: Keep your goals on track and get things done.
+  description: GoalsOnTrack is an easy to use, web 2.0 style goal setting, goal tracking, task and time management software that helps you accomplish any goals in life.
+  permalink: goalsontrack
+  created_at: 2010-08-04 18:52:36
+  tags:
+    - goals
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.goalsontrack.com-.320.png
+-
+  id: 216
+  name: MyMigraineJournal
+  url: http://mymigrainejournal.com/
+  slogan: Statistical analysis of your migraine triggers
+  description: |-
+    A web-based tool to make it easy to keep a migraine journal... with statistical computation to make it easy to figure out what's triggering headaches.
+
+    (via "Seth Roberts' blog post":http://www.blog.sethroberts.net/2010/09/11/assorted-links-75/ )
+  permalink: mymigrainejournal
+  created_at: 2010-09-13 15:42:37
+  tags:
+    - migraine
+  platforms:
+    - website
+  approved: true
+  thumbnail: mymigrainejournal.com-.320.png
+-
+  id: 217
+  name: LoungeLog
+  url: http://www.loungelog.de/
+  slogan: Track, Review and Share Any Kind of Media
+  description: |-
+    LoungeLog is a completely free service enabling you to track your daily media consumption. It differs from other popular tracking services in its independency of specific media types.
+
+    Whenever you have interesting media you just heard, watched or read, you can track this media on LoungeLog and later gain interesting insights into your consumer behaviour.
+  permalink: loungelog
+  created_at: 2010-09-19 16:56:32
+  tags:
+    - media
+  platforms:
+    - website
+  approved: true
+  thumbnail: loungelog.de-.320.png
+-
+  id: 218
+  name: Health Month
+  url: http://healthmonth.com
+  slogan: Live healthy, for fun.
+  description: |-
+    Health Month is a new social game about taking the SCIENCE of nutrition and behavior change and combining it with the SOCIAL GAMES of the recent social web to help people improve their health habits in a fun and sustainable way.
+
+    The formula for living healthier has 4 incredients:
+    1) The information (most people have this, and we can help fill gaps)
+    2) The ability (most people have this too)
+    3) The motivation (who doesn't want to be healthier, at least a little bit, right?)
+    4) The fun and sustainable trigger. The reason. The self-challenge. The game.
+
+    The game that helps you live healthy, not because you have to, but because it's fun. Fun simply motivates more than guilt, and the end result is the same.
+  permalink: health-month
+  created_at: 2010-09-27 13:48:46
+  tags:
+    - goals
+    - health
+  platforms:
+    - website
+  approved: true
+  thumbnail: healthmonth.com-.320.png
+-
+  id: 220
+  name: Choice by Choice
+  url: http://logiccolony.com/choicebychoice/
+  slogan: Achieve your goals - one choice at a time.
+  description: |-
+    Every day we make choices that help or prevent us from accomplishing our goals.
+
+    Choice by Choice lets you quickly and easily record these choices. It's as simple as a single tap of a button.
+
+    Clear, clean graphics show your progress. Spot any bad habits and times when you need to make better choices.
+  permalink: choice-by-choice
+  created_at: 2011-01-02 20:31:16
+  tags:
+    - goals
+  platforms:
+    - website
+    - ios
+  approved: true
+  thumbnail: logiccolony.com-choicebychoice.320.png
+-
+  id: 221
+  name: FridgeGraph
+  url: http://www.fridgegraph.com
+  slogan: A free on-line service to make losing weight a bit more fun!
+  description: |-
+    Track your weight loss plan visually with a simple web interface. You can start by setting up a personal weight loss plan - how much weight you want to lose by what date. Then you can add new weights over time, and even add comments to each weight. Fridge Graph will display your progress as a graph and tell you how well you are keeping to your goal. It will also calculate your BMI and BMR, and much more.
+
+    If you want to up the ante in your weight loss plan, you can share your graph with friends and family, including other Fridge Graph members. They will be able to view your progress at any time. The idea being that peer pressure and the potential for public humiliation may help you stay on target better.
+
+    All of these features are completely free.
+  permalink: fridgegraph
+  created_at: 2011-01-03 17:08:54
+  tags:
+    - weight
+  platforms:
+    - website
+  approved: true
+  thumbnail: fridgegraph.com-.320.png
+-
+  id: 223
+  name: textWeight
+  url: https://textweight.com
+  slogan: A simple way to track your weight and see your progress
+  description: |-
+    textWeight sends you a text message in the morning.  You reply with your weight and can then see a graph of you weight on their website.
+
+    It's that simple.  Just being aware of your weight is a huge step.
+  permalink: textweight
+  created_at: 2011-01-05 09:52:07
+  tags: []
+  platforms:
+    - website
+  approved: true
+  thumbnail: textweight.com-.320.png
+-
+  id: 224
+  name: Catch
+  url: http://catch.com
+  slogan: Capture what matters
+  description: Catch is a mobile, cloud-based, personal information management system, with note-taking and information capture apps for Android, iPhone, and online.
+  permalink: catch
+  created_at: 2011-01-05 15:48:58
+  tags:
+    - anything
+  platforms:
+    - website
+    - ios
+    - android
+  approved: true
+  thumbnail: catch.com-.320.png
+-
+  id: 227
+  name: Drinking Diary
+  url: http://www.drinkingdiary.com/index.html
+  slogan: Monitor how much alcohol you drink - and reduce it!
+  description: www.drinkingdiary.com provides online facilities for users to calculate how many units they drink, and record this on a daily basis to see if their drinking is within healthy limits. It provides weekly unit averages by week, month, and year periods so that users can if desired bring down the ammount they consume. This information is provided in an easy to use interface
+  permalink: drinking-diary
+  created_at: 2011-02-15 22:59:12
+  tags:
+    - drinking
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.drinkingdiary.com-index.html.320.png
+-
+  id: 228
+  name: Duuble
+  url: http://duuble.com
+  slogan: It's your life.
+  description: |-
+    Duuble is a diary/self-tracking/microblogging web service. You record things that happen to you currently, so you'll never forget that it happened, no matter how insignificant it could have been.
+
+    These events can made public and published on a blog-like page that you can then share with others.
+
+    Duuble is also making microblogging more visual by associating icons with your entries. Duuble can also be used to track the books you have read this month, the food you ate this week etc.
+  permalink: duuble
+  created_at: 2011-03-04 11:39:09
+  tags:
+    - anything
+  platforms:
+    - website
+  approved: true
+  thumbnail: duuble.com-login.320.png
+-
+  id: 229
+  name: SmashRun
+  url: http://www.smashrun.com/
+  slogan: Stats for runners
+  description: With SmashRun, you can track your progress towards your running goals. Along the way you earn badges to motivate you to keep going. You can also share your stats with peers using Facebook and Twitter.
+  permalink: smashrun
+  created_at: 2011-05-16 13:28:53
+  tags:
+    - exercise
+  platforms:
+    - website
+  approved: true
+  thumbnail: smashrun.com-.320.png
+-
+  id: 230
+  name: Fertility Friend iPhone app
+  url: http://www.fertilityfriend.com/iphone/
+  slogan: Easy tool to predict your menstrual cycle
+  description: FertilityFriend.com's Menstrual Calendar is a simple and easy to use calendar designed to predict your menstrual cycles and possible fertile days.
+  permalink: fertility-friend-iphone-app
+  created_at: 2011-05-25 07:27:46
+  tags:
+    - menstruation
+  platforms:
+    - ios
+  approved: true
+  thumbnail: www.fertilityfriend.com-iphone.320.png
+-
+  id: 231
+  name: GravityEight
+  url: http://www.gravityeight.com/index.php/
+  slogan: Achieve Balance & Wellbeing for Life
+  description: |-
+    Gravity Eight is about finding ways to lead a more balanced life.  We believe that wellbeing results from finding and maintaining a balance across a wide range of personal activities.  We think life is better when we have the tools we needs to assess and improve our lives.
+
+    Wellbeing isn't connected only to our physical health.  According to experts, our quality of life depends on a balance between eight different areas of life.  Thus:  GravityEight.
+
+    Digitization is making it increasingly possible to track and evaluate elements of our lives, many with a direct impact on daily wellbeing.  At Gravity Eight, we provide the tools and information you need to measure and relay in real time everything from the quality of your exercise and sleep to the health of your leisure and and personal relationships.
+
+    Gravity Eight encourages the discovery and integration of new technology and Internet tools, using the latest devices to measure and relay (in real time) the effects of sleep, body weight, and optimal exercise on our bodies;  the number of hours spent on work vs. family relationships; our hobbies;  and the quality of our financial planning.  Using assessment tools and tracking and measuring devices, GravityEight allows you to create a comprehensive record of personal well-being data, allowing a wide-angle view of your status and progress.
+  permalink: gravityeight
+  created_at: 2011-05-28 00:14:08
+  tags:
+    - anything
+    - wellbeing
+  platforms:
+    - website
+  approved: true
+  thumbnail: www.gravityeight.com-index.php.320.png
+-
+  id: 232
+  name: Health Tracking Network
+  url: http://www.healthtracking.net/
+  slogan: Monitor common illnesses and discover factors related to illness
+  description: |-
+    In the Health Tracking Network, people across the world work together to monitor common illnesses and discover factors related to illness.
+
+    When you join the Health Tracking Network, you:
+    * spend 2-3 minutes per week answering questions about illness symptoms and other topics,
+    * earn money for charities of your choice, and
+    * can track your own health, fitness, or anything of interest to you with separate tracking tools.
+
+    Participation is completely anonymous.
+  permalink: health-tracking-network
+  created_at: 2011-06-03 19:06:40
+  tags:
+    - health
+  platforms:
+    - website
+  approved: true
+  thumbnail: healthtracking.net-.320.png
+-
+  id: 234
+  name: Dojo
+  url: http://dojo.com
+  slogan: Master yourself.
+  description: Dojo is a platform for mastery. Master yourself with some help from your friends.
+  permalink: dojo
+  created_at: 2011-08-05 08:29:41
+  tags: []
+  platforms:
+    - website
+  approved: true
+  thumbnail: dojo.com-320.png
+-
+  id: 235
+  name: Foodspotting
+  url: http://www.foodspotting.com/
+  slogan: A visual guide to good food and where to find it.
+  description: |-
+    Foodspotting is the easiest way to find and share the foods you love:
+    Instead of reviewing restaurants, you can recommend your favorite dishes and see what others have recommended wherever you go.
+  permalink: foodspotting
+  created_at: 2011-10-26 18:45:28
+  tags: []
+  platforms:
+    - website
+    - ios
+    - android
+  approved: true
+  thumbnail: www.foodspotting.com-320.png
+-
+  id: 236
+  name: i.strive.to
+  url: http://i.strive.to
+  slogan: strive for greatness with i.strive.to
+  description: i.strive.to is a tool that helps you define and track all of your goals, and other personal matrices in one place. See the big picture, i.strive.to helps you analyze, visualize, and summarize all of your data providing a complete overview of your life.
+  permalink: i-strive-to
+  created_at: 2011-10-27 15:15:57
+  tags: []
+  platforms:
+    - website
+  approved: true
+  thumbnail: i.strive.to-320.png
+-
+  id: 238
+  name: TagLog
+  url: http://market.android.com/details?id=com.waterbear.taglog
+  slogan: Probably the fastest way to log information on a handheld device.
+  description: Keep a digital logbook with button taps. Create a well-formatted log entry in literally two seconds. Log directly from your Android homescreen with button widgets.  A plethora of charting options to explore your data.
+  permalink: taglog
+  created_at: 2011-11-02 16:24:23
+  tags: []
+  platforms:
+    - website
+-
+  id: 239
+  name: Candide Kemmler
+  url: http://fluxtream.com
+  slogan: Own your data and make sense of it, too
+  description: |-
+    Track your daily habits, identify your strengths and weaknesses and become a better person
+
+    Get a comprehensive view on your self-tracking devices and the services that you use to organize your life
+  permalink: candide-kemmler
+  created_at: 2011-11-29 16:43:42
+  tags: []
+  platforms:
+    - website
+-
+  id: 440
+  name: MoodPanda
+  url: http://moodpanda.com
+  slogan: Interactive Mood Diary
+  description: MoodPanda.com mood tracking iPhone app and website is a community of friendly people who regularly update their mood, share problems and celebrate each othersâ€™ happiness.
+  permalink: moodpanda
+  created_at: 2012-01-26 22:13:09
+  tags: []
+  platforms:
+    - website
+-
+  id: 441
+  name: Shared Events Network
+  url: http://sharedevents.net
+  slogan: Live... log... learn...
+  description: We make it easy for people to capture daily events and gain insight into the patterns of their lives. Compare your daily patterns with other Members while maintaining your privacy and retaining ownership of all your Data. Alpha-testing is now open - free life-time accounts for all alpha-testers. SharedEvents.net
+  permalink: shared-events-network
+  created_at: 2012-01-28 21:41:54
+  tags: []
+  platforms:
+    - website
+-
+  id: 442
+  name: mappiness
+  url: http://www.mappiness.org.uk
+  slogan: mappiness maps happiness
+  description: |-
+    Mappiness is a free app for your iPhone. It's part of a research project at the London School of Economics. We'd love to have you on board!
+
+    *How does it work?*
+
+    You get Mappiness from the App Store, open it, and sign up.
+
+    We beep you once (or more) a day to ask how you're feeling, and a few basic things to control for: who you're with, where you are, what you're doing (if you're outdoors, you can also take a photo).
+
+    The data gets sent back â€” anonymously and securely â€” to our data store, along with your approximate location from the iPhone's GPS, and a noise-level measure.
+
+    *What's in it for you?*
+
+    Interesting information about your own happiness, which you can download or see charted inside the app â€” including when, where and with whom you're happiest.
+
+    The warm glow of helping increase the sum of human knowledge.
+
+    *What's in it for us?*
+
+    We're particularly interested in how people's happiness is affected by their local environment â€” air pollution, noise, green spaces, and so on â€” which the data from Mappiness will be absolutely great for investigating.
+
+  permalink: mappiness
+  created_at: 2012-03-06 18:21:09
+  tags: []
+  platforms:
+    - website
+-
+  id: 443
+  name: Uri Keren
+  url: www.sleeprate.com
+  slogan: We Know Sleep By Heart
+  description: SleepRate is a consumer sleep tracking and management solution based on consumer heart rate monitor devices supporting ANT+, Wearlink, Bluetooth & BLE devices. SleepRate is based on our medically tested, FDA/CE certified sleep diagnostics technology. SleepRate is a device independent cloud-based internet/mobile service that allows consumers to measure and manage their sleep using conventional widely available heart rate monitor devices.
+  permalink: uri-keren
+  created_at: 2012-04-17 20:30:52
+  tags: []
+  platforms:
+    - website
+-
+  id: 445
+  name: Renew SleepClock
+  url: http://www.renewsleepclock.com/
+  slogan: Wake up to a smarter way of sleeping
+  description: |-
+    Renew SleepClock is the revolutionary sleep monitor by GEAR4 that works in conjunction with the FREE Renew SleepClock App for iPhone, iPod touch and iPad.
+
+    The sensor within Renew SleepClock allows you to accurately monitor your sleep without the need for wires or wristbands.
+    The Renew SleepClock sensor knows when you are asleep and whether you're in light or deep sleep.
+    It even knows if you left your bed during the night.
+    It accurately measures your breathing and movement and wakes you at the most appropriate time within a pre-set wake-up range.
+
+    Use the app to monitor your sleep patterns each night and see how efficiently you are sleeping. You can review data daily, weekly and monthly to see what progress you make towards a better night's sleep.
+
+    Visit RenewSleepClock.com for more info about sleep and see how Renew can help you.
+  permalink: renew-sleepclocktm
+  created_at: 2012-05-15 14:55:08
+  tags: []
+  platforms:
+    - website
+-
+  id: 446
+  name: Remember the milk
+  url: rememberthemilk.com
+  slogan: Remember The Milk makes managing tasks an enjoyable experience.
+  description: Managing tasks is generally not a fun way to spend your time. We created Remember The Milk so that you no longer have to write your to-do lists on sticky notes, whiteboards, random scraps of paper, or the back of your hand. Remember The Milk makes managing tasks an enjoyable experience.
+  permalink: remember-the-milk
+  created_at: 2012-07-25 17:31:25
+  tags: []
+  platforms:
+    - website
+-
+  id: 447
+  name: Zenobase
+  url: https://zenobase.com/
+  slogan: Collect and analyze self-tracking data.
+  description: Zenobase is a flexible service for recording and aggregating measurements, locations, and other data.
+  permalink: zenobase
+  created_at: 2012-08-22 06:52:33
+  tags: []
+  platforms:
+    - website
+-
+  id: 448
+  name: Workaholic app
+  url: http://itunes.apple.com/us/app/workaholic-app/id555260141?ls=1&mt=8
+  slogan:
+  description: |-
+    Workaholic is an iPhone app that automatically quantifies the time you spend at work.
+
+    Workaholic combines location information from cellular and wifi networks together with GPS to determine your location while saving battery power. Since Workaholic mainly relies on cellular and wifi networks, your workplace should be at least one km from your home. The time you spend at work is computed locally on the device, and your location is not shared with anyone.
+
+    Additionally, Workaholic provides you with a .csv file containing the output of the location algorithm, which you can use as input for your own data mining or visualization. Each row of the file contains a date and the amount of time spent at work on that day.
+  permalink: workaholic-app
+  created_at: 2012-09-24 19:14:26
+  tags: []
+  platforms:
+    - website
+-
+  id: 449
+  name: Life Balance app
+  url: http://itunes.apple.com/us/app/life-balance-app/id556310495?ls=1&mt=8
+  slogan:
+  description: |-
+    Life Balance is an iPhone app that automatically quantifies the time you spend at work, at home and out, helping you in finding balance in your daily life.
+
+    Life Balance combines location information from cellular and wifi networks together with GPS to determine your location while saving battery power. Since Life Balance mainly relies on cellular and wifi networks, your workplace should be at least one km from your home. The time you spend at work, at home, or out, is computed locally on the device, and your location is not shared with anyone.
+
+    Additionally, Life Balance provides you with a .csv file containing the output of the location algorithm, which you can use as input for your own data mining or visualization. Each row of the file contains a date and the amount of time spent at work, at home and out on that day.
+  permalink: life-balance-app
+  created_at: 2012-09-24 19:16:41
+  tags: []
+  platforms:
+    - website
+-
+  id: 451
+  name: OmniContext Personal Analytics
+  url: http://www.omnicontext.org/
+  slogan: Be You. See You.
+  description: Personal Analytics is an innovative handy tool to make sure our wants are aligned with our daily activities. Simple to use, it keeps a track record of your actions, letting you know whether your goals are being achieved and you eventually gain new bonus level. Both, for your personal life, education, or for new career opportunities.
+  permalink: omnicontext-personal-analytics
+  created_at: 2012-11-27 12:48:19
+  tags: []
+  platforms:
+    - website
+-
+  id: 873
+  name: Truth about electronic cigarettes
+  url: http://sharonbardavid.com/
+  slogan: awdpodwe
+  description: There are two ways of constructing a software design; one way is  to make it so simple that there are obviously no deficiencies,  and the other way is to make it so complicated that there are no  obvious deficiencies. The first method is far more difficult.
+  permalink: truth-about-electronic-cigarettes
+  created_at: 2014-04-19 05:41:21
+  tags: []
+  platforms:
+    - website
+-
+  id: 667
+  name: FoundMoney
+  url: http://www.getfoundmoney.com/tracking-landing-page
+  slogan: You're Richer Than You Think
+  description: |-
+    Imagine: You're at Starbucks and decide to skip the $3 muffin and save the money--but how do you keep track of that $3 you saved?
+
+    Saving money is tough enough--but tracking it until now has been impossible. FoundMoney is here to help!
+
+    With FoundMoney, you can quickly and easily add in what you've done to save money and how much you've saved. Then, our app tracks the amount you've saved in a running total, so you can see how much your small changes ($2 here, $10 there) have added up.
+
+
+    The next time you're at that store or restaurant, you can execute the same savings transaction with a single swipe. It's easy!
+
+    Plus -- you can see what <b>other </b>users have done to save money. See an idea you like or haven't thought of? Track it and do it the next time you're out.
+
+    Before you know it, you'll be saving hundreds of dollars a month. Whether that becomes a tropical vacation, a home remodel or a college savings is up to you.
+
+    FoundMoney makes saving money and tracking your savings fun and easy!
+  permalink: foundmoney
+  created_at: 2013-12-03 16:06:46
+  tags: []
+  platforms:
+    - website
+-
+  id: 702
+  name: Codealike
+  url: https://codealike.com/
+  slogan: Powerful Metrics  for High Performance Developers
+  description: |-
+    Codealike is a pluging which tracks the activity of software developers while coding, and shows anlytics such as: working patterns, technology usage, focus level, and team work.
+    It's designed to help developers to improve their productivity.
+
+  permalink: codealike
+  created_at: 2014-02-03 16:07:56
+  tags: []
+  platforms:
+    - website
+-
+  id: 744
+  name: Pain Diary CatchMyPain
+  url: http://www.catchmypain.com/
+  slogan: Visualize, Track and Understand Your Pain
+  description: |-
+    Are you suffering from pain? The CatchMyPain app is an electronic pain diary that allows tracking pain in a structured and visual way.
+
+    You can...
+    ... express your pain by using detailed drawings, among many other instruments
+    ... use the generated charts to see how your pain develops and observe the treatment success
+    ... use the pain diary for understanding your pain and explaining it to others
+    ... thereby foster research and support the fight against pain
+  permalink: pain-diary-catchmypain
+  created_at: 2014-02-20 08:28:58
+  tags: []
+  platforms:
+    - website
+-
+  id: 772
+  name: Keepzer
+  url: www.keepzer.com
+  slogan: A world that knows you
+  description: |-
+    Keepzer analyses your digital activity to give you incredibly personal experiences. Apps built on Keepzer might just understand you better than you understand yourself.
+
+    Simply connect to Keepzer with the websites and apps that you already use. Our systems analyse it, like a group of world experts thinking about you on your behalf. When you sign in to an app supporting Keepzer, the app can serve you with exactly the song you wanted to listen to, or people you should meet etc.
+  permalink: keepzer
+  created_at: 2014-03-01 13:56:12
+  tags: []
+  platforms:
+    - website
+-
+  id: 777
+  name: surya wimla
+  url: www.whatsapp.com
+  slogan:
+  description: history chats
+  permalink: surya-wimla
+  created_at: 2014-03-02 19:22:56
+  tags: []
+  platforms:
+    - website
