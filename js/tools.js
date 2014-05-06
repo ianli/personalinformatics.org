@@ -22,24 +22,22 @@
     });
 
     // Generate a list of tags from the hash of tags.
-    var tagsList = $.map(tagsHash, function (value, key) {
-                      return {
-                        id: key,
-                        value: value
-                      };
-                    });
-
-    tagsList.sort(function (a, b) {
-      if (a.id > b.id) {
-        return 1;
-      } else if (a.id < b.id) {
-        return -1;
-      } else {
-        return 0;
-      }
-    });
-
-    return tagsList;
+    return $.map(tagsHash,
+            function (value, key) {
+              return {
+                id: key,
+                value: value
+              };
+            })
+            .sort(function (a, b) {
+              if (a.id > b.id) {
+                return 1;
+              } else if (a.id < b.id) {
+                return -1;
+              } else {
+                return 0;
+              }
+            });
   }
 
   $(document).ready(function () {
@@ -73,6 +71,11 @@
       $('#tools-frame').isotope({ filter: filterValue });
 
       return false;
+    });
+
+    Echo.init({
+      offset: 100,
+      throttle: 250
     });
   });
 

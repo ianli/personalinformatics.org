@@ -316,6 +316,7 @@ footer {
   .tools-item > img {
     width:200px;
     height:150px;
+    background:#FFF url(../img/loading.gif) no-repeat center center;
   }
   .tools-item-name {
     padding:10px 10px 0 10px;
