@@ -204,7 +204,7 @@ footer {
 
 
 /*******************
- * Webpage Thumbnail
+ * Webpage thumbnail
  */
 .webpage-thumbnail {
   margin-bottom:15px;
@@ -247,6 +247,9 @@ footer {
 #tools-body {
   background-color:#eee;
 }
+/*******************
+ * Tools header
+ */
 #tools-header {
   position:fixed;
   top:0;
@@ -265,6 +268,9 @@ footer {
   #tools-header .navbar-default > .container > .row {
     border-bottom:0;
   }
+/*******************
+ * Tools frame
+ */
 #tools-frame {
   box-sizing:border-box;
   margin-top:60px;
@@ -272,6 +278,9 @@ footer {
   padding:10px;
   min-height:100%;
 }
+/*******************
+ * Tools sidebar
+ */
 #tools-sidebar {
   box-sizing:border-box;
   position:fixed;
@@ -306,7 +315,9 @@ footer {
     text-decoration:none;
     border-radius:2px;
   }
-
+/*******************
+ * Tools items
+ */
 a.tools-item {
   box-sizing:border-box;
   margin:10px;
@@ -318,6 +329,7 @@ a.tools-item {
   border-radius:2px;
   color:initial;
   text-decoration:none;
+  overflow:hidden;
 }
   a.tools-item::before {
     content:' ';
