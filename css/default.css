@@ -287,6 +287,9 @@ footer {
     list-style:none;
     padding:0;
   }
+  #tools-sidebar ul > li {
+    margin-bottom:1px;
+  }
   #tools-sidebar ul > li > a {
     display:block;
     padding:5px 5px;
@@ -304,28 +307,55 @@ footer {
     border-radius:2px;
   }
 
-.tools-item {
+a.tools-item {
   box-sizing:border-box;
   margin:10px;
   padding:0;
   width:200px;
-  height:240px;
+  height:250px;
   background-color:#fff;
   box-shadow:0 2px 5px rgba(0,0,0,0.2);
+  border-radius:2px;
+  color:initial;
+  text-decoration:none;
 }
-  .tools-item > img {
+  a.tools-item::before {
+    content:' ';
+    position:absolute;
+    top:0;
+    left:0;
+    width:200px;
+    height:150px;
+    background-repeat:no-repeat;
+    background-size:200px 50px;
+    background-position:center bottom;
+    background-image:-webkit-linear-gradient(rgba(0,0,0,0), rgba(0,0,0,.1) 67%, rgba(0,0,0,0.2));
+  }
+  a.tools-item:hover {
+    box-shadow:0 2px 15px rgba(0,0,0,0.4);
+  }
+  a.tools-item > img {
     width:200px;
     height:150px;
     background:#FFF url(../img/loading.gif) no-repeat center center;
   }
   .tools-item-name {
-    padding:10px 10px 0 10px;
+    margin:10px 10px 4px 10px;
+    line-height:16px; /* line-height * 1 */
+    max-height:16px;
     font-weight:bold;
     font-size:14px;
-    line-height:16px;
+  }
+  .tools-item-platform {
+    margin:0 10px 6px;
+    line-height:12px; /* line-height * 1 */
+    max-height:12px;
+    font-size:12px;
+    color:#aaa;
   }
   .tools-item-slogan {
-    padding:6px 10px;
-    font-size:12px;
+    margin:0 10px 10px;
+    max-height:42px;  /* line-height * 3 */
     line-height:14px;
+    font-size:12px;
   }
