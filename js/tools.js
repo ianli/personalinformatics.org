@@ -1,4 +1,4 @@
-(function (window, $, undefined) {
+(function (window, $, Echo, undefined) {
 
   var tagRegex = /\btag-\S+\b/g;
 
@@ -10,7 +10,7 @@
           classStr = $this.attr('class'),
           tags = classStr.match(tagRegex);
 
-      if (tags == null) {
+      if (tags === null) {
         return;
       }
 
@@ -42,12 +42,19 @@
 
   $(document).ready(function () {
     // Create Isotope layout.
-    $('#tools-frame').isotope({
-      itemSelector: '.tools-item',
-      layoutMode: 'fitRows',
-      sortBy: 'created_at',
-      sortAscending: false
-    });
+    $('#tools-frame')
+      .isotope({
+        itemSelector: '.tools-item',
+        layoutMode: 'fitRows',
+        sortBy: 'created_at',
+        sortAscending: false
+      })
+      .isotope('on', 'layoutComplete',
+        function (isotopeInstance, laidOutItems) {
+          // Lazy load the images.
+          Echo.render();
+        }
+      );
 
     // Create tags list.
     $.templates("#tmpl-tags-list")
@@ -68,15 +75,21 @@
 
       $currentActive = $this.addClass('active');
 
+      // Filter the tools.
       $('#tools-frame').isotope({ filter: filterValue });
 
       return false;
     });
 
+    // Initialize lazy loading of images.
     Echo.init({
-      offset: 100,
+      offset: 500,
       throttle: 250
     });
+
+    // Dotdotdot
+    $('.tools-item-name, .tools-item-platform, .tools-item-slogan')
+      .dotdotdot({ debug: false });
   });
 
-}(window, jQuery));
+}(window, jQuery, Echo));
