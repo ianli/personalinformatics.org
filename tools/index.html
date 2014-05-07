@@ -60,15 +60,17 @@ section: tools
     <div id="tools-frame">
       {% for tool in site.data.tools %}
         {% if tool.approved %}
-          <div class="tools-item
+          <a class="tools-item
               {% for tag in tool.tags %}
                 {{ tag | replace:' ','-' | prepend:"tag-" }}
               {% endfor %}
-            ">
+            "
+            href="{{ tool.url }}">
             <img src="/img/blank.gif" data-echo="/img/thumbnails/{{ tool.thumbnail }}">
             <div class="tools-item-name">{{ tool.name }}</div>
+            <div class="tools-item-platform">{{ tool.platforms | join:', ' }}</div>
             <div class="tools-item-slogan">{{ tool.slogan }}</div>
-          </div>
+          </a>
         {% endif %}
       {% endfor %}
     </div>
@@ -96,6 +98,7 @@ section: tools
     <!-- ============================== -->
     <script src="/js/isotope.pkgd.min.js"></script>
     <script src="/js/echo.min.js"></script>
+    <script src="/js/jquery.dotdotdot.min.js"></script>
     <script src="/js/tools.js"></script>
   </body>
 </html>
