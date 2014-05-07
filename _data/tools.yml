@@ -1,5 +1,4 @@
 -
-  id: 1
   name: Capzles
   url: http://capzles.com/
   slogan: Combine your videos, photos, and mp3s into multimedia storylines
@@ -11,7 +10,6 @@
   approved: true
   thumbnail: capzles.com-.png
 -
-  id: 2
   name: Dandelife
   url: http://www.dandelife.com/
   slogan: A place for you to record the events of your life
@@ -23,7 +21,6 @@
   approved: true
   thumbnail: www.dandelife.com-.png
 -
-  id: 3
   name: Dipity
   url: http://www.dipity.com/
   slogan: Create timelines that you can share with the world
@@ -36,7 +33,6 @@
   approved: true
   thumbnail: www.dipity.com-.png
 -
-  id: 4
   name: Lifeblob
   url: http://www.lifeblob.com/
   slogan: Share experiences, memories and events with your friends
@@ -48,7 +44,6 @@
   approved: true
   thumbnail: www.lifeblob.com-.png
 -
-  id: 5
   name: Lifesnapz
   url: http://lifesnapz.com/
   slogan: Share and explore life's events with friends
@@ -60,7 +55,6 @@
   approved: true
   thumbnail: lifesnapz.com-.png
 -
-  id: 6
   name: OurStory
   url: http://www.ourstory.com/
   slogan: Capture your stories
@@ -72,7 +66,6 @@
   approved: true
   thumbnail: www.ourstory.com-.png
 -
-  id: 7
   name: thisMoment
   url: http://www.thismoment.com/
   slogan: Save and share the moments of your life
@@ -84,7 +77,6 @@
   approved: true
   thumbnail: www.thismoment.com-.png
 -
-  id: 8
   name: Klout
   url: http://klout.com/
   slogan: Measuring influence across the social web
@@ -98,7 +90,6 @@
   approved: true
   thumbnail: klout.com-.png
 -
-  id: 9
   name: Personas
   url: http://personas.media.mit.edu/
   slogan: Scours the web for information to characterize a person
@@ -110,7 +101,6 @@
   approved: true
   thumbnail: personas.media.mit.edu-.png
 -
-  id: 10
   name: Twitalyzer
   url: http://www.twitalyzer.com/
   slogan: Measure your impact and success in social media
@@ -124,7 +114,6 @@
   approved: true
   thumbnail: www.twitalyzer.com-.png
 -
-  id: 11
   name: Delicious
   url: http://delicious.com/
   slogan: A social bookmarking service
@@ -136,7 +125,6 @@
   approved: true
   thumbnail: delicious.com-.png
 -
-  id: 12
   name: DeliciousDiscovery
   url: http://ianli.com/dd/
   slogan: Reflect on your monthly usage of Delicious bookmarks and tags.
@@ -148,7 +136,6 @@
   approved: true
   thumbnail: ianli.com-dd.png
 -
-  id: 13
   name: Google Bookmarks
   url: http://www.google.com/bookmarks/
   slogan: Bookmark pages with Google
@@ -160,7 +147,6 @@
   approved: true
   thumbnail: www.google.com-bookmarks.png
 -
-  id: 14
   name: Google Web History
   url: http://www.google.com/history/
   slogan: View and manage your Google web history
@@ -172,7 +158,6 @@
   approved: true
   thumbnail: www.google.com-history.png
 -
-  id: 15
   name: Islet 2.0
   url: http://iabetics.com/
   slogan: Diabetes management application for the iPhone and iPod Touch
@@ -184,7 +169,6 @@
   approved: true
   thumbnail: iabetics.com-.png
 -
-  id: 16
   name: SugarStats
   url: http://www.sugarstats.com/
   slogan: Online diabetes management and community support
@@ -196,7 +180,6 @@
   approved: true
   thumbnail: www.sugarstats.com-.png
 -
-  id: 17
   name: Log for Life
   url: http://www.logforlife.com/
   slogan: An online diabetes log book
@@ -208,7 +191,6 @@
   approved: true
   thumbnail: www.logforlife.com-.png
 -
-  id: 18
   name: SweetSpot
   url: https://www.sweetspot.dm/
   slogan: Collaborative diabetes management
@@ -220,7 +202,6 @@
   approved: true
   thumbnail: www.sweetspot.dm-.png
 -
-  id: 19
   name: Holmes
   url: http://www.diykyoto.com/uk/holmes/about
   slogan: Works with Wattson to visualize your electricity usage
@@ -232,7 +213,6 @@
   approved: true
   thumbnail: www.diykyoto.com-uk-holmes-about.png
 -
-  id: 20
   name: Kill-A-Watt
   url: http://www.p3international.com/products/special/P4400/P4400-CE.html
   slogan: Empowers you to save $100's on electric bills
@@ -244,7 +224,6 @@
   approved: true
   thumbnail: www.p3international.com-products-special-P4400-P4400-CE.html.png
 -
-  id: 21
   name: Wattson
   url: http://www.diykyoto.com/uk/wattson/about
   slogan: Helps you see your electricity usage.
@@ -256,7 +235,6 @@
   approved: true
   thumbnail: www.diykyoto.com-uk-wattson-about.png
 -
-  id: 22
   name: Google PowerMeter
   url: http://www.google.org/powermeter/
   slogan: A free electricity usage monitoring tool from Google
@@ -268,7 +246,6 @@
   approved: true
   thumbnail: www.google.org-powermeter.png
 -
-  id: 23
   name: WattzOn
   url: http://www.wattzon.com/
   slogan: The tools you need to track your energy consumption
@@ -280,7 +257,6 @@
   approved: true
   thumbnail: www.wattzon.com-.png
 -
-  id: 24
   name: MailTrends
   url: http://code.google.com/p/mail-trends/
   slogan: Analyze your email usage
@@ -292,7 +268,6 @@
   approved: true
   thumbnail: code.google.com-p-mail-trends.png
 -
-  id: 25
   name: Xobni
   url: http://www.xobni.com/email-analytics
   slogan: Email analytics for Outlook email
@@ -304,7 +279,6 @@
   approved: true
   thumbnail: www.xobni.com-email-analytics.png
 -
-  id: 26
   name: ClearContext
   url: http://online.clearcontext.com/
   slogan: Analyze and compare your email usage and effectiveness
@@ -316,7 +290,6 @@
   approved: true
   thumbnail: online.clearcontext.com-.png
 -
-  id: 27
   name: Miley
   url: http://bunsentech.com/miley/
   slogan: Fuel economy tracker for iPhone
@@ -328,7 +301,6 @@
   approved: true
   thumbnail: bunsentech.com-miley.png
 -
-  id: 28
   name: Appigo
   url: http://www.appigo.com/accufuel/
   slogan: Easily monitor your car's fuel efficiency
@@ -340,7 +312,6 @@
   approved: true
   thumbnail: www.appigo.com-accufuel.png
 -
-  id: 29
   name: Car Care by Karl Becker
   url: http://karlbecker.com/carcare/
   slogan: Calculate your gas mileage at the pump
@@ -352,7 +323,6 @@
   approved: true
   thumbnail: karlbecker.com-carcare.png
 -
-  id: 30
   name: CarStat
   url: http://cogstorm.com/carstat.html
   slogan: Keep track of your car's mileage on the iPhone
@@ -364,7 +334,6 @@
   approved: true
   thumbnail: cogstorm.com-carstat.html.png
 -
-  id: 31
   name: FuelGauge
   url: http://www.iphonecodemonkey.com/FuelGauge.html
   slogan: A simple iPhone app to keep track of your mileage
@@ -376,7 +345,6 @@
   approved: true
   thumbnail: www.iphonecodemonkey.com-FuelGauge.html.png
 -
-  id: 32
   name: GasHog
   url: http://www.adairsystems.com/gashog/
   slogan: The fuel economy tracker for iPhone
@@ -388,7 +356,6 @@
   approved: true
   thumbnail: www.adairsystems.com-gashog.png
 -
-  id: 33
   name: FuelFrog
   url: http://www.fuelfrog.com/
   slogan: Track your gas mileage
@@ -400,7 +367,6 @@
   approved: true
   thumbnail: www.fuelfrog.com-.png
 -
-  id: 34
   name: Fuelly
   url: http://www.fuelly.com/
   slogan: Share and compare your MPG
@@ -412,7 +378,6 @@
   approved: true
   thumbnail: www.fuelly.com-.png
 -
-  id: 35
   name: Mileage Tracker
   url: http://www.mileagetracker.org/
   slogan: Easily maintain your mileage and maintenance records
@@ -424,7 +389,6 @@
   approved: true
   thumbnail: www.mileagetracker.org-.png
 -
-  id: 36
   name: MPGTune
   url: http://www.mpgtune.com/
   slogan: Track your vehicle's MPG or Liters/100km online
@@ -436,7 +400,6 @@
   approved: true
   thumbnail: www.mpgtune.com-.png
 -
-  id: 37
   name: MyMileMarker
   url: http://mymilemarker.com/
   slogan: Record your miles and view reports
@@ -448,7 +411,6 @@
   approved: true
   thumbnail: mymilemarker.com-.png
 -
-  id: 38
   name: Joe's Goals
   url: http://www.joesgoals.com/
   slogan: A simple tool to keep track of your goals
@@ -460,7 +422,6 @@
   approved: true
   thumbnail: www.joesgoals.com-.png
 -
-  id: 39
   name: stickK
   url: http://www.stickk.com/
   slogan: Put a contract on yourself
@@ -472,7 +433,6 @@
   approved: true
   thumbnail: www.stickk.com-.png
 -
-  id: 40
   name: ThankfulFor
   url: http://thankfulfor.com/
   slogan: What are you thankful for today?
@@ -486,7 +446,6 @@
   approved: true
   thumbnail: thankfulfor.com-.png
 -
-  id: 41
   name: CureTogether
   url: http://curetogether.com/
   slogan: Manage your own health
@@ -498,7 +457,6 @@
   approved: true
   thumbnail: curetogether.com-.png
 -
-  id: 42
   name: PatientsLikeMe
   url: http://www.patientslikeme.com/
   slogan: Patients helping patients live better every day
@@ -510,7 +468,6 @@
   approved: true
   thumbnail: www.patientslikeme.com-.png
 -
-  id: 43
   name: MonthlyInfo
   url: http://monthlyinfo.com/
   slogan: A simple tool to keep track of your menstrual cycles
@@ -522,7 +479,6 @@
   approved: true
   thumbnail: monthlyinfo.com-.png
 -
-  id: 44
   name: MyMonthlyCycles
   url: http://www.mymonthlycycles.com/
   slogan: Free tools for your cycles
@@ -534,7 +490,6 @@
   approved: true
   thumbnail: www.mymonthlycycles.com-.png
 -
-  id: 45
   name: ChronoRecord
   url: http://chronorecord.org/software.htm
   slogan: Software to record moods, sleep, medications taken, and life events
@@ -546,7 +501,6 @@
   approved: true
   thumbnail: chronorecord.org-software.htm.png
 -
-  id: 46
   name: HealthEngage Depression
   url: http://www.healthengage.com/healthengagedepression.html
   slogan: Manage depression or bipolar disorder with ease and flexibility
@@ -558,7 +512,6 @@
   approved: true
   thumbnail: www.healthengage.com-healthengagedepression.html.png
 -
-  id: 47
   name: MoodStats
   url: http://www.moodstats.com/
   slogan: Your one-stop personal journal mood diary organizer and recorder
@@ -570,7 +523,6 @@
   approved: true
   thumbnail: www.moodstats.com-.png
 -
-  id: 48
   name: Optimism
   url: http://www.findingoptimism.com/
   slogan: An easy-to-use mood chart and diary to understand your mental health
@@ -582,7 +534,6 @@
   approved: true
   thumbnail: www.findingoptimism.com-.png
 -
-  id: 49
   name: Happy Factor
   url: http://www.happyfactor.com/
   slogan: Learn what makes you happy
@@ -594,7 +545,6 @@
   approved: true
   thumbnail: www.happyfactor.com-.png
 -
-  id: 50
   name: MoodJam
   url: http://www.moodjam.org/
   slogan: Visualize your moods in beautiful color strips
@@ -606,7 +556,6 @@
   approved: true
   thumbnail: www.moodjam.org-.png
 -
-  id: 51
   name: MoodMill
   url: http://www.moodmill.com/
   slogan: Social mood management website
@@ -618,7 +567,6 @@
   approved: true
   thumbnail: www.moodmill.com-.png
 -
-  id: 52
   name: MoodTracker
   url: http://www.moodtracker.com/
   slogan: Track your moods and medications to better understand your treatment's effectiveness.
@@ -630,7 +578,6 @@
   approved: true
   thumbnail: www.moodtracker.com-.png
 -
-  id: 53
   name: Track Your Happiness
   url: http://www.trackyourhappiness.org/
   slogan: What makes you happy?
@@ -642,7 +589,6 @@
   approved: true
   thumbnail: www.trackyourhappiness.org-.png
 -
-  id: 54
   name: Last.fm
   url: http://www.last.fm/
   slogan: Track the music that you listen to the most
@@ -657,7 +603,6 @@
   approved: true
   thumbnail: www.last.fm-.png
 -
-  id: 55
   name: The Printable CEO
   url: http://davidseah.com/blog/the-printable-ceo-series/
   slogan: An investigative approach to design, productivity, and inspiration
@@ -671,7 +616,6 @@
   approved: true
   thumbnail: davidseah.com-blog-the-printable-ceo-series.png
 -
-  id: 56
   name: RescueTime
   url: http://www.rescuetime.com/
   slogan: Automated time tracking and management
@@ -686,7 +630,6 @@
   approved: true
   thumbnail: www.rescuetime.com-.png
 -
-  id: 57
   name: Slife
   url: http://www.slifelabs.com/
   slogan: Activity analytics software
@@ -701,7 +644,6 @@
   approved: true
   thumbnail: www.slifelabs.com-.png
 -
-  id: 58
   name: Wakoopa
   url: http://wakoopa.com/
   slogan: Discover software and games
@@ -717,7 +659,6 @@
   approved: true
   thumbnail: wakoopa.com-.png
 -
-  id: 59
   name: Bedpost
   url: http://bedposted.com/
   slogan: A personal web application that will give you some insight into your sex life.
@@ -729,7 +670,6 @@
   approved: true
   thumbnail: bedposted.com-.png
 -
-  id: 60
   name: SleepTracker
   url: http://www.sleeptracker.com/
   slogan: Track your sleep with a watch
@@ -742,7 +682,6 @@
   approved: true
   thumbnail: www.sleeptracker.com-.png
 -
-  id: 61
   name: Sleep Tracker TYLENOL PM
   url: http://www.tylenol.com/sleeptracker/
   slogan: Track your sleep using your iPhone or iPod Touch
@@ -754,7 +693,6 @@
   approved: true
   thumbnail: www.tylenol.com-sleeptracker.png
 -
-  id: 62
   name: YawnLog
   url: http://www.yawnlog.com/
   slogan: A social sleep tracker
@@ -766,7 +704,6 @@
   approved: true
   thumbnail: www.yawnlog.com-.png
 -
-  id: 63
   name: Zeo
   url: http://www.myzeo.com
   slogan: Personal sleep coach
@@ -779,7 +716,6 @@
   approved: true
   thumbnail: www.myzeo.com-.png
 -
-  id: 64
   name: Qwitter
   url: http://qwitter.tobaccofreeflorida.com/
   slogan: A Twitter tool to help you quit smoking
@@ -793,7 +729,6 @@
   approved: true
   thumbnail: qwitter.tobaccofreeflorida.com-.png
 -
-  id: 65
   name: StepGreen
   url: http://www.stepgreen.org/
   slogan: Track the financial and environmental savings of simple green actions
@@ -805,7 +740,6 @@
   approved: true
   thumbnail: www.stepgreen.org-.png
 -
-  id: 66
   name: TripIt
   url: http://www.tripit.com/
   slogan: Online travel itinerary and trip planner
@@ -819,7 +753,6 @@
   approved: true
   thumbnail: www.tripit.com-.png
 -
-  id: 67
   name: Dopplr
   url: http://www.dopplr.com/
   slogan: Makes your travel planning smarter
@@ -831,7 +764,6 @@
   approved: true
   thumbnail: www.dopplr.com-.png
 -
-  id: 68
   name: Garmin Training Center
   url: http://www.garmin.com/products/trainingcenter/
   slogan: Training tool that works with your Garmin fitness device
@@ -843,7 +775,6 @@
   approved: true
   thumbnail: www.garmin.com-products-trainingcenter.png
 -
-  id: 69
   name: Nokia Step Counter
   url: http://betalabs.nokia.com/betas/view/nokia-step-counter
   slogan: Track your step counts with your Nokia phone
@@ -855,7 +786,6 @@
   approved: true
   thumbnail: betalabs.nokia.com-betas-view-nokia-step-counter.png
 -
-  id: 70
   name: RunKeeper
   url: http://runkeeper.com/
   slogan: Fitness tracking on your mobile phone.
@@ -868,7 +798,6 @@
   approved: true
   thumbnail: runkeeper.com-.png
 -
-  id: 71
   name: Garmin Connect
   url: http://connect.garmin.com/
   slogan: Community of Garmin users who track and share their activities
@@ -880,7 +809,6 @@
   approved: true
   thumbnail: connect.garmin.com-.png
 -
-  id: 72
   name: MapMyRun
   url: http://www.mapmyrun.com/
   slogan: Map your run
@@ -893,7 +821,6 @@
   approved: true
   thumbnail: www.mapmyrun.com-.png
 -
-  id: 73
   name: Nike+
   url: http://www.nikeplus.com/
   slogan: Sync your runs, set personal goals and challenge friends.
@@ -907,7 +834,6 @@
   approved: true
   thumbnail: www.nikeplus.com-.png
 -
-  id: 74
   name: BodyMedia
   url: http://www.bodymedia.com/
   slogan: Armbands and displays to track your physical activity
@@ -920,7 +846,6 @@
   approved: true
   thumbnail: www.bodymedia.com-.png
 -
-  id: 75
   name: FatSecret
   url: http://www.fatsecret.com/
   slogan: All things food and diet
@@ -934,7 +859,6 @@
   approved: true
   thumbnail: www.fatsecret.com-.png
 -
-  id: 76
   name: FitDay
   url: http://www.fitday.com/
   slogan: Free diet and weight loss journal
@@ -947,7 +871,6 @@
   approved: true
   thumbnail: www.fitday.com-.png
 -
-  id: 77
   name: My Calorie Counter
   url: http://www.my-calorie-counter.com/
   slogan: Free online diet journal and calorie counter
@@ -960,7 +883,6 @@
   approved: true
   thumbnail: www.my-calorie-counter.com-.png
 -
-  id: 78
   name: Spark People
   url: http://www.sparkpeople.com/
   slogan: Free tools for nutrition, health, and fitness
@@ -973,7 +895,6 @@
   approved: true
   thumbnail: www.sparkpeople.com-.png
 -
-  id: 79
   name: Traineo
   url: http://www.traineo.com/
   slogan: Support and motivation to reach your health and fitness goals
@@ -986,7 +907,6 @@
   approved: true
   thumbnail: www.traineo.com-.png
 -
-  id: 80
   name: Daily Burn
   url: http://dailyburn.com/
   slogan: A diet and fitness tracking web site
@@ -1001,7 +921,6 @@
   approved: true
   thumbnail: dailyburn.com-.png
 -
-  id: 81
   name: FitBit
   url: http://www.fitbit.com/
   slogan: Automatically tracks your fitness and sleep
@@ -1017,7 +936,6 @@
   approved: true
   thumbnail: www.fitbit.com-.png
 -
-  id: 82
   name: GNUCash
   url: http://www.gnucash.org/
   slogan: Accounting software freely licensed under the GNU GPL
@@ -1029,7 +947,6 @@
   approved: true
   thumbnail: www.gnucash.org-.png
 -
-  id: 83
   name: Quicken
   url: http://quicken.intuit.com/personal-finance-software/deluxe-money-management.jsp
   slogan: Personal finance software from Intuit
@@ -1041,7 +958,6 @@
   approved: true
   thumbnail: quicken.intuit.com-personal-finance-software-deluxe-money-management.jsp.png
 -
-  id: 84
   name: Discover Card Financial Tools
   url: http://www.discoverfinancial.com/financialeducation/fintools.shtml
   slogan: Spending and credit management tools for Discover cardmembers
@@ -1055,7 +971,6 @@
   approved: true
   thumbnail: www.discoverfinancial.com-financialeducation-fintools.shtml.png
 -
-  id: 85
   name: Mint
   url: http://www.mint.com/
   slogan: Free personal finance software online
@@ -1069,7 +984,6 @@
   approved: true
   thumbnail: www.mint.com-.png
 -
-  id: 86
   name: Wesabe
   url: http://www.wesabe.com/
   slogan: Financial management community
@@ -1081,7 +995,6 @@
   approved: true
   thumbnail: www.wesabe.com-.png
 -
-  id: 87
   name: The Daily Plate
   url: http://www.thedailyplate.com/
   slogan: Helping you eat smarter
@@ -1093,7 +1006,6 @@
   approved: true
   thumbnail: www.thedailyplate.com-.png
 -
-  id: 88
   name: TweetWhatYouEat
   url: http://tweetwhatyoueat.com/
   slogan: Keep a food diary via Twitter
@@ -1107,7 +1019,6 @@
   approved: true
   thumbnail: tweetwhatyoueat.com-.png
 -
-  id: 89
   name: TweetYourEats
   url: http://www.tweetyoureats.com/
   slogan: Keep track of your eats using Twitter
@@ -1121,7 +1032,6 @@
   approved: true
   thumbnail: www.tweetyoureats.com-.png
 -
-  id: 90
   name: DataDepot
   url: http://datadepot.msresearch.us/
   slogan: Track, analyze, and share trend lines
@@ -1134,7 +1044,6 @@
   approved: true
   thumbnail: datadepot.msresearch.us-.png
 -
-  id: 91
   name: Polka
   url: http://www.polka.com/
   slogan: Log progress and achieve your goals
@@ -1147,7 +1056,6 @@
   approved: true
   thumbnail: www.polka.com-.png
 -
-  id: 92
   name: LifeMetric
   url: http://lifemetric.com/
   slogan: Track different factors about your life.
@@ -1160,7 +1068,6 @@
   approved: true
   thumbnail: lifemetric.com-.png
 -
-  id: 93
   name: Limeade
   url: http://limeade.com/
   slogan: Measures the key drivers of well-being and health
@@ -1173,7 +1080,6 @@
   approved: true
   thumbnail: limeade.com-.png
 -
-  id: 94
   name: Me-trics
   url: http://www.me-trics.com/
   slogan: Free tool to track what you do everyday
@@ -1193,7 +1099,6 @@
   approved: true
   thumbnail: www.me-trics.com-.png
 -
-  id: 95
   name: Reger
   url: http://reger.com/
   slogan: Personal data blogging
@@ -1206,7 +1111,6 @@
   approved: true
   thumbnail: reger.com-.png
 -
-  id: 96
   name: The Carrot
   url: http://thecarrot.com/
   slogan: Monitor anything using trackers
@@ -1230,7 +1134,6 @@
   approved: true
   thumbnail: thecarrot.com-.png
 -
-  id: 97
   name: Track-n-Graph
   url: http://www.trackngraph.com/
   slogan: Easy way to track and graph information
@@ -1248,7 +1151,6 @@
   approved: true
   thumbnail: www.trackngraph.com-.png
 -
-  id: 98
   name: your.flowingdata
   url: http://your.flowingdata.com/
   slogan: Capture your life in data. One tweet at a time.
@@ -1262,7 +1164,6 @@
   approved: true
   thumbnail: your.flowingdata.com-.png
 -
-  id: 99
   name: Daytum
   url: http://www.daytum.com/
   slogan: Collect, categorize, and communicate your everyday data
@@ -1276,7 +1177,6 @@
   approved: true
   thumbnail: www.daytum.com-.png
 -
-  id: 100
   name: Grafitter
   url: http://www.grafitter.com/
   slogan: Visualizing your life on Twitter, IM, Delicious, and Blogger
@@ -1295,7 +1195,6 @@
   approved: true
   thumbnail: www.grafitter.com-.png
 -
-  id: 101
   name: WakeMate
   url: http://wakemate.com/
   slogan: Analyze your sleep to find the optimal time for you to wake up
@@ -1311,7 +1210,6 @@
   approved: true
   thumbnail: wakemate.com-.png
 -
-  id: 102
   name: WalkingSpree
   url: http://www.walkingspree.com/
   slogan: USB pedometer and tracking
@@ -1324,7 +1222,6 @@
   approved: true
   thumbnail: www.walkingspree.com-.png
 -
-  id: 103
   name: Yamaha BODiBEAT
   url: http://www.yamaha.com/bodibeat/
   slogan: Synchronizes your music to the movement of your workout
@@ -1340,7 +1237,6 @@
   approved: true
   thumbnail: www.yamaha.com-bodibeat.png
 -
-  id: 104
   name: FINIS Lap Track
   url: http://www.finisinc.com/P-105027/Lap-Track.aspx
   slogan: Underwater lap counter and timer
@@ -1356,7 +1252,6 @@
   approved: true
   thumbnail: www.finisinc.com-P-105027-Lap-Track.aspx.png
 -
-  id: 106
   name: 23andMe
   url: https://www.23andme.com/
   slogan: Genetics just got personal
@@ -1369,7 +1264,6 @@
   approved: true
   thumbnail: www.23andme.com-.png
 -
-  id: 107
   name: Snaptic
   url: http://snaptic.com/
   slogan: Smartphone apps that make you smarter
@@ -1382,7 +1276,6 @@
   approved: true
   thumbnail: snaptic.com-.png
 -
-  id: 109
   name: deCODEme
   url: http://www.decodeme.com/
   slogan: Your genes, your health, your data
@@ -1403,7 +1296,6 @@
   approved: true
   thumbnail: www.decodeme.com-.png
 -
-  id: 110
   name: ShifD
   url: http://www.shifd.com/
   slogan: Shift contents between your devices
@@ -1419,7 +1311,6 @@
   approved: true
   thumbnail: shifd.com-welcome.png
 -
-  id: 111
   name: TrixieTracker
   url: http://www.trixietracker.com/
   slogan: Baby tracker for the web and iPhone
@@ -1438,7 +1329,6 @@
   approved: true
   thumbnail: www.trixietracker.com-.png
 -
-  id: 112
   name: Withings
   url: http://www.withings.com/
   slogan: The WiFi Scale
@@ -1458,7 +1348,6 @@
   approved: true
   thumbnail: www.withings.com-.png
 -
-  id: 113
   name: Youw8
   url: http://www.youw8.com/en/open/
   slogan: Your internet body analyzer
@@ -1471,23 +1360,6 @@
   approved: true
   thumbnail: www.youw8.com-en-open.png
 -
-  id: 114
-  name: Graffito Data Project
-  url: http://www.graffito.org/
-  slogan: Places from your credit card statement OFX/QFX files
-  description: |-
-    The Graffito Data Project is a new concept about looking at what a credit card statement can be beyond just a bill.
-    We think credit card statements conveniently provide two ingredients to start telling a good story - time and place.
-    So we've started building a platform to let people collect, organize and share those compelling stories that may have otherwise been forgotten.
-  created_at: 2009-12-28 10:40:41
-  tags:
-    - location
-  platforms:
-    - website
-  approved: true
-  thumbnail: www.graffito.org-.png
--
-  id: 115
   name: HealthyWage
   url: http://healthywage.com/
   slogan: Wellness is valuable
@@ -1503,7 +1375,6 @@
   approved: true
   thumbnail: healthywage.com-.png
 -
-  id: 116
   name: HealthEngage
   url: http://www.healthengage.com/
   slogan: Diabetes and personal health applications
@@ -1517,7 +1388,6 @@
   approved: true
   thumbnail: www.healthengage.com-.png
 -
-  id: 117
   name: Kibotzer
   url: http://kibotzer.com/
   slogan: Tracks your progress toward your goals
@@ -1531,10 +1401,11 @@
     - goals
   platforms:
     - website
+    - ios
+    - android
   approved: true
   thumbnail: kibotzer.com-.png
 -
-  id: 118
   name: Microsoft HealthVault
   url: http://www.healthvault.com/
   slogan: Make more informed health decisions
@@ -1551,7 +1422,6 @@
   approved: true
   thumbnail: www.healthvault.com-.png
 -
-  id: 119
   name: MedHelp
   url: http://www.medhelp.org/
   slogan: Keep your health in check
@@ -1574,7 +1444,6 @@
   approved: true
   thumbnail: www.medhelp.org-.png
 -
-  id: 120
   name: LivingTime
   url: http://www.livingtime.com/
   slogan: Personal memory manager
@@ -1593,34 +1462,6 @@
   approved: true
   thumbnail: www.livingtime.com-.png
 -
-  id: 121
-  name: PedalBrain
-  url: http://en.pedalbrain.com/
-  slogan: A realtime cycling computer, training website, and coaching platform
-  description: Pedal Brain can be thought of as three integrated products. First, it's an iPod and iPhone ANT+ accessory. Second, it's a complete training log. Third, it's a coaching platform. Each of these products have been designed together and as such integrate perfectly well. There's no distinction between your workouts on the web and your workouts on the iPhone or iPod. Simply go for a ride and all your performance data is uploaded in realtime to the web where coaches, teammates and friends can see it (if you allow them to). There's no post workout data upload step with Pedal Brain. Similarly there's no need to copy your workouts onto paper and stuff in your jersey before heading out. It's already there on your iPhone or iPod.
-  created_at: 2009-12-29 05:36:32
-  tags:
-    - cycling
-  platforms:
-    - website
-    - ios
-  approved: true
-  thumbnail: en.pedalbrain.com-.png
--
-  id: 122
-  name: Rootein
-  url: http://rootein.com/
-  slogan: The fun and easy way to improve habits
-  description: Rootein lets you define habits and track progress as you go along. Mark the calendar everyday you get up early or hit the gym. Receive reminders so you can never say "I forgot". Get an instant picture of how you've been doing. Feel better!
-  created_at: 2009-12-29 05:44:33
-  tags:
-    - goals
-  platforms:
-    - website
-  approved: true
-  thumbnail: rootein.com-.png
--
-  id: 125
   name: FitClick
   url: http://www.fitclick.com/
   slogan: A social networking site for self-tracking
@@ -1638,7 +1479,6 @@
   approved: true
   thumbnail: www.fitclick.com-.png
 -
-  id: 126
   name: Klok
   url: http://klok.mcgraphix.com/klok/
   slogan: Personal time tracking made easy
@@ -1651,7 +1491,6 @@
   approved: true
   thumbnail: klok.mcgraphix.com-klok.png
 -
-  id: 127
   name: ManicTime
   url: http://www.manictime.com/
   slogan: Personal time management software
@@ -1665,11 +1504,10 @@
     - productivity
     - time management
   platforms:
-    - website
+    - desktop
   approved: true
   thumbnail: www.manictime.com-.png
 -
-  id: 128
   name: SlimTimer
   url: http://slimtimer.com/
   slogan: All your timesheet are belong to us.
@@ -1688,7 +1526,6 @@
   approved: true
   thumbnail: slimtimer.com-.png
 -
-  id: 129
   name: Project Hamster
   url: http://projecthamster.wordpress.com/
   slogan: Time tracking for the masses
@@ -1702,10 +1539,10 @@
     - time management
   platforms:
     - website
+    - linux
   approved: true
   thumbnail: projecthamster.wordpress.com-.png
 -
-  id: 130
   name: Lose It!
   url: http://www.loseit.com/
   slogan: Succeed at weight loss using your iPhone
@@ -1723,10 +1560,11 @@
     - weight
   platforms:
     - ios
+    - android
+    - website
   approved: true
   thumbnail: www.loseit.com-.png
 -
-  id: 131
   name: Pulse
   url: http://pulseapp.com/
   slogan: Monitor the heartbeat of your small business
@@ -1742,7 +1580,6 @@
   approved: true
   thumbnail: pulseapp.com-.png
 -
-  id: 132
   name: Rationalizer
   url: http://www.mirrorofemotions.com/
   slogan: Emotion awareness for online investors
@@ -1759,7 +1596,6 @@
   approved: true
   thumbnail: www.mirrorofemotions.com-.png
 -
-  id: 133
   name: RX Digita ADC II
   url: http://www.rxdigita.com/
   slogan: Smart products for smartphones
@@ -1772,56 +1608,6 @@
   approved: true
   thumbnail: www.rxdigita.com-.png
 -
-  id: 134
-  name: SeeMyWhere
-  url: http://seemywhere.com/
-  slogan: Share your location
-  description: |-
-    SeeMyWhere sends your mobile phone's location to a map and to Facebook in realtime. All it takes is a quick software download to your phone and you'll be ready to share your location with friends and family in minutes. You can view locations from your computer or your phone.
-    Want to see where your friends are? Invite them! After you sign up, you can import your contacts straight from Gmail, Hotmail, and other major email services.
-  created_at: 2009-12-31 12:32:22
-  tags:
-    - location
-  platforms:
-    - android
-    - ios
-  approved: true
-  thumbnail: seemywhere.com-.png
--
-  id: 135
-  name: MoodLog
-  url: http://moodlog.org/
-  slogan: Log your mood
-  description: |-
-    A moodlog records how you're feeling throughout a period in your life. Moodlog.org is a service that helps you track your moods. At any time, using email, web, SMS, or Twitter, you can send it a brief note describing how you feel. This note can be as short as "ok" or as long as you like. Later, you can come back and check the records. Maybe you'll notice some patterns.
-
-    You can also set up a schedule so Moodlog can send you an email or SMS to remind you to check in.
-  created_at: 2009-12-31 12:37:04
-  tags:
-    - mood
-  platforms:
-    - website
-  approved: true
-  thumbnail: moodlog.org-.png
--
-  id: 136
-  name: Spendly Touch
-  url: http://spendly.com/touch/
-  slogan: Simple income and expense tracking on iPhone
-  description: |-
-    Lets face it, tracking your incomes and expenses isn't fun. Spendly reduces the pain by keeping things simple. Tracking where your money comes from and where it goes is the first step to saving money. Spendly is also great for keeping track of your money on a trip or for a single type of transaction. For instance, track how much you spend on wine. The results may just scare you sober!
-
-    Using Spendly on a day-to-day basis not only simplifies tax time, it also lets you assess your finances at a glance. Open Spendly and you can quickly see if you're making money, or losing money. A green total means you're doing well, a red total means you need to stop and review your income and spending.
-  created_at: 2009-12-31 12:39:30
-  tags:
-    - finance
-  platforms:
-    - website
-    - ios
-  approved: true
-  thumbnail: spendly.com-touch.png
--
-  id: 137
   name: MoneyBook
   url: http://www.moneybookapp.com/
   slogan: Track and manage your finances on iPhone
@@ -1835,26 +1621,6 @@
   approved: true
   thumbnail: www.moneybookapp.com-.png
 -
-  id: 138
-  name: My Every Move
-  url: http://myeverymove.com/
-  slogan: Log your every move
-  description: |-
-    With My Every Move, you can create daily diary of all your travels automatically.
-    Using a small client installed on your smart phone, you can easily keep track of your every move!
-    Forgot where you were last Tuesday?
-    Simply refer to your My Every Move diary and view your log for that day.
-    My Every Move is a simple and secure way to help you build your location diary.
-  created_at: 2009-12-31 19:26:58
-  tags:
-    - travel
-  platforms:
-    - ios
-    - android
-  approved: true
-  thumbnail: myeverymove.com-.png
--
-  id: 139
   name: Philips DirectLife
   url: http://www.directlife.philips.com/
   slogan: Get everyone moving
@@ -1874,10 +1640,10 @@
     - exercise
   platforms:
     - website
+    - device
   approved: true
   thumbnail: www.directlife.philips.com-.png
 -
-  id: 140
   name: Gas Cubby
   url: http://appcubby.com/gas/
   slogan: Sensible car care
@@ -1890,7 +1656,6 @@
   approved: true
   thumbnail: appcubby.com-gas.png
 -
-  id: 141
   name: Trip Cubby
   url: http://appcubby.com/trip/
   slogan: Mileage log made simple
@@ -1906,25 +1671,6 @@
   approved: true
   thumbnail: appcubby.com-trip.png
 -
-  id: 142
-  name: Health Cubby
-  url: http://appcubby.com/health/
-  slogan: Social fitness
-  description: |-
-    Everyone knows what it takes to live a healthy life: eat well, exercise, and keep indulgences in check. So, why do so few of us actually do it? Motivation.
-
-    Health Cubby helps you actually do the things you know you should. You won't be incessantly tracking calories or counting every last repetition at the gym. Instead, Health Cubby helps you set simple, realistic goals and tracks your progress in achieving them.
-  created_at: 2010-01-01 19:03:33
-  tags:
-    - exercise
-    - food
-    - weight
-  platforms:
-    - ios
-  approved: true
-  thumbnail: appcubby.com-health.png
--
-  id: 144
   name: LastGraph
   url: http://lastgraph3.aeracode.org/
   slogan: Explore your Last.fm listening history
@@ -1943,29 +1689,6 @@
   approved: true
   thumbnail: lastgraph3.aeracode.org-.png
 -
-  id: 145
-  name: ZumeLife
-  url: http://zumelife.com/
-  slogan: Innovative tools for living well
-  description: |-
-    If you have a chronic illness, Zume Life frees you to live your life by making self-care activities easier.
-
-    Make your life easier today:
-    * Get timely reminders for all your health activities
-    * Easily record everything you need to track
-
-    Improve your health over time:
-    * Observe patterns and trends in your health
-    * Share easily with your caregivers
-  created_at: 2010-01-03 03:00:31
-  tags:
-    - health
-  platforms:
-    - website
-  approved: true
-  thumbnail: zumelife.com-.png
--
-  id: 146
   name: FitWatch
   url: http://www.fitwatch.com/
   slogan: Get the data, get the knowledge, get fit
@@ -1982,7 +1705,6 @@
   approved: true
   thumbnail: www.fitwatch.com-.png
 -
-  id: 147
   name: Disciplanner
   url: http://www.disciplanner.com/
   slogan: Long term goal management without micro-management
@@ -1996,7 +1718,6 @@
   approved: true
   thumbnail: www.disciplanner.com-.png
 -
-  id: 148
   name: Salud!
   url: http://salud.cc.gatech.edu/
   slogan: A platform for meeting your health and wellness goals
@@ -2009,10 +1730,9 @@
     - health
   platforms:
     - website
-  approved: true
+  approved: false
   thumbnail: salud.cc.gatech.edu-.png
 -
-  id: 149
   name: Goodreads
   url: http://www.goodreads.com/
   slogan: Track books you read
@@ -2025,7 +1745,6 @@
   approved: true
   thumbnail: www.goodreads.com-.png
 -
-  id: 150
   name: Normalisr
   url: http://www.normalisr.com/
   slogan: Time-based charts of your last.fm music data
@@ -2041,7 +1760,6 @@
   approved: true
   thumbnail: www.normalisr.com-.png
 -
-  id: 151
   name: WattVision
   url: http://www.wattvision.com/
   slogan: Your home energy use, live.
@@ -2056,10 +1774,11 @@
     - electricity
   platforms:
     - website
+    - ios
+    - android
   approved: true
   thumbnail: www.wattvision.com-.png
 -
-  id: 152
   name: LIFEmee
   url: http://www.lifemee.com/
   slogan: Store all of your information in one place
@@ -2070,10 +1789,9 @@
     - social web
   platforms:
     - website
-  approved: true
+  approved: false
   thumbnail: www.lifemee.com-.png
 -
-  id: 176
   name: DailyMile
   url: http://www.dailymile.com/
   slogan: A social training log for runners, triathletes, and cyclists.
@@ -2083,10 +1801,12 @@
     - exercise
   platforms:
     - website
+    - ios
+    - android
+    - device
   approved: true
   thumbnail: www.dailymile.com-.png
 -
-  id: 177
   name: PhysicsDiet
   url: http://www.physicsdiet.com/
   slogan: Chart your weight
@@ -2099,10 +1819,9 @@
     - weight
   platforms:
     - website
-  approved: true
+  approved: false
   thumbnail: www.physicsdiet.com-.png
 -
-  id: 178
   name: NutriMirror
   url: http://www.nutrimirror.com/
   slogan: Free food journal, exercise log, and diet analysis
@@ -2118,7 +1837,6 @@
   approved: true
   thumbnail: www.nutrimirror.com-.png
 -
-  id: 179
   name: 43Things
   url: http://www.43things.com/
   slogan: Maintain a list of your goals
@@ -2135,7 +1853,6 @@
   approved: true
   thumbnail: www.43things.com-.png
 -
-  id: 180
   name: BubbleTimer
   url: http://www.bubbletimer.com/
   slogan: Track how you spend your time
@@ -2148,7 +1865,6 @@
   approved: true
   thumbnail: www.bubbletimer.com-.png
 -
-  id: 181
   name: DailyDiary
   url: http://www.dailydiary.com/
   slogan: Journal all sorts of things about your life
@@ -2169,7 +1885,6 @@
   approved: true
   thumbnail: www.dailydiary.com-.png
 -
-  id: 182
   name: LibraryThing
   url: http://www.librarything.com/
   slogan: Catalog your books online
@@ -2182,7 +1897,6 @@
   approved: true
   thumbnail: www.librarything.com-.png
 -
-  id: 183
   name: Graphomatic
   url: http://graphomatic.net/
   slogan: Graph your life
@@ -2195,7 +1909,6 @@
   approved: true
   thumbnail: graphomatic.net-.png
 -
-  id: 184
   name: Symptom Journal
   url: http://www.symptomjournal.com/
   slogan: Track your symptoms.  Get Answers. Live Well.
@@ -2209,7 +1922,6 @@
   approved: true
   thumbnail: www.symptomjournal.com-.png
 -
-  id: 185
   name: miCoach
   url: http://www.adidas.com/us/micoach/
   slogan: Helps you achieve your physical fitness goals
@@ -2232,7 +1944,6 @@
   approved: true
   thumbnail: www.adidas.com-us-micoach.png
 -
-  id: 186
   name: Migraine Living
   url: http://www.migraineliving.com
   slogan: Track and report on all your migraine triggers
@@ -2245,7 +1956,6 @@
   approved: true
   thumbnail: www.migraineliving.com-.png
 -
-  id: 187
   name: Skimble
   url: http://www.skimble.com/
   slogan: Track your active life
@@ -2260,7 +1970,6 @@
   approved: true
   thumbnail: www.skimble.com-.png
 -
-  id: 188
   name: IOGraph
   url: http://iographica.com/
   slogan: Track your mouse cursor wherever it goes
@@ -2276,7 +1985,6 @@
   approved: true
   thumbnail: iographica.com-.png
 -
-  id: 189
   name: TallyZoo
   url: http://tallyzoo.com/
   slogan: If it's important to you, track it.
@@ -2298,7 +2006,6 @@
   approved: true
   thumbnail: tallyzoo.com-.png
 -
-  id: 190
   name: Dayta
   url: http://daytaapp.com/
   slogan: Track and reflect on everything about you
@@ -2320,7 +2027,6 @@
   approved: false
   thumbnail: daytaapp.com-.png
 -
-  id: 191
   name: 1DayLater
   url: http://1daylater.com/
   slogan: Keep track of your time, money and business miles
@@ -2342,7 +2048,6 @@
   approved: false
   thumbnail: 1daylater.com-.png
 -
-  id: 192
   name: LastHistory
   url: http://www.frederikseiffert.de/lasthistory/
   slogan: Visualizing Last.fm Listening Histories and Personal Streams
@@ -2363,7 +2068,6 @@
   approved: true
   thumbnail: frederikseiffert.de_lasthistory.png
 -
-  id: 193
   name: Eat.ly
   url: http://eat.ly
   slogan: Track, Share & Discover Great Food
@@ -2376,7 +2080,6 @@
   approved: false
   thumbnail: eat.ly_.png
 -
-  id: 226
   name: gottaFeeling
   url: http://gottafeeling.com/
   slogan: gottaFeeling?  Share it
@@ -2411,7 +2114,6 @@
   approved: true
   thumbnail: gottafeeling.com-.320.png
 -
-  id: 195
   name: Daily Tracker for the iPhone
   url: http://www.thedailytracker.com
   slogan: A personal organizer combining several utilities into one.
@@ -2444,7 +2146,6 @@
   approved: false
   thumbnail: thedailytracker.com-wordpress.png
 -
-  id: 196
   name: Readernaut
   url: http://readernaut.com
   slogan: The easiest way to share what you're reading with friends.
@@ -2457,7 +2158,6 @@
   approved: true
   thumbnail: readernaut.com.png
 -
-  id: 197
   name: Last Night's Check-ins
   url: http://lastnightscheckins.com
   slogan: Last Night's Check-ins is a painless way to keep a log of what you did when you were out based on your Foursquare check-ins.
@@ -2476,7 +2176,6 @@
   approved: false
   thumbnail: lastnightscheckins.com-.png
 -
-  id: 199
   name: MIO Watch
   url: http://www.miowatch.com/
   slogan: The watch that knows your heart rate
@@ -2495,7 +2194,6 @@
   approved: false
   thumbnail: www.miowatch.com-.png
 -
-  id: 200
   name: reQall
   url: http://www.reqall.com/
   slogan: Remember what's important to you with reQall
@@ -2513,7 +2211,6 @@
   approved: true
   thumbnail: www.reqall.com-.png
 -
-  id: 201
   name: NextFit
   url: http://www.nextfit.com/
   slogan: Go-anywhere personal trainer
@@ -2529,7 +2226,6 @@
   approved: false
   thumbnail: www.nextfit.com-.png
 -
-  id: 202
   name: BodyMedia
   url: http://www.bodymedia.com/
   slogan: A personal calorie management system
@@ -2542,7 +2238,6 @@
   approved: true
   thumbnail: bodybugg.com-.png
 -
-  id: 203
   name: Lifetick
   url: http://lifetick.com/
   slogan: Goal setting made simple
@@ -2556,7 +2251,6 @@
   approved: true
   thumbnail: lifetick.com-.png
 -
-  id: 204
   name: iPod nano
   url: http://www.apple.com/ipodnano/features/fitness.html
   slogan: iPod nano has a built-in pedometer
@@ -2569,7 +2263,6 @@
   approved: true
   thumbnail: www.apple.com-ipodnano-features-fitness.html.png
 -
-  id: 205
   name: Healthy Habits Coach
   url: http://glyph.stanford.edu/coach/
   slogan: Creating and sustaining health habits through social media
@@ -2582,7 +2275,6 @@
   approved: false
   thumbnail: glyph.stanford.edu-coach.png
 -
-  id: 206
   name: FoodPad Calorie Tracker
   url: http://www.lightbringersoftware.com/products/foodpad/
   slogan: The simplest way to track your calories on the iPhone
@@ -2595,7 +2287,6 @@
   approved: true
   thumbnail: www.lightbringersoftware.com-products-foodpad.png
 -
-  id: 207
   name: Momento iPhone App
   url: http://www.momentoapp.com/
   slogan: Diary writing for iPhone and iPod Touch
@@ -2619,7 +2310,6 @@
   approved: true
   thumbnail: www.momentoapp.com-.320x240.png
 -
-  id: 208
   name: Limits iPhone App
   url: http://www.juicycocktail.com/limits/limits.php
   slogan: Track everything in your life
@@ -2643,7 +2333,6 @@
   approved: true
   thumbnail: www.juicycocktail.com-limits-limits.php.320x240.png
 -
-  id: 209
   name: WhereDoYouGo
   url: http://www.wheredoyougo.net/
   slogan: Create a heat map of your Foursquare checkins
@@ -2656,7 +2345,6 @@
   approved: true
   thumbnail: www.wheredoyougo.net-.320x240.png
 -
-  id: 210
   name: ReadMore
   url: http://navel-labs.com/apps/readmore
   slogan: Track your reading habits
@@ -2669,7 +2357,6 @@
   approved: true
   thumbnail: navel-labs.com-apps-readmore.320x240.png
 -
-  id: 211
   name: WeightBot
   url: http://tapbots.com/software/weightbot/
   slogan: Track your weight
@@ -2682,7 +2369,6 @@
   approved: true
   thumbnail: tapbots.com-software-weightbot.320x240.png
 -
-  id: 212
   name: SleepCycle
   url: http://www.lexwarelabs.com/sleepcycle/
   slogan: Analyze your sleep pattern
@@ -2702,7 +2388,6 @@
   approved: true
   thumbnail: www.lexwarelabs.com-sleepcycle.320x240.png
 -
-  id: 225
   name: Chart Myself
   url: http://chartmyself.com
   slogan: Know yourself better than your doctor
@@ -2715,7 +2400,6 @@
   approved: true
   thumbnail: www.chartmyself.com-.320.png
 -
-  id: 214
   name: Daileez
   url: http://www.daileez.com/
   slogan: The first icon online diary & journal
@@ -2734,7 +2418,6 @@
   approved: true
   thumbnail: daileez.com-.320.png
 -
-  id: 215
   name: GoalsOnTrack
   url: http://www.goalsontrack.com
   slogan: Keep your goals on track and get things done.
@@ -2747,7 +2430,6 @@
   approved: true
   thumbnail: www.goalsontrack.com-.320.png
 -
-  id: 216
   name: MyMigraineJournal
   url: http://mymigrainejournal.com/
   slogan: Statistical analysis of your migraine triggers
@@ -2763,7 +2445,6 @@
   approved: true
   thumbnail: mymigrainejournal.com-.320.png
 -
-  id: 217
   name: LoungeLog
   url: http://www.loungelog.de/
   slogan: Track, Review and Share Any Kind of Media
@@ -2779,7 +2460,6 @@
   approved: false
   thumbnail: loungelog.de-.320.png
 -
-  id: 218
   name: Health Month
   url: http://healthmonth.com
   slogan: Live healthy, for fun.
@@ -2802,7 +2482,6 @@
   approved: true
   thumbnail: healthmonth.com-.320.png
 -
-  id: 220
   name: Choice by Choice
   url: http://logiccolony.com/choicebychoice/
   slogan: Achieve your goals - one choice at a time.
@@ -2821,7 +2500,6 @@
   approved: true
   thumbnail: logiccolony.com-choicebychoice.320.png
 -
-  id: 221
   name: FridgeGraph
   url: http://www.fridgegraph.com
   slogan: A free on-line service to make losing weight a bit more fun!
@@ -2839,7 +2517,6 @@
   approved: true
   thumbnail: fridgegraph.com-.320.png
 -
-  id: 223
   name: textWeight
   url: https://textweight.com
   slogan: A simple way to track your weight and see your progress
@@ -2854,7 +2531,6 @@
   approved: true
   thumbnail: textweight.com-.320.png
 -
-  id: 224
   name: Catch
   url: http://catch.com
   slogan: Capture what matters
@@ -2869,7 +2545,6 @@
   approved: false
   thumbnail: catch.com-.320.png
 -
-  id: 227
   name: Drinking Diary
   url: http://www.drinkingdiary.com/index.html
   slogan: Monitor how much alcohol you drink - and reduce it!
@@ -2882,7 +2557,6 @@
   approved: true
   thumbnail: www.drinkingdiary.com-index.html.320.png
 -
-  id: 228
   name: Duuble
   url: http://duuble.com
   slogan: It's your life.
@@ -2900,7 +2574,6 @@
   approved: false
   thumbnail: duuble.com-login.320.png
 -
-  id: 229
   name: SmashRun
   url: http://www.smashrun.com/
   slogan: Stats for runners
@@ -2913,7 +2586,6 @@
   approved: true
   thumbnail: smashrun.com-.320.png
 -
-  id: 230
   name: Fertility Friend iPhone app
   url: http://www.fertilityfriend.com/iphone/
   slogan: Easy tool to predict your menstrual cycle
@@ -2926,7 +2598,6 @@
   approved: true
   thumbnail: www.fertilityfriend.com-iphone.320.png
 -
-  id: 231
   name: GravityEight
   url: http://www.gravityeight.com/index.php/
   slogan: Achieve Balance & Wellbeing for Life
@@ -2947,7 +2618,6 @@
   approved: false
   thumbnail: www.gravityeight.com-index.php.320.png
 -
-  id: 232
   name: Health Tracking Network
   url: http://www.healthtracking.net/
   slogan: Monitor common illnesses and discover factors related to illness
@@ -2968,7 +2638,6 @@
   approved: true
   thumbnail: healthtracking.net-.320.png
 -
-  id: 234
   name: Dojo
   url: http://dojo.com
   slogan: Master yourself.
@@ -2980,7 +2649,6 @@
   approved: false
   thumbnail: dojo.com-320.png
 -
-  id: 235
   name: Foodspotting
   url: http://www.foodspotting.com/
   slogan: A visual guide to good food and where to find it.
@@ -2996,7 +2664,6 @@
   approved: true
   thumbnail: www.foodspotting.com-320.png
 -
-  id: 236
   name: i.strive.to
   url: http://i.strive.to
   slogan: strive for greatness with i.strive.to
@@ -3008,7 +2675,6 @@
   approved: true
   thumbnail: i.strive.to-320.png
 -
-  id: 238
   name: TagLog
   url: http://market.android.com/details?id=com.waterbear.taglog
   slogan: Probably the fastest way to log information on a handheld device.
@@ -3018,7 +2684,6 @@
   platforms:
     - website
 -
-  id: 239
   name: Candide Kemmler
   url: http://fluxtream.com
   slogan: Own your data and make sense of it, too
@@ -3031,7 +2696,6 @@
   platforms:
     - website
 -
-  id: 440
   name: MoodPanda
   url: http://moodpanda.com
   slogan: Interactive Mood Diary
@@ -3041,7 +2705,6 @@
   platforms:
     - website
 -
-  id: 441
   name: Shared Events Network
   url: http://sharedevents.net
   slogan: Live... log... learn...
@@ -3051,7 +2714,6 @@
   platforms:
     - website
 -
-  id: 442
   name: mappiness
   url: http://www.mappiness.org.uk
   slogan: mappiness maps happiness
@@ -3081,7 +2743,6 @@
   platforms:
     - website
 -
-  id: 443
   name: Uri Keren
   url: www.sleeprate.com
   slogan: We Know Sleep By Heart
@@ -3091,7 +2752,6 @@
   platforms:
     - website
 -
-  id: 445
   name: Renew SleepClock
   url: http://www.renewsleepclock.com/
   slogan: Wake up to a smarter way of sleeping
@@ -3111,7 +2771,6 @@
   platforms:
     - website
 -
-  id: 446
   name: Remember the milk
   url: rememberthemilk.com
   slogan: Remember The Milk makes managing tasks an enjoyable experience.
@@ -3121,7 +2780,6 @@
   platforms:
     - website
 -
-  id: 447
   name: Zenobase
   url: https://zenobase.com/
   slogan: Collect and analyze self-tracking data.
@@ -3131,7 +2789,6 @@
   platforms:
     - website
 -
-  id: 448
   name: Workaholic app
   url: http://itunes.apple.com/us/app/workaholic-app/id555260141?ls=1&mt=8
   slogan:
@@ -3146,7 +2803,6 @@
   platforms:
     - website
 -
-  id: 449
   name: Life Balance app
   url: http://itunes.apple.com/us/app/life-balance-app/id556310495?ls=1&mt=8
   slogan:
@@ -3161,7 +2817,6 @@
   platforms:
     - website
 -
-  id: 451
   name: OmniContext Personal Analytics
   url: http://www.omnicontext.org/
   slogan: Be You. See You.
@@ -3171,7 +2826,6 @@
   platforms:
     - website
 -
-  id: 873
   name: Truth about electronic cigarettes
   url: http://sharonbardavid.com/
   slogan: awdpodwe
@@ -3181,7 +2835,6 @@
   platforms:
     - website
 -
-  id: 667
   name: FoundMoney
   url: http://www.getfoundmoney.com/tracking-landing-page
   slogan: You're Richer Than You Think
@@ -3205,7 +2858,6 @@
   platforms:
     - website
 -
-  id: 702
   name: Codealike
   url: https://codealike.com/
   slogan: Powerful Metrics  for High Performance Developers
@@ -3218,7 +2870,6 @@
   platforms:
     - website
 -
-  id: 744
   name: Pain Diary CatchMyPain
   url: http://www.catchmypain.com/
   slogan: Visualize, Track and Understand Your Pain
@@ -3235,7 +2886,6 @@
   platforms:
     - website
 -
-  id: 772
   name: Keepzer
   url: www.keepzer.com
   slogan: A world that knows you
@@ -3248,7 +2898,6 @@
   platforms:
     - website
 -
-  id: 777
   name: surya wimla
   url: www.whatsapp.com
   slogan:
