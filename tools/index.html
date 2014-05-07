@@ -94,7 +94,7 @@ section: tools
           </li>
           {{for tags}}
             <li>
-              <a href="#" class="button" data-filter=".{{:id}}">{{:value}}</a>
+              <a href="#" class="button" data-filter=".{{:id}}" target="_blank">{{:value}}</a>
             </li>
           {{/for}}
         </ul>
@@ -108,5 +108,10 @@ section: tools
     <script src="/js/echo.min.js"></script>
     <script src="/js/jquery.dotdotdot.min.js"></script>
     <script src="/js/tools.js"></script>
+
+    <!-- ============================== -->
+    <!-- Analytics -->
+    <!-- ============================== -->
+    {% include analytics.html %}
   </body>
 </html>
