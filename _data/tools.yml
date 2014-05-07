@@ -992,7 +992,7 @@
     - finance
   platforms:
     - website
-  approved: true
+  approved: false
   thumbnail: www.wesabe.com-.png
 -
   name: The Daily Plate
