@@ -60,12 +60,12 @@ section: tools
     <div id="tools-frame">
       {% for tool in site.data.tools %}
         {% if tool.approved %}
-          <a class="tools-item
+          <a href="{{ tool.url }}" target="_blank"
+            class="tools-item
               {% for tag in tool.tags %}
                 {{ tag | replace:' ','-' | prepend:"tag-" }}
               {% endfor %}
-            "
-            href="{{ tool.url }}">
+            ">
             <img src="/img/blank.gif" data-echo="/img/thumbnails/{{ tool.thumbnail }}">
             <div class="tools-item-name">{{ tool.name }}</div>
             <div class="tools-item-platform">{{ tool.platforms | join:', ' }}</div>
@@ -94,7 +94,7 @@ section: tools
           </li>
           {{for tags}}
             <li>
-              <a href="#" class="button" data-filter=".{{:id}}" target="_blank">{{:value}}</a>
+              <a href="#" class="button" data-filter=".{{:id}}">{{:value}}</a>
             </li>
           {{/for}}
         </ul>
