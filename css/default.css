@@ -1,7 +1,9 @@
 html {
   -webkit-font-smoothing: antialiased;
+  height:100%;
 }
 body {
+  min-height:100%;
   line-height:1.75;
 }
 a,
@@ -240,17 +242,10 @@ footer {
     width:100%;
   }
 
-
 /*******************
- * Tools
+ * Collection header
  */
-#tools-body {
-  background-color:#eee;
-}
-/*******************
- * Tools header
- */
-#tools-header {
+#collection-header {
   position:fixed;
   top:0;
   left:0;
@@ -259,31 +254,38 @@ footer {
   box-shadow:0 1px 3px rgba(0,0,0,0.2);
   z-index:1000;
 }
-  #tools-header .navbar-default > .container {
+  #collection-header .navbar-default > .container {
     padding-right: 15px;
     padding-left: 15px;
     margin-right: auto;
     margin-left: 0;
   }
-  #tools-header .navbar-default > .container > .row {
+  #collection-header .navbar-default > .container > .row {
     border-bottom:0;
   }
 /*******************
- * Tools frame
+ * Collection frame
  */
-#tools-frame {
+#collection-frame {
+  position:absolute;
   box-sizing:border-box;
-  margin-top:60px;
-  margin-left:240px;
-  padding:10px;
+  padding:70px 10px 0 250px;
+  width:100%;
   min-height:100%;
+  background-color:#eee;
+}
+/******************
+ * Collection list
+ */
+#collection-list {
 }
 /*******************
- * Tools sidebar
+ * Collection sidebar
  */
-#tools-sidebar {
+#collection-sidebar {
   box-sizing:border-box;
   position:fixed;
+  z-index:10;
   top:60px;
   left:0;
   bottom:0;
@@ -292,24 +294,24 @@ footer {
   background-color:#fff;
   overflow-y:auto;
 }
-  #tools-sidebar ul {
+  #collection-sidebar ul {
     list-style:none;
     padding:0;
   }
-  #tools-sidebar ul > li {
+  #collection-sidebar ul > li {
     margin-bottom:1px;
   }
-  #tools-sidebar ul > li > a {
+  #collection-sidebar ul > li > a {
     display:block;
     padding:5px 5px;
     line-height:1em;
     font-size:12px;
   }
-  #tools-sidebar ul > li > a:first-letter {
+  #collection-sidebar ul > li > a:first-letter {
     text-transform:capitalize;
   }
-  #tools-sidebar ul > li > a:hover,
-  #tools-sidebar ul > li > a.active {
+  #collection-sidebar ul > li > a:hover,
+  #collection-sidebar ul > li > a.active {
     color:#fff;
     background-color:#44a9eb;
     text-decoration:none;
