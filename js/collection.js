@@ -40,29 +40,25 @@
             });
   }
 
+  // Document is ready. Prepare a bunch of stuff.
   $(document).ready(function () {
-    // Create Isotope layout.
-    $('#collection-list')
-      .isotope({
-        itemSelector: '.collection-item',
-        layoutMode: 'fitRows',
-        sortBy: 'created_at',
-        sortAscending: false
-      })
-      .isotope('on', 'layoutComplete',
-        function (isotopeInstance, laidOutItems) {
-          // Lazy load the images.
-          Echo.render();
-        }
-      );
+    // Initialize lazy loading of images.
+    Echo.init({
+      offset: 500,
+      throttle: 250
+    });
+
+    // Truncate text to fit
+    $('.tools-item-name, .tools-item-platform, .tools-item-slogan')
+      .dotdotdot({ debug: false });
 
     // Create tags list.
-    $.templates("#tmpl-tags-list")
-      .link(
-        '#collection-sidebar',
-        {
+    var tmpl = _.template($("#tmpl-tags-list").html());
+    $('#collection-sidebar')
+      .html(
+        tmpl({
           tags: getTagsList()
-        }
+        })
       );
 
     // Handle clicks on the tag list.
@@ -80,16 +76,27 @@
 
       return false;
     });
-
-    // Initialize lazy loading of images.
-    Echo.init({
-      offset: 500,
-      throttle: 250
-    });
-
-    // Dotdotdot
-    $('.tools-item-name, .tools-item-platform, .tools-item-slogan')
-      .dotdotdot({ debug: false });
   });
+
+  // Make functions available in global scope.
+  window.setupCollectionIsotope = function (isotopeProperties) {
+
+    // Create Isotope layout.
+    $('#collection-list')
+      .isotope(
+        _.defaults(isotopeProperties, {
+          itemSelector: '.collection-item',
+          layoutMode: 'fitRows',
+          sortBy: 'created_at',
+          sortAscending: false
+        })
+      )
+      .isotope('on', 'layoutComplete',
+        function (isotopeInstance, laidOutItems) {
+          // Lazy load the images.
+          Echo.render();
+        }
+      );
+  };
 
 }(window, jQuery, Echo));
