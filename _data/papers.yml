@@ -1,6 +1,31 @@
 -
+  type: dissertation
+  title: "Personal Informatics and Context: Using Context to Reveal Factors that Affect Behavior"
+  authors: Ian Li
+  year: 2011
+  publisher: Carnegie Mellon University
+  pdf: http://ianli.com/thesis/docs/dissertation.pdf
+  url: http://dl.acm.org/citation.cfm?id=2520311
+  tags:
+    - physical activity
+    - field study
+    - survey
+    - interviews
+-
+  type: journal
+  title: Using context to reveal factors that affect physical activity
+  authors: Ian Li, Anind K. Dey, Jodi Forlizzi
+  publisher: ACM Transactions on Computer Human Interaction, Volume 19 Issue 1, March 2012
+  year: 2012
+  pdf: http://www.personalinformatics.org/docs/papers/2012-ianli-tochi-physical-activity.pdf
+  url: http://dl.acm.org/citation.cfm?id=2147783.2147790
+  tags:
+    - physical activity
+    - field study
+    - mobile phone
+-
   title: A stage-based model of personal informatics systems
-  authors: Ian Li, Anind Dey, and Jodi Forlizzi
+  authors: Ian Li, Anind Dey, Jodi Forlizzi
   year: 2010
   publisher: Proceedings of CHI 2010
   pages: 557-566
@@ -13,7 +38,7 @@
     - quantified self
 -
   title: "Understanding My Data, Myself: Supporting Self-Reflection with Ubicomp Technologies"
-  authors: Ian Li, Anind Dey, and Jodi Forlizzi
+  authors: Ian Li, Anind Dey, Jodi Forlizzi
   publisher: Proceedings of Ubicomp 2011
   year: 2011
   pages: 405-414
@@ -25,7 +50,7 @@
     - self-reflection
 - 
   title: "Here's What I Did: Sharing and Reusing Web Activity with ActionShot"
-  authors: Ian Li, Jeffrey Nichols, Tessa Lau, Clemens Drews, and Allen Cypher
+  authors: Ian Li, Jeffrey Nichols, Tessa Lau, Clemens Drews, Allen Cypher
   publisher: Proceedings of CHI 2010
   year: 2010
   pages: 723-732
@@ -35,9 +60,9 @@
     - web activity
     - browser extension
     - automation
-- 
+-
   title: Using Visualizations to Increase Compliance in Experience Sampling
-  authors: Gary Hsieh, Ian Li, Anind Dey, Jodi Forlizzi, and Scott Hudson
+  authors: Gary Hsieh, Ian Li, Anind Dey, Jodi Forlizzi, Scott Hudson
   publisher: Proceedings of Ubicomp 2008
   year: 2008
   pages: 164-167
@@ -46,3 +71,119 @@
   tags:
     - visualizations
     - experience sampling
+-
+  title: The Design and Evaluation of Prototype Eco-Feedback Displays for Fixture-Level Water Usage Data
+  authors: Jon Froehlich, Leah Findlater, Marilyn Ostergren, Solai Ramanathan, Josh Peterson, Inness Wragg, Eric Larson, Fabia Fu, Mazhengmin Bai, Shwetak Patel, James Landay
+  publisher: Proceedings of CHI 2012
+  year: 2012
+  pdf: http://www.cs.umd.edu/~jonf/publications/Froehlich_TheDesignAndEvaluationOfPrototypeEcoFeedbackDisplaysForFixtureLevelWaterUsageData_CHI2012.pdf
+  url: http://dl.acm.org/citation.cfm?id=2208397
+  tags:
+    - eco-feedback
+    - water
+    - environmental hci
+-
+  type: dissertation
+  title: Sensing and Feedback of Everyday Activities to Promote Environmental Behaviors
+  authors: Jon Froehlich
+  publisher: University of Washington Doctoral Dissertation 2011
+  year: 2011
+  pdf: http://www.cs.umd.edu/~jonf/publications/Froehlich_SensingAndFeedbackOfEverydayActivitiesToPromoteEnvironmentalBehaviors_UWPhdDissertation2011.pdf
+  url: http://dl.acm.org/citation.cfm?id=2522178
+  tags:
+    - water
+    - transportation
+    - eco-feedback
+-
+  title: The Design of Eco-Feedback Technology
+  authors: Jon Froehlich, Leah Findlater, James Landay
+  publisher: Proceedings of CHI 2010
+  year: 2010
+  pdf: http://www.cs.umd.edu/~jonf/publications/Froehlich_TheDesignOfEcoFeedbackTechnology_CHI2010.pdf
+  url: http://dl.acm.org/citation.cfm?id=1753629
+  tags:
+    - eco-feedback
+    - environmental hci
+    - survey
+    - sustainability
+-
+  title: "UbiGreen: Investigating a Mobile Tool for Tracking and Supporting Green Transportation Habits"
+  authors: Jon Froehlich, Tawanna Dillahunt, Predrag Klasnja, Jennifer Mankoff, Sunny Consolvo, Beverly Harrison, James A. Landay
+  publisher: Proceedings of CHI 2009 
+  year: 2009
+  pdf: http://www.cs.umd.edu/~jonf/publications/Froehlich_UbiGreen-InvestigatingAMobileToolForTrackingAndSupportingGreenTransportationHabits_CHI2009.pdf
+  url: http://dl.acm.org/citation.cfm?id=1518701.1518861
+  tags:
+    - eco-feedback
+    - ambient display
+    - sensing
+    - sustainability
+-
+  title: "Flowers or a Robot Army?: Encouraging Awareness and Activity With Personal, Mobile Displays"
+  authors: Sunny Consolvo, Predrag Klasnja, David W. McDonald, Daniel Avrahami, Jon Froehlich, Louis LeGrand, Ryan Libby, Keith Mosher, James A. Landay
+  publisher: Proceedings of UbiComp 2008
+  year: 2008
+  pdf: http://dub.washington.edu/djangosite/media/papers/UbiComp188-consolvo.pdf
+  url: http://dl.acm.org/citation.cfm?id=1409635.1409644
+  tags:
+    - ambient display
+    - activity sensing
+    - field study
+    - persuasive technology
+    - physical activity
+-
+  title: Using Wearable Sensors and Real Time Inference to Understand Human Recall of Routine Activities
+  authors: Predrag Klasnja, Beverly L. Harrison, Louis LeGrand, Anthony LaMarca, Jon Froehlich, Scott E. Hudson
+  publisher: Proceedings of UbiComp 2008
+  pdf: http://dub.washington.edu/djangosite/media/papers/ubicomp233-klasnja.pdf
+  url: http://dl.acm.org/citation.cfm?id=1409656
+  year: 2008
+  tags:
+    - experience sampling
+    - activity sensing
+- 
+  title: "Activity Sensing in the Wild: A Field Trial of Ubifit Garden"
+  authors: Sunny Consolvo, David W. McDonald, Tammy Toscos, Mike Y. Chen, Jon Froehlich, Beverly Harrison, Predrag Klasnja, Anthony LaMarca, Louis LeGrand, Ryan Libby, Ian Smith, James A. Landay
+  publisher: Proceedings of CHI 2008
+  year: 2008
+  pdf: http://dub.washington.edu/djangosite/media/papers/tmp59GTQs.pdf
+  url: http://dl.acm.org/citation.cfm?id=1357335
+  tags: 
+    - activity sensing
+    - ambient display
+    - persuasive technology
+    - physical activity
+-
+  title: "MyExperience: A System for in Situ Tracing and Capturing of User Feedback on Mobile Phones"
+  authors: Jon Froehlich, Mike Y. Chen, Sunny Consolvo, Beverly Harrison, James A. Landay
+  publisher: Proceedings of MobiSys 2007
+  year: 2007
+  pdf: http://www.cs.umd.edu/~jonf/publications/Froehlich_MyExperience-ASystemForInSituTracingAndCapturingOfUserFeedbackOnMobilePhones_MobiSys2007.pdf
+  url: http://dl.acm.org/citation.cfm?id=1247670
+  tags:
+    - context-aware systems
+    - experience sampling 
+    - field study
+- 
+  type: journal
+  title: "Health Mashups: Presenting Statistical Patterns between Wellbeing Data and Context in Natural Language to Promote Behavior Change"
+  authors: Frank Bentley, Konrad Tollmar, Peter Stephenson, Laura Levy, Brian Jones, Scott Robertson, Ed Price, Richard Catrambone, Jeff Wilson
+  publisher: Transactions on Computer-Human Interaction (TOCHI), Volume 20 Issue 5, November 2013
+  year: 2013
+  pdf: http://web.mit.edu/bentley/www/papers/a30-bentley.pdf
+  url: http://dl.acm.org/citation.cfm?id=2533682.2503823
+  tags:
+    - health
+    - mashups
+-
+  title: Understanding quantified-selfers' practices in collecting and exploring personal data
+  authors: Eun Kyoung Choe, Nicole B. Lee, Bongshin Lee, Wanda Pratt, Julie A. Kientz
+  publisher: Proceedings of CHI 2014
+  year: 2014
+  pdf: http://students.washington.edu/eunky/download/CHI-2014-Choe-QuantifiedSelf.pdf
+  url: http://dl.acm.org/citation.cfm?id=2557372
+  tags:
+    - quantified self
+    - survey
+    - interviews
+

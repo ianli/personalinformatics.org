@@ -14,12 +14,33 @@ form_invite: Add information about a paper
           {{ tag | replace:' ','-' | prepend:"tag-" }}
         {% endfor %}
       ">
-      <a class="papers-item-title" href="{{ paper.pdf }}" target="_blank">{{ paper.title }}</a>
+      <div class="papers-item-download">
+        <div class="papers-item-type">
+          {% if paper.type %}
+            {{ paper.type }}
+          {% else %}
+            conference paper
+          {% endif %}
+        </div>
+        {% if paper.pdf %}
+          <a class="btn btn-default btn-sm" href="{{ paper.pdf }}" target="_blank">
+            <span class="glyphicon glyphicon-save"></span>
+          </a>
+        {% endif %}
+        {% if paper.url %}
+          <a class="btn btn-default btn-sm" href="{{ paper.url }}" target="_blank">
+            <span class="glyphicon glyphicon-globe"></span>
+          </a>
+        {% endif %}
+      </div>
+      <div class="papers-item-title">{{ paper.title }}</div>
       <div class="papers-item-year">({{ paper.year }})</div>
       <div class="papers-item-authors">{{ paper.authors }}</div>
       <div class="papers-item-publisher">
-        {{ paper.publisher }}
-        {% if paper.pages %}, {{ paper.pages }}{% endif %}
+        {{ paper.publisher }}{% if paper.pages %}, {{ paper.pages }}{% endif %}
+      </div>
+      <div class="papers-item-keywords">
+        keywords: {{ paper.tags | join:', ' }}
       </div>
     </div>
   {% endfor %}

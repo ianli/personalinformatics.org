@@ -269,7 +269,7 @@ footer {
 #collection-frame {
   position:absolute;
   box-sizing:border-box;
-  padding:70px 10px 0 250px;
+  padding:70px 10px 10px 250px;
   width:100%;
   min-height:100%;
   background-color:#eee;
@@ -377,11 +377,35 @@ a.tools-item {
  * Papers items
  */
 .papers-item {
-  padding:12px 15px;
+  padding:12px 15px 12px 96px;
   width:100%;
   background-color:#fff;
   border-bottom:1px solid #eee;
 }
+  .papers-item-download {
+    position:absolute;
+    top:0;
+    left:0;
+    padding:12px;
+    width:96px;
+  }
+    .papers-item-download > a {
+      /*display:block;*/
+      /*margin-bottom:5px;*/
+      /*padding:4px 5px;*/
+      /*line-height:1em;*/
+      /*border-radius:2px;*/
+      /*font-size:12px;*/
+      /*text-align:center;*/
+      border:none;
+      background-color:#eee;
+      color:#666;
+      /*text-decoration:none;*/
+    }
+    .papers-item-download > a:hover {
+      color:#fff;
+      background-color:#44a9eb;
+    }
   .papers-item-title {
     display:block;
     float:left;
@@ -405,4 +429,16 @@ a.tools-item {
   .papers-item-publisher {
     line-height:16px;
     font-size:12px;
+  }
+  .papers-item-keywords {
+    line-height:16px;
+    font-size:12px;
+    color:#999;
+  }
+  .papers-item-type {
+    padding-top:3px;
+    padding-bottom:11px;
+    line-height:11px;
+    font-size:11px;
+    color:#999;
   }
