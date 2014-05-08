@@ -1,0 +1,48 @@
+-
+  title: A stage-based model of personal informatics systems
+  authors: Ian Li, Anind Dey, and Jodi Forlizzi
+  year: 2010
+  publisher: Proceedings of CHI 2010
+  pages: 557-566
+  pdf: http://ianli.com/publications/2010-ianli-chi-stage-based-model.pdf
+  url: http://dl.acm.org/citation.cfm?id=1753326.1753409
+  tags:
+    - survey
+    - interviews
+    - model
+    - quantified self
+-
+  title: "Understanding My Data, Myself: Supporting Self-Reflection with Ubicomp Technologies"
+  authors: Ian Li, Anind Dey, and Jodi Forlizzi
+  publisher: Proceedings of Ubicomp 2011
+  year: 2011
+  pages: 405-414
+  pdf: http://ianli.com/publications/2011-ianli-ubicomp-understanding-my-data.pdf
+  url: http://dl.acm.org/citation.cfm?id=2030166
+  tags:
+    - survey
+    - ubicomp
+    - self-reflection
+- 
+  title: "Here's What I Did: Sharing and Reusing Web Activity with ActionShot"
+  authors: Ian Li, Jeffrey Nichols, Tessa Lau, Clemens Drews, and Allen Cypher
+  publisher: Proceedings of CHI 2010
+  year: 2010
+  pages: 723-732
+  pdf: http://ianli.com/publications/2010-ianli-chi-actionshot.pdf
+  url: http://dl.acm.org/citation.cfm?id=1753326.1753432
+  tags:
+    - web activity
+    - browser extension
+    - automation
+- 
+  title: Using Visualizations to Increase Compliance in Experience Sampling
+  authors: Gary Hsieh, Ian Li, Anind Dey, Jodi Forlizzi, and Scott Hudson
+  publisher: Proceedings of Ubicomp 2008
+  year: 2008
+  pages: 164-167
+  pdf: http://ianli.com/publications/2008-hsieh-ubicomp-using-visualizations.pdf
+  url: http://portal.acm.org/citation.cfm?id=1409635.1409657
+  tags:
+    - visualizations
+    - experience sampling

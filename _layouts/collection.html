@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Personal Informatics Tools</title>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+
+    <!-- Default CSS -->
+    <link rel="stylesheet" href="/css/default.css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Javascript -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+    <script src="http://www.jsviews.com/download/jsviews.min.js"></script>
+    <script src="/js/isotope.pkgd.min.js"></script>
+    <script src="/js/echo.min.js"></script>
+    <script src="/js/jquery.dotdotdot.min.js"></script>
+    <script src="/js/collection.js"></script>
+  </head>
+  <body>
+    <!-- ============================== -->
+    <!-- Facebook -->
+    <!-- ============================== -->
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=631937883543534";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+
+    <!-- ============================== -->
+    <!-- Header -->
+    <!-- ============================== -->
+    <header id="collection-header">
+      {% include navbar.html %}
+    </header>
+
+    <!-- ============================== -->
+    <!-- Sidebar -->
+    <!-- ============================== -->
+    <div id="collection-sidebar">
+    </div>
+
+    <!-- ============================== -->
+    <!-- Content -->
+    <!-- ============================== -->
+    <div id="collection-frame">
+      {{ content }}
+    </div>
+
+    <!-- ============================== -->
+    <!-- Template for tags list -->
+    <!-- ============================== -->
+    <script id="tmpl-tags-list" type="text/x-jsrender">
+      <p>
+        <a href="https://docs.google.com/forms/d/1O9fCBnfwkrqzG_WGKCbvOMkdrpAANhwtbOfaNQw8K14/viewform?usp=send_form" target="_blank">
+          Add information about a tool
+        </a>
+      </p>
+
+      <hr>
+
+      {% raw %}
+        <ul>
+          <li>
+            <a href="#" class="button active" data-filter="">All</a>
+          </li>
+          {{for tags}}
+            <li>
+              <a href="#" class="button" data-filter=".{{:id}}">{{:value}}</a>
+            </li>
+          {{/for}}
+        </ul>
+      {% endraw %}
+    </script>
+    
+    <!-- ============================== -->
+    <!-- Analytics -->
+    <!-- ============================== -->
+    {% include analytics.html %}
+  </body>
+</html>

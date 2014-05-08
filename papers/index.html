@@ -1,0 +1,20 @@
+---
+layout: collection
+section: papers
+---
+
+<div id="collection-list">
+  {% for paper in site.data.papers %}
+    <div
+      class="
+        collection-item
+        papers-item
+        {% for tag in paper.tags %}
+          {{ tag | replace:' ','-' | prepend:"tag-" }}
+        {% endfor %}
+      ">
+      <a href="{{ paper.pdf }}">{{ paper.title }}</a>
+      <span>{{ paper.authors }}</span>
+    </div>
+  {% endfor %}
+</div>
