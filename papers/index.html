@@ -1,20 +1,38 @@
 ---
 layout: collection
 section: papers
+form_url: https://docs.google.com/forms/d/1O9fCBnfwkrqzG_WGKCbvOMkdrpAANhwtbOfaNQw8K14/viewform?usp=send_form
+form_invite: Add information about a paper
 ---
 
 <div id="collection-list">
   {% for paper in site.data.papers %}
     <div
-      class="
-        collection-item
+      class="collection-item
         papers-item
         {% for tag in paper.tags %}
           {{ tag | replace:' ','-' | prepend:"tag-" }}
         {% endfor %}
       ">
-      <a href="{{ paper.pdf }}">{{ paper.title }}</a>
-      <span>{{ paper.authors }}</span>
+      <a class="papers-item-title" href="{{ paper.pdf }}" target="_blank">{{ paper.title }}</a>
+      <div class="papers-item-year">({{ paper.year }})</div>
+      <div class="papers-item-authors">{{ paper.authors }}</div>
+      <div class="papers-item-publisher">
+        {{ paper.publisher }}
+        {% if paper.pages %}, {{ paper.pages }}{% endif %}
+      </div>
     </div>
   {% endfor %}
 </div>
+
+<script>
+  $(document).ready(function () {
+    setupCollectionIsotope({
+      getSortData: {
+        year: '.papers-item-year',
+        authors: '.papers-item-authors'
+      },
+      sortBy: ['year', 'authors']
+    });
+  });
+</script>

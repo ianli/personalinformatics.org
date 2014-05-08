@@ -373,3 +373,36 @@ a.tools-item {
     line-height:14px;
     font-size:12px;
   }
+/******************
+ * Papers items
+ */
+.papers-item {
+  padding:12px 15px;
+  width:100%;
+  background-color:#fff;
+  border-bottom:1px solid #eee;
+}
+  .papers-item-title {
+    display:block;
+    float:left;
+    line-height:20px;
+    font-size:14px;
+    font-weight:bold;
+    color:#333;
+  }
+  .papers-item-year {
+    float:left;
+    margin-left:5px;
+    line-height:20px;
+    font-size:12px;
+    color:#999;
+  }
+  .papers-item-authors {
+    clear:both;
+    line-height:16px;
+    font-size:12px;
+  }
+  .papers-item-publisher {
+    line-height:16px;
+    font-size:12px;
+  }

@@ -7,7 +7,7 @@
     <title>Personal Informatics Tools</title>
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.1.1/css/bootstrap.min.css">
 
     <!-- Default CSS -->
     <link rel="stylesheet" href="/css/default.css">
@@ -21,8 +21,8 @@
 
     <!-- Javascript -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
-    <script src="http://www.jsviews.com/download/jsviews.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.1.1/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.6.0/underscore-min.js"></script>
     <script src="/js/isotope.pkgd.min.js"></script>
     <script src="/js/echo.min.js"></script>
     <script src="/js/jquery.dotdotdot.min.js"></script>
@@ -65,27 +65,26 @@
     <!-- ============================== -->
     <!-- Template for tags list -->
     <!-- ============================== -->
-    <script id="tmpl-tags-list" type="text/x-jsrender">
-      <p>
-        <a href="https://docs.google.com/forms/d/1O9fCBnfwkrqzG_WGKCbvOMkdrpAANhwtbOfaNQw8K14/viewform?usp=send_form" target="_blank">
-          Add information about a tool
-        </a>
-      </p>
+    <script id="tmpl-tags-list" type="text/template">
+      {% if page.form_url and page.form_invite %}
+        <p>
+          <a href="{{ page.form_url }}" target="_blank">
+            {{ page.form_invite }}
+          </a>
+        </p>
+        <hr>
+      {% endif %}
 
-      <hr>
-
-      {% raw %}
-        <ul>
+      <ul>
+        <li>
+          <a href="#" class="button active" data-filter="">All</a>
+        </li>
+        <% _.each(tags, function (tag) { %>
           <li>
-            <a href="#" class="button active" data-filter="">All</a>
+            <a href="#" class="button" data-filter=".<%= tag.id %>"><%= tag.value %></a>
           </li>
-          {{for tags}}
-            <li>
-              <a href="#" class="button" data-filter=".{{:id}}">{{:value}}</a>
-            </li>
-          {{/for}}
-        </ul>
-      {% endraw %}
+        <% }); %>
+      </ul>
     </script>
     
     <!-- ============================== -->

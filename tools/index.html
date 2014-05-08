@@ -1,6 +1,8 @@
 ---
 layout: collection
 section: tools
+form_url: https://docs.google.com/forms/d/1O9fCBnfwkrqzG_WGKCbvOMkdrpAANhwtbOfaNQw8K14/viewform?usp=send_form
+form_invite: Add information about a tool
 ---
 
 <div id="collection-list">
@@ -21,3 +23,15 @@ section: tools
     {% endif %}
   {% endfor %}
 </div>
+
+<script>
+  $(document).ready(function () {
+    setupCollectionIsotope({
+      getSortData: {
+        created_at: '.create_at',
+        authors: '.papers-item-authors'
+      },
+      sortBy: ['created_at']
+    });
+  });
+</script>
