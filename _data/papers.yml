@@ -7,22 +7,26 @@
   pdf: http://ianli.com/thesis/docs/dissertation.pdf
   url: http://dl.acm.org/citation.cfm?id=2520311
   tags:
-    - physical activity
     - field study
     - survey
     - interviews
+    - physical activity
+    - mobile phone
+    - system
 -
-  type: journal
   title: Using context to reveal factors that affect physical activity
   authors: Ian Li, Anind K. Dey, Jodi Forlizzi
-  publisher: ACM Transactions on Computer Human Interaction, Volume 19 Issue 1, March 2012
+  journal: ACM Transactions on Computer Human Interaction, Volume 19 Issue 1, March 2012
   year: 2012
   pdf: http://www.personalinformatics.org/docs/papers/2012-ianli-tochi-physical-activity.pdf
   url: http://dl.acm.org/citation.cfm?id=2147783.2147790
   tags:
-    - physical activity
     - field study
+    - survey
+    - interviews
+    - physical activity
     - mobile phone
+    - system
 -
   title: A stage-based model of personal informatics systems
   authors: Ian Li, Anind Dey, Jodi Forlizzi
@@ -34,8 +38,6 @@
   tags:
     - survey
     - interviews
-    - model
-    - quantified self
 -
   title: "Understanding My Data, Myself: Supporting Self-Reflection with Ubicomp Technologies"
   authors: Ian Li, Anind Dey, Jodi Forlizzi
@@ -45,9 +47,9 @@
   pdf: http://ianli.com/publications/2011-ianli-ubicomp-understanding-my-data.pdf
   url: http://dl.acm.org/citation.cfm?id=2030166
   tags:
+    - field study
     - survey
-    - ubicomp
-    - self-reflection
+    - interviews
 - 
   title: "Here's What I Did: Sharing and Reusing Web Activity with ActionShot"
   authors: Ian Li, Jeffrey Nichols, Tessa Lau, Clemens Drews, Allen Cypher
@@ -57,9 +59,9 @@
   pdf: http://ianli.com/publications/2010-ianli-chi-actionshot.pdf
   url: http://dl.acm.org/citation.cfm?id=1753326.1753432
   tags:
+    - lab study
+    - application
     - web activity
-    - browser extension
-    - automation
 -
   title: Using Visualizations to Increase Compliance in Experience Sampling
   authors: Gary Hsieh, Ian Li, Anind Dey, Jodi Forlizzi, Scott Hudson
@@ -69,8 +71,9 @@
   pdf: http://ianli.com/publications/2008-hsieh-ubicomp-using-visualizations.pdf
   url: http://portal.acm.org/citation.cfm?id=1409635.1409657
   tags:
-    - visualizations
+    - field study
     - experience sampling
+    - visualizations
 -
   title: The Design and Evaluation of Prototype Eco-Feedback Displays for Fixture-Level Water Usage Data
   authors: Jon Froehlich, Leah Findlater, Marilyn Ostergren, Solai Ramanathan, Josh Peterson, Inness Wragg, Eric Larson, Fabia Fu, Mazhengmin Bai, Shwetak Patel, James Landay
@@ -79,9 +82,9 @@
   pdf: http://www.cs.umd.edu/~jonf/publications/Froehlich_TheDesignAndEvaluationOfPrototypeEcoFeedbackDisplaysForFixtureLevelWaterUsageData_CHI2012.pdf
   url: http://dl.acm.org/citation.cfm?id=2208397
   tags:
-    - eco-feedback
-    - water
-    - environmental hci
+    - field study
+    - sustainability
+    - water usage
 -
   type: dissertation
   title: Sensing and Feedback of Everyday Activities to Promote Environmental Behaviors
@@ -91,9 +94,10 @@
   pdf: http://www.cs.umd.edu/~jonf/publications/Froehlich_SensingAndFeedbackOfEverydayActivitiesToPromoteEnvironmentalBehaviors_UWPhdDissertation2011.pdf
   url: http://dl.acm.org/citation.cfm?id=2522178
   tags:
-    - water
+    - field study
+    - water usage
     - transportation
-    - eco-feedback
+    - sustainability
 -
   title: The Design of Eco-Feedback Technology
   authors: Jon Froehlich, Leah Findlater, James Landay
@@ -102,10 +106,8 @@
   pdf: http://www.cs.umd.edu/~jonf/publications/Froehlich_TheDesignOfEcoFeedbackTechnology_CHI2010.pdf
   url: http://dl.acm.org/citation.cfm?id=1753629
   tags:
-    - eco-feedback
-    - environmental hci
-    - survey
     - sustainability
+    - literature survey
 -
   title: "UbiGreen: Investigating a Mobile Tool for Tracking and Supporting Green Transportation Habits"
   authors: Jon Froehlich, Tawanna Dillahunt, Predrag Klasnja, Jennifer Mankoff, Sunny Consolvo, Beverly Harrison, James A. Landay
@@ -114,10 +116,9 @@
   pdf: http://www.cs.umd.edu/~jonf/publications/Froehlich_UbiGreen-InvestigatingAMobileToolForTrackingAndSupportingGreenTransportationHabits_CHI2009.pdf
   url: http://dl.acm.org/citation.cfm?id=1518701.1518861
   tags:
-    - eco-feedback
-    - ambient display
-    - sensing
+    - field study
     - sustainability
+    - ambient display
 -
   title: "Flowers or a Robot Army?: Encouraging Awareness and Activity With Personal, Mobile Displays"
   authors: Sunny Consolvo, Predrag Klasnja, David W. McDonald, Daniel Avrahami, Jon Froehlich, Louis LeGrand, Ryan Libby, Keith Mosher, James A. Landay
@@ -126,10 +127,8 @@
   pdf: http://dub.washington.edu/djangosite/media/papers/UbiComp188-consolvo.pdf
   url: http://dl.acm.org/citation.cfm?id=1409635.1409644
   tags:
-    - ambient display
-    - activity sensing
     - field study
-    - persuasive technology
+    - ambient display
     - physical activity
 -
   title: Using Wearable Sensors and Real Time Inference to Understand Human Recall of Routine Activities
@@ -139,8 +138,10 @@
   url: http://dl.acm.org/citation.cfm?id=1409656
   year: 2008
   tags:
+    - field study
     - experience sampling
     - activity sensing
+    - sensors
 - 
   title: "Activity Sensing in the Wild: A Field Trial of Ubifit Garden"
   authors: Sunny Consolvo, David W. McDonald, Tammy Toscos, Mike Y. Chen, Jon Froehlich, Beverly Harrison, Predrag Klasnja, Anthony LaMarca, Louis LeGrand, Ryan Libby, Ian Smith, James A. Landay
@@ -149,10 +150,11 @@
   pdf: http://dub.washington.edu/djangosite/media/papers/tmp59GTQs.pdf
   url: http://dl.acm.org/citation.cfm?id=1357335
   tags: 
+    - field study
     - activity sensing
     - ambient display
-    - persuasive technology
     - physical activity
+    - mobile phone
 -
   title: "MyExperience: A System for in Situ Tracing and Capturing of User Feedback on Mobile Phones"
   authors: Jon Froehlich, Mike Y. Chen, Sunny Consolvo, Beverly Harrison, James A. Landay
@@ -161,20 +163,20 @@
   pdf: http://www.cs.umd.edu/~jonf/publications/Froehlich_MyExperience-ASystemForInSituTracingAndCapturingOfUserFeedbackOnMobilePhones_MobiSys2007.pdf
   url: http://dl.acm.org/citation.cfm?id=1247670
   tags:
-    - context-aware systems
     - experience sampling 
     - field study
+    - mobile phone
 - 
-  type: journal
   title: "Health Mashups: Presenting Statistical Patterns between Wellbeing Data and Context in Natural Language to Promote Behavior Change"
   authors: Frank Bentley, Konrad Tollmar, Peter Stephenson, Laura Levy, Brian Jones, Scott Robertson, Ed Price, Richard Catrambone, Jeff Wilson
-  publisher: Transactions on Computer-Human Interaction (TOCHI), Volume 20 Issue 5, November 2013
+  journal: Transactions on Computer-Human Interaction (TOCHI), Volume 20 Issue 5, November 2013
   year: 2013
   pdf: http://web.mit.edu/bentley/www/papers/a30-bentley.pdf
   url: http://dl.acm.org/citation.cfm?id=2533682.2503823
   tags:
+    - field study
+    - system
     - health
-    - mashups
 -
   title: Understanding quantified-selfers' practices in collecting and exploring personal data
   authors: Eun Kyoung Choe, Nicole B. Lee, Bongshin Lee, Wanda Pratt, Julie A. Kientz
@@ -183,7 +185,116 @@
   pdf: http://students.washington.edu/eunky/download/CHI-2014-Choe-QuantifiedSelf.pdf
   url: http://dl.acm.org/citation.cfm?id=2557372
   tags:
-    - quantified self
     - survey
     - interviews
+-
+  title: Effects of self-monitoring and feedback on residential electricity consumption.
+  authors: Richard A. Winett, Michael S. Neale, H. Cannon Grier
+  journal: Journal of applied behavior analysis, Vol. 12, No. 2
+  year: 1979
+  pages: 173-184
+  url: http://view.ncbi.nlm.nih.gov/pubmed/16795603
+  tags:
+    - field study
+    - sustainability
+    - energy consumption
+-
+  title: The Effect of Goal-Setting and Daily Electronic Feedback on In-Home Energy Use
+  authors: Jeannet van Houwelingen and Fred van Raaij
+  journal: The Journal of Consumer Research, Vol. 16, No. 1.
+  pages: 98-105
+  year: 1989
+  url: http://www.jstor.org/discover/10.2307/2489305?uid=2&uid=4&sid=21104130502513
+  tags:
+    - energy consumption
+    - field study
+    - sustainability
+-
+  authors: Cees J. Midden, Joanne F. Meter, Mieneke H. Weenig, Henk J. Zieverink
+  title: "Using feedback, reinforcement and information to reduce energy consumption in households: A field-experiment"
+  journal: Journal of Economic Psychology 3(1)
+  pages: 65–86
+  year: 1983
+  url: http://www.sciencedirect.com/science/article/pii/0167487083900582
+  tags:
+    - energy consumption
+    - field study
+    - sustainability
+-
+  title: When does introspection bear fruit? Self-reflection, self-insight, and interpersonal choices
+  authors: J. Gregory Hixon, William B. Swann, Jr.
+  journal: Journal of personality and social psychology, Vol. 64, No. 1. (January 1993)
+  year: 1993
+  pages: 35-43
+  url: http://www.ncbi.nlm.nih.gov/pubmed/8421251
+  pdf: http://homepage.psy.utexas.edu/HomePage/Faculty/Swann/docu/hixon_swann93.pdf
+  tags:
+    - self-reflection
+-
+  title: "Grafitter: leveraging social media for self reflection"
+  authors: Ian Li, Anind Dey, Jodi Forlizzi
+  magazine: Crossroads, Vol. 16, No. 2.
+  year: 2009
+  pages: 12-13
+  url: http://dl.acm.org/citation.cfm?id=1665997.1666001
+  pdf: http://ianli.com/publications/2009-ianli-crossroads-grafitter.pdf
+  tags:
+    - twitter
+    - visualizations
+-
+  authors: James J. Lin, Lena Mamykina, Silvia Lindtner, Gregory Delajoux, Henry B. Strub.
+  title: "Fish’n’Steps: Encouraging physical activity with an interactive computer game"
+  pages: 261–278
+  year: 2006
+  publisher: Proceedings of Ubicomp 2006
+  url: http://dl.acm.org/citation.cfm?id=2166299
+  pdf: http://luci.ics.uci.edu/websiteContent/weAreLuci/biographies/faculty/djp3/LocalCopy/LinJ2006.pdf
+  tags:
+    - physical activity
+    - ambient display
+-
+  authors: Lena Mamykina, Elizabeth D. Mynatt, David R. Kaufman
+  title: Investigating health management practices of individuals with diabetes
+  publisher: Proceedings of CHI 2006
+  pages: 927–936
+  year: 2006
+  url: http://dl.acm.org/citation.cfm?id=1124910 
+  pdf: https://research.cc.gatech.edu/ecl/drupal/sites/edu.ecl/files/C.61-Mamykina-CHI-2006.pdf
+  tags:
+    - diabetes
+-
+  title: Game Design Principles in Everyday Fitness Applications 
+  authors: Taj Campbell, Brian Ngo, James Fogarty
+  publisher: Proceedings of CSCW 2008
+  year: 2008
+  pages: 249-252
+  url: http://dl.acm.org/citation.cfm?id=1460563.1460603
+  pdf: https://homes.cs.washington.edu/~jfogarty/publications/cscw2008.pdf
+  tags:
+    - physical activity
+-
+  title: "MAHI: investigation of social scaffolding for reflective thinking in diabetes management"
+  authors:  Lena Mamykina, Elizabeth Mynatt, Patricia Davidson, Daniel Greenblatt
+  publisher: Proceedings of CHI 2008
+  year: 2008
+  pages: 477-486
+  url: http://dl.acm.org/citation.cfm?id=1357131
+  pdf: https://research.cc.gatech.edu/ecl/drupal/sites/edu.ecl/files/mamykina-MAHI-08-notes.pdf
+  tags:
+    - diabetes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
