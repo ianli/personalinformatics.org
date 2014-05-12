@@ -1,8 +1,8 @@
 ---
 layout: collection
 section: papers
-form_url: https://docs.google.com/forms/d/1O9fCBnfwkrqzG_WGKCbvOMkdrpAANhwtbOfaNQw8K14/viewform?usp=send_form
-form_invite: Add information about a paper
+form_url: https://docs.google.com/forms/d/1qIm0lc_eHlaFc4INzP6vK-u93RieHet1vslzf7snpng/viewform?usp=send_form
+form_invite: Add a paper, book, or article
 ---
 
 <div id="collection-list">
@@ -18,6 +18,10 @@ form_invite: Add information about a paper
         <div class="papers-item-type">
           {% if paper.type %}
             {{ paper.type }}
+          {% elsif paper.magazine %}
+            magazine
+          {% elsif paper.journal %}
+            journal
           {% else %}
             conference paper
           {% endif %}
@@ -37,6 +41,8 @@ form_invite: Add information about a paper
       <div class="papers-item-year">({{ paper.year }})</div>
       <div class="papers-item-authors">{{ paper.authors }}</div>
       <div class="papers-item-publisher">
+        {{ paper.magazine }}
+        {{ paper.journal }}
         {{ paper.publisher }}{% if paper.pages %}, {{ paper.pages }}{% endif %}
       </div>
       <div class="papers-item-keywords">
