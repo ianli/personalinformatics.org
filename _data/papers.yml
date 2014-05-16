@@ -31,7 +31,7 @@
   title: A stage-based model of personal informatics systems
   authors: Ian Li, Anind Dey, Jodi Forlizzi
   year: 2010
-  publisher: Proceedings of CHI 2010
+  conference: Proceedings of CHI 2010
   pages: 557-566
   pdf: http://ianli.com/publications/2010-ianli-chi-stage-based-model.pdf
   url: http://dl.acm.org/citation.cfm?id=1753326.1753409
@@ -41,7 +41,7 @@
 -
   title: "Understanding My Data, Myself: Supporting Self-Reflection with Ubicomp Technologies"
   authors: Ian Li, Anind Dey, Jodi Forlizzi
-  publisher: Proceedings of Ubicomp 2011
+  conference: Proceedings of Ubicomp 2011
   year: 2011
   pages: 405-414
   pdf: http://ianli.com/publications/2011-ianli-ubicomp-understanding-my-data.pdf
@@ -53,7 +53,7 @@
 - 
   title: "Here's What I Did: Sharing and Reusing Web Activity with ActionShot"
   authors: Ian Li, Jeffrey Nichols, Tessa Lau, Clemens Drews, Allen Cypher
-  publisher: Proceedings of CHI 2010
+  conference: Proceedings of CHI 2010
   year: 2010
   pages: 723-732
   pdf: http://ianli.com/publications/2010-ianli-chi-actionshot.pdf
@@ -65,7 +65,7 @@
 -
   title: Using Visualizations to Increase Compliance in Experience Sampling
   authors: Gary Hsieh, Ian Li, Anind Dey, Jodi Forlizzi, Scott Hudson
-  publisher: Proceedings of Ubicomp 2008
+  conference: Proceedings of Ubicomp 2008
   year: 2008
   pages: 164-167
   pdf: http://ianli.com/publications/2008-hsieh-ubicomp-using-visualizations.pdf
@@ -77,7 +77,7 @@
 -
   title: The Design and Evaluation of Prototype Eco-Feedback Displays for Fixture-Level Water Usage Data
   authors: Jon Froehlich, Leah Findlater, Marilyn Ostergren, Solai Ramanathan, Josh Peterson, Inness Wragg, Eric Larson, Fabia Fu, Mazhengmin Bai, Shwetak Patel, James Landay
-  publisher: Proceedings of CHI 2012
+  conference: Proceedings of CHI 2012
   year: 2012
   pdf: http://www.cs.umd.edu/~jonf/publications/Froehlich_TheDesignAndEvaluationOfPrototypeEcoFeedbackDisplaysForFixtureLevelWaterUsageData_CHI2012.pdf
   url: http://dl.acm.org/citation.cfm?id=2208397
@@ -101,17 +101,17 @@
 -
   title: The Design of Eco-Feedback Technology
   authors: Jon Froehlich, Leah Findlater, James Landay
-  publisher: Proceedings of CHI 2010
+  conference: Proceedings of CHI 2010
   year: 2010
   pdf: http://www.cs.umd.edu/~jonf/publications/Froehlich_TheDesignOfEcoFeedbackTechnology_CHI2010.pdf
   url: http://dl.acm.org/citation.cfm?id=1753629
   tags:
     - sustainability
-    - literature survey
+    - literature review
 -
   title: "UbiGreen: Investigating a Mobile Tool for Tracking and Supporting Green Transportation Habits"
   authors: Jon Froehlich, Tawanna Dillahunt, Predrag Klasnja, Jennifer Mankoff, Sunny Consolvo, Beverly Harrison, James A. Landay
-  publisher: Proceedings of CHI 2009 
+  conference: Proceedings of CHI 2009 
   year: 2009
   pdf: http://www.cs.umd.edu/~jonf/publications/Froehlich_UbiGreen-InvestigatingAMobileToolForTrackingAndSupportingGreenTransportationHabits_CHI2009.pdf
   url: http://dl.acm.org/citation.cfm?id=1518701.1518861
@@ -122,7 +122,7 @@
 -
   title: "Flowers or a Robot Army?: Encouraging Awareness and Activity With Personal, Mobile Displays"
   authors: Sunny Consolvo, Predrag Klasnja, David W. McDonald, Daniel Avrahami, Jon Froehlich, Louis LeGrand, Ryan Libby, Keith Mosher, James A. Landay
-  publisher: Proceedings of UbiComp 2008
+  conference: Proceedings of UbiComp 2008
   year: 2008
   pdf: http://dub.washington.edu/djangosite/media/papers/UbiComp188-consolvo.pdf
   url: http://dl.acm.org/citation.cfm?id=1409635.1409644
@@ -133,7 +133,7 @@
 -
   title: Using Wearable Sensors and Real Time Inference to Understand Human Recall of Routine Activities
   authors: Predrag Klasnja, Beverly L. Harrison, Louis LeGrand, Anthony LaMarca, Jon Froehlich, Scott E. Hudson
-  publisher: Proceedings of UbiComp 2008
+  conference: Proceedings of UbiComp 2008
   pdf: http://dub.washington.edu/djangosite/media/papers/ubicomp233-klasnja.pdf
   url: http://dl.acm.org/citation.cfm?id=1409656
   year: 2008
@@ -145,7 +145,7 @@
 - 
   title: "Activity Sensing in the Wild: A Field Trial of Ubifit Garden"
   authors: Sunny Consolvo, David W. McDonald, Tammy Toscos, Mike Y. Chen, Jon Froehlich, Beverly Harrison, Predrag Klasnja, Anthony LaMarca, Louis LeGrand, Ryan Libby, Ian Smith, James A. Landay
-  publisher: Proceedings of CHI 2008
+  conference: Proceedings of CHI 2008
   year: 2008
   pdf: http://dub.washington.edu/djangosite/media/papers/tmp59GTQs.pdf
   url: http://dl.acm.org/citation.cfm?id=1357335
@@ -158,7 +158,7 @@
 -
   title: "MyExperience: A System for in Situ Tracing and Capturing of User Feedback on Mobile Phones"
   authors: Jon Froehlich, Mike Y. Chen, Sunny Consolvo, Beverly Harrison, James A. Landay
-  publisher: Proceedings of MobiSys 2007
+  conference: Proceedings of MobiSys 2007
   year: 2007
   pdf: http://www.cs.umd.edu/~jonf/publications/Froehlich_MyExperience-ASystemForInSituTracingAndCapturingOfUserFeedbackOnMobilePhones_MobiSys2007.pdf
   url: http://dl.acm.org/citation.cfm?id=1247670
@@ -180,7 +180,7 @@
 -
   title: Understanding quantified-selfers' practices in collecting and exploring personal data
   authors: Eun Kyoung Choe, Nicole B. Lee, Bongshin Lee, Wanda Pratt, Julie A. Kientz
-  publisher: Proceedings of CHI 2014
+  conference: Proceedings of CHI 2014
   year: 2014
   pdf: http://students.washington.edu/eunky/download/CHI-2014-Choe-QuantifiedSelf.pdf
   url: http://dl.acm.org/citation.cfm?id=2557372
@@ -246,7 +246,7 @@
   title: "Fish’n’Steps: Encouraging physical activity with an interactive computer game"
   pages: 261–278
   year: 2006
-  publisher: Proceedings of Ubicomp 2006
+  conference: Proceedings of Ubicomp 2006
   url: http://dl.acm.org/citation.cfm?id=2166299
   pdf: http://luci.ics.uci.edu/websiteContent/weAreLuci/biographies/faculty/djp3/LocalCopy/LinJ2006.pdf
   tags:
@@ -255,7 +255,7 @@
 -
   authors: Lena Mamykina, Elizabeth D. Mynatt, David R. Kaufman
   title: Investigating health management practices of individuals with diabetes
-  publisher: Proceedings of CHI 2006
+  conference: Proceedings of CHI 2006
   pages: 927–936
   year: 2006
   url: http://dl.acm.org/citation.cfm?id=1124910 
@@ -265,7 +265,7 @@
 -
   title: Game Design Principles in Everyday Fitness Applications 
   authors: Taj Campbell, Brian Ngo, James Fogarty
-  publisher: Proceedings of CSCW 2008
+  conference: Proceedings of CSCW 2008
   year: 2008
   pages: 249-252
   url: http://dl.acm.org/citation.cfm?id=1460563.1460603
@@ -275,15 +275,40 @@
 -
   title: "MAHI: investigation of social scaffolding for reflective thinking in diabetes management"
   authors:  Lena Mamykina, Elizabeth Mynatt, Patricia Davidson, Daniel Greenblatt
-  publisher: Proceedings of CHI 2008
+  conference: Proceedings of CHI 2008
   year: 2008
   pages: 477-486
   url: http://dl.acm.org/citation.cfm?id=1357131
   pdf: https://research.cc.gatech.edu/ecl/drupal/sites/edu.ecl/files/mamykina-MAHI-08-notes.pdf
   tags:
     - diabetes
-
-
+-
+  title: "Self-Tracking, Social Media and Personal Health Records for Patient Empowered Self-Care"
+  authors: Margaret M. Hansen
+  year: 2012
+  journal: Nursing and Health Professions Faculty Research
+  url: http://repository.usfca.edu/nursing_fac/17
+  pdf: http://repository.usfca.edu/cgi/viewcontent.cgi?article=1016&context=nursing_fac
+  tags:
+    - literature review
+- 
+  title: "Participatory Personal Data: An Emerging Research Challenge for the Information Sciences"
+  authors: Katie Shilton
+  journal: Journal of the American Society for Information Science and Technology
+  year: 2012
+  pdf: http://terpconnect.umd.edu/~kshilton/ShiltonJASISTpreprint.pdf
+  url: http://onlinelibrary.wiley.com/doi/10.1002/asi.22655/abstract
+  tags:
+    - survey
+-
+  title: Applying quantified self approaches to support reflective learning
+  authors: "Verónica Rivera-Pelayo, Valentin Zacharias, Lars Müller, Simone Braun"
+  conference: Proceedings of LAK 2012
+  year: 2012
+  url: http://dl.acm.org/citation.cfm?id=2330631
+  tags:
+    - learning
+    - theoretical model
 
 
 
