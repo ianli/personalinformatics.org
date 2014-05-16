@@ -2906,3 +2906,26 @@
   tags: []
   platforms:
     - website
+-
+  name: InsideTracker
+  url: http://www.insidetracker.com
+  slogan: You can't manage what you don't measure
+  description: |-
+    A personalized health & science analytics company that uses biochemical and physiological markers to generate nutrition and lifestyle interventions.
+  tags:
+    - food
+    - exercise
+    - goals
+    - health
+  platforms:
+    - website
+  approved: true
+  thumbnail: insidetracker.png
+
+
+
+
+
+
+
+

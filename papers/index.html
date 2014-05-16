@@ -20,10 +20,16 @@ form_invite: Add a paper, book, or article
             {{ paper.type }}
           {% elsif paper.magazine %}
             magazine
+          {% elsif paper.newspaper %}
+            newspaper
           {% elsif paper.journal %}
             journal
+          {% elsif paper.book %}
+            book
+          {% elsif paper.conference %}
+            conference
           {% else %}
-            conference paper
+            conference
           {% endif %}
         </div>
         {% if paper.pdf %}
@@ -42,7 +48,10 @@ form_invite: Add a paper, book, or article
       <div class="papers-item-authors">{{ paper.authors }}</div>
       <div class="papers-item-publisher">
         {{ paper.magazine }}
+        {{ paper.newspaper }}
         {{ paper.journal }}
+        {{ paper.book }}
+        {{ paper.conference }}
         {{ paper.publisher }}{% if paper.pages %}, {{ paper.pages }}{% endif %}
       </div>
       <div class="papers-item-keywords">
