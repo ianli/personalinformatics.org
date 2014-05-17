@@ -41,7 +41,7 @@
 -
   title: "Understanding My Data, Myself: Supporting Self-Reflection with Ubicomp Technologies"
   authors: Ian Li, Anind Dey, Jodi Forlizzi
-  conference: Proceedings of Ubicomp 2011
+  conference: Proceedings of UbiComp 2011
   year: 2011
   pages: 405-414
   pdf: http://ianli.com/publications/2011-ianli-ubicomp-understanding-my-data.pdf
@@ -65,7 +65,7 @@
 -
   title: Using Visualizations to Increase Compliance in Experience Sampling
   authors: Gary Hsieh, Ian Li, Anind Dey, Jodi Forlizzi, Scott Hudson
-  conference: Proceedings of Ubicomp 2008
+  conference: Proceedings of UbiComp 2008
   year: 2008
   pages: 164-167
   pdf: http://ianli.com/publications/2008-hsieh-ubicomp-using-visualizations.pdf
@@ -246,7 +246,7 @@
   title: "Fish’n’Steps: Encouraging physical activity with an interactive computer game"
   pages: 261–278
   year: 2006
-  conference: Proceedings of Ubicomp 2006
+  conference: Proceedings of UbiComp 2006
   url: http://dl.acm.org/citation.cfm?id=2166299
   pdf: http://luci.ics.uci.edu/websiteContent/weAreLuci/biographies/faculty/djp3/LocalCopy/LinJ2006.pdf
   tags:
@@ -309,6 +309,16 @@
   tags:
     - learning
     - theoretical model
+-
+  title: "Fine-Grained Sharing of Sensed Personal Activity: A Value Sensitive Approach"
+  authors: Daniel A. Epstein, Alan Borning, James Fogarty
+  conference: Proceedings of UbiComp 2013
+  year: 2013
+  pdf: http://depstein.net/pubs/depstein_ubi13.pdf
+  url: http://dl.acm.org/citation.cfm?doid=2493432.2493433
+  tags:
+    - physical activity
+    - social sharing
 
 
 
