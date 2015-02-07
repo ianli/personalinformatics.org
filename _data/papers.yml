@@ -319,7 +319,93 @@
   tags:
     - physical activity
     - social sharing
-
+-
+  title: "An exploration into how physical activity data-recording devices could be used in computer-supported data investigations"
+  authors: Victor R. Lee, Maneksha DuMont
+  journal: International Journal of Computers for Mathematical Learning
+  year: 2010
+  pdf: http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1139&context=itls_facpub
+  url: http://link.springer.com/article/10.1007/s10758-010-9172-8
+  tags:
+    - high school
+    - physical activity
+    - education
+-
+  title: "The Quantified Self (QS) movement and some emerging opportunities for the educational technology field"
+  authors: Victor R. Lee
+  journal: Educational Technology
+  year: 2013
+  pdf: http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1480&context=itls_facpub
+  tags:
+    - education
+    - educational technology
+-
+  title: "Quantified recess: Design of an activity for elementary students involving analyses of their own movement data"
+  authors: Victor R. Lee
+  conference: Proceedings of the 12th International Conference on Interaction Design and Children 2013
+  year: 2013
+  pdf: http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1259&context=itls_facpub
+  url: http://dl.acm.org/citation.cfm?id=2485822
+  tags:
+    - recess
+    - elementary school
+    - education
+    - fitbit
+    - competition
+-
+  title: "Digital Physical Activity Data Collection and Use by Endurance Runners and Distance Cyclists"
+  authors: Victor R. Lee, Joel Drake
+  journal: Technology, Knowledge, and Learning
+  year: 2013
+  pdf: http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1489&context=itls_facpub
+  url: http://link.springer.com/article/10.1007/s10758-013-9203-3
+  tags:
+    - runners
+    - cyclists
+    - bicycling
+    - activity tracking
+    - sports
+-
+  title: " Taming data complexity in lifelogs: exploring visual cuts of personal informatics data"
+  authors: Daniel A. Epstein, Felicia Cordeiro, Elizabeth Bales, James Fogarty, Sean A. Munson
+  conference: DIS 2014
+  year: 2014
+  pdf: http://dub.washington.edu/djangosite/media/papers/taminglifelogs_dis2014.pdf
+  url: http://dl.acm.org/citation.cfm?id=2598558
+  tags:
+    - reflection
+    - routines
+    - physical activity
+    - sensing
+    - lifelogs
+    - self-monitoring
+    - self-tracking
+    - location
+-
+  title: "Implementation and evaluation of an incentivized Internet-mediated walking program for obese adults"
+  authors: Laura J. Damschroder, Ryan G Smith, Paul J. Resnick, Ananda Sen, Erin L Krupka, Caroline R Richardson
+  journal: Transl Behav Med.
+  year: 2014
+  pdf: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3830019/
+  url: http://dx.doi.org/10.1007%2Fs13142-013-0211-6
+  tags:
+    - obesity
+    - exercise
+    - prevention
+    - internet
+    - incentives
+-
+  title: "Motivational affordances and personality types in personal informatics"
+  authors: Yamini Karanam, Hanan Alotaibi, Leslie Filko, Elham Makhsoom, Lindsay Kaser, Stephen Voida
+  conference: UbiComp 2014 Adjunct
+  year: 2014
+  pdf: http://delivery.acm.org/10.1145/2640000/2638800/p79-karanam.pdf?ip=50.90.233.116&id=2638800&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&CFID=438541723&CFTOKEN=48721134&__acm__=1412776833_4935b98e697c908c3e388db921f4cbc9
+  url: http://dl.acm.org/citation.cfm?id=2638800
+  tags:
+    - persuasive mechanisms
+    - motivational affordances
+    - gamified self-trackers
+    - personality-based ui
 
 
 
